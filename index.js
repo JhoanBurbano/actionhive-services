@@ -13,7 +13,7 @@ app.get('/health', (req, res) => {
 });
 
 
-app.use('/', authMiddleware);
+// app.use('/', authMiddleware);
 
 
 app.get('/api/v1/hive-core-services', (req, res) => {});
