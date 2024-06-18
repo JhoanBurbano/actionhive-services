@@ -3,8 +3,8 @@ const bcrypt = require("bcrypt");
 
 const userSchema = new Schema({
   avatar: { type: Number, default: 0 },
-  firstName: { type: String, required: true },
-  lastName: { type: String, required: true },
+  firstname: { type: String, required: true },
+  lastname: { type: String, required: true },
   email: { type: String, required: true, unique: true },
   password: { type: String, required: true },
   role: { type: String, required: true },
@@ -21,4 +21,4 @@ userSchema.methods.comparePassword = async function (password) {
 };
 
 
-module.exports = model("User", userSchema);
+ module.exports = model("User", userSchema);

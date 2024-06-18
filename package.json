@@ -14,7 +14,9 @@
     "express": "^4.19.2",
     "jsonwebtoken": "^9.0.2",
     "mongodb": "^6.7.0",
-    "mongoose": "^8.4.3"
+    "mongoose": "^8.4.3",
+    "nodemailer": "^6.9.13",
+    "react-toastify": "^10.0.5"
   },
   "devDependencies": {
     "@types/bcrypt": "^5.0.2",

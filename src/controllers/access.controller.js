@@ -9,14 +9,20 @@ const login = async (req, res) => {
     };
 
 const register = async (req, res) => {
-    const { firstName, lastName, email, password, role } = req.body;
-    const response = await accessService.register(firstName, lastName, email, password, role);
+    const { firstname, lastname, email, password, rol } = req.body;
+    const response = await accessService.register(firstname, lastname, email, password, rol);
     res.status(response.status).json(response);
 };
 
 const verify = async (req, res) => {
     const { email, token } = req.body;
     const response = await accessService.verify(email, token);
+    res.status(response.status).json(response);
+}
+
+const verifyToken = async (req, res) => {
+    const { token } = req.body;
+    const response = await accessService.verifyToken(token);
     res.status(response.status).json(response);
 }
 
@@ -32,6 +38,12 @@ const forgot = async (req, res) => {
     res.status(response.status).json(response);
 }
 
+const change = async (req, res) => {
+    const { token, password } = req.body;
+    const response = await accessService.change(password, token);
+    res.status(response.status).json(response);
+}
+
 const logout = async (req, res) => {
     const { email } = req.body;
     const response = await accessService.logout(email);
@@ -42,7 +54,9 @@ module.exports = {
     login,
     register,
     verify,
+    verifyToken,
     resend,
     forgot,
     logout,
+    change
 };

@@ -4,13 +4,13 @@ const mapToUserResponse = (user, token) => {
         user: {
             profile: {
                 email: user.email,
-                name: user.firstName,
-                lastName: user.lastName,
-                role: user.role,
+                firstname: user.firstname,
+                lastname: user.lastname,
+                rol: user.role,
             },
             avatar: {
                 url: user.avatar.url,
-                initials: (user.firstName[0] + user.lastName[0]).toUpperCase(),
+                initials: (user.firstname[0] + user.lastname[0]).toUpperCase(),
             },
             },
         token
