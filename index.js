@@ -13,6 +13,9 @@ app.get('/health', (req, res) => {
 });
 
 
+require('./src/services/mongo.service.js');
+
+
 // app.use('/', authMiddleware);
 
 
