@@ -15,20 +15,8 @@ app.get('/health', (req, res) => {
 
 require('./src/services/mongo.service.js');
 
+require('./src/routes/index.js')(app);
 
-// app.use('/', authMiddleware);
-
-
-app.get('/api/v1/hive-core-services', (req, res) => {});
-
-
-app.post('/api/v1/hive-core-services', (req, res) => {});
-
-
-app.put('/api/v1/hive-core-services', (req, res) => {});
-
-
-app.delete('/api/v1/hive-core-services', (req, res) => {});
 
 
 app.listen(3000, () => {

@@ -1,6 +1,6 @@
 // middleware de authenticacion
 
-const jwt = require('json-web-token');
+const jwt = require('jsonwebtoken');
 const config = require('../config');
 const User = require('../models/user.model.js');
 

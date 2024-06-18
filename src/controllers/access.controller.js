@@ -1,7 +1,6 @@
 
-const { AccessService } = require('../services');
+const accessService = require('../services/access.service');
 
-const accessService = new AccessService();
 
 const login = async (req, res) => {
     const { email, password } = req.body;

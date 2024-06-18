@@ -8,3 +8,5 @@ router.post('/verify', accessController.verify);
 router.post('/resend', accessController.resend);
 router.post('/forgot', accessController.forgot);
 router.post('/logout', accessController.logout);
+
+module.exports = router;
