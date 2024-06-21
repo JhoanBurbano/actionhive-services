@@ -1,4 +1,4 @@
-import { Schema, model } from "mongoose";
+const { Schema, model } = require("mongoose");
 
 // export interface IProject {
 //   projectName?: string;
@@ -50,6 +50,8 @@ const projectSchema = new Schema({
   isActive: { type: Boolean, default: true },
   projectImages: [{ type: String, default: [] }],
   cluster: { type: Number, default: -1 },
+  representant: { type: Schema.Types.ObjectId, ref: "User", default: null},
+  team: [{ type: Schema.Types.ObjectId, ref: "User" , default: []}],
 });
 
 // const Project = model<IProject>("Project", projectSchema);
