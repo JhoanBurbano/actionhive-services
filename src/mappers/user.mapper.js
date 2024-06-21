@@ -1,5 +1,4 @@
 const mapToUserResponse = (user, token) => {
-    console.log(user);
     return {
         user: {
             profile: {

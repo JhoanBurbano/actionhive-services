@@ -9,9 +9,9 @@ const login = async (email, passwword) => {
     try {
         const user = await User.findOne({ email });
         if (!user) return { status: 404, message: 'User not found' };
-        if (!user.isActive) return { status: 401, message: 'User not active' };
+        if (!user.isActive) return { status: 403, message: 'User not active' };
         const match = await bcrypt.compare(passwword, user.password);
-        if (!match) return { status: 401, message: 'Invalid password' };
+        if (!match) return { status: 403, message: 'Invalid password' };
         const token = jwt.sign({ id: user._id }, secret, { expiresIn: '24h' });
         return { status: 200, message: 'Login success', data: mapToUserResponse(user, token)};
     } catch (error) {
@@ -40,7 +40,7 @@ const verify = async (email, token) => {
         if (!user) return { status: 404, message: 'User not found' };
         if (user.isActive) return { status: 400, message: 'User already active' };
         const payload = jwt.verify(token, secret);
-        if (payload.id !== user._id) return { status: 401, message: 'Invalid token' };
+        if (payload.id !== user._id) return { status: 403, message: 'Invalid token' };
         user.isActive = true;
         await user.save();
         return { status: 200, message: 'User verified' };
@@ -53,7 +53,7 @@ const verify = async (email, token) => {
 const verifyToken = async (token) => {
     try {
         const payload = jwt.verify(token, secret);
-        if (!payload) return { status: 401, message: 'Invalid token' };
+        if (!payload) return { status: 403, message: 'Invalid token' };
         const user = await User.findById(payload.id);
         if (!user) return { status: 404, message: 'User not found' };
         if (!user.isActive) return { status: 400, message: 'User not active' };
@@ -99,7 +99,7 @@ const reset = async (email, token, password) => {
         });
         if (!user) return { status: 404, message: 'User not found' };
         const payload = jwt.verify(token, secret);
-        if (payload.id !== user._id) return { status: 401, message: 'Invalid token' };
+        if (payload.id !== user._id) return { status: 403, message: 'Invalid token' };
         const hash = await bcrypt.hash(password, 10);
         user.password = hash;
         await user.save();
@@ -113,7 +113,7 @@ const reset = async (email, token, password) => {
 const change = async ( password, token) => {
     try {
         const payload = jwt.verify(token, secret);
-        if (!payload) return { status: 401, message: 'Invalid token' };
+        if (!payload) return { status: 403, message: 'Invalid token' };
 
         const hash = await bcrypt.hash(password, 10);
         const user = await User.findByIdAndUpdate(payload.id, { password: hash });
