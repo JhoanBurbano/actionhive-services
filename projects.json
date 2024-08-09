@@ -1,0 +1,4652 @@
+[
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f95d0",
+    "projectName": "Desarrollo de un sistema para medir la concentración de fenol en agua destilada mediante el uso de un biosensor",
+    "projectCategory": "Medicina",
+    "fundingCap": 24398547,
+    "mechatronicComponents": [
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Otra",
+    "hasAI": true,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Ing. Biomédicos"
+    ],
+    "resourceOptimization": [
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Láser",
+      "Prototipado Rápido"
+    ],
+    "developmentStatus": 0.24,
+    "riskLevel": "Bajo",
+    "projectObjective": "Desarrollo de un sistema de medición de concentración de fenol en agua mediante biosensor",
+    "rewardType": [
+      "Reconocimiento en la industria"
+    ],
+    "returnPeriod": 4,
+    "competitiveLandscape": [
+      "Diferenciación a través de tecnología única"
+    ],
+    "description": "Desarrollo de un sistema de medición de la concentración de fenol en agua destilada utilizando un biosensor, permitiendo una detección rápida y precisa de contaminantes químicos para el monitoreo y control de la calidad del agua.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 1,
+    "team": [
+      "66aad2e490c5f7e232582ffe"
+    ],
+    "representant": "66aad2e490c5f7e232582ffe"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f95ce",
+    "projectName": "Análisis de nuevos índices de las señales electrocardiográficas y de flujo respiratorio para predecir el éxito o fracaso del proceso de extubación de pacientes asistidos por ventilación mecánica",
+    "projectCategory": "Industrial",
+    "fundingCap": 43855315,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores"
+    ],
+    "controlPlatforms": [
+      "PLC",
+      "Hardware Open"
+    ],
+    "designMethodology": "Diseño Mecatrónico",
+    "hasAI": true,
+    "collaborators": [
+      "Ing. de Control (Automáticos)",
+      "Ing. Electrónicos"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Láser",
+      "Metalurgia"
+    ],
+    "developmentStatus": 0.55,
+    "riskLevel": "Alto",
+    "projectObjective": "Análisis de señales para predecir el éxito o fracaso del proceso de extubación",
+    "rewardType": [
+      "Participación en las ganancias"
+    ],
+    "returnPeriod": 3,
+    "competitiveLandscape": [
+      "Mejora en la eficiencia comparada con competidores"
+    ],
+    "description": "Investigación y análisis de nuevos índices de las señales electrocardiográficas y de flujo respiratorio con el objetivo de predecir el éxito o fracaso del proceso de extubación en pacientes asistidos por ventilación mecánica.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 0,
+    "team": [
+      "66aad2e590c5f7e232583012"
+    ],
+    "representant": "66aad2e590c5f7e232583012"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f95d3",
+    "projectName": "Rehabilitación del sistema de detección de gas y fuego de terminal de distribución de gas licuado topolobampo",
+    "projectCategory": "Medicina",
+    "fundingCap": 42844246,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Hardware Open"
+    ],
+    "designMethodology": "Metodología V",
+    "hasAI": true,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Ing. Biomédicos"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Prototipado Rápido"
+    ],
+    "developmentStatus": 0.63,
+    "riskLevel": "Bajo",
+    "projectObjective": "Rehabilitación del sistema de detección de gas y fuego",
+    "rewardType": [
+      "Reconocimiento en la industria"
+    ],
+    "returnPeriod": 4,
+    "competitiveLandscape": [
+      "Diferenciación a través de tecnología única"
+    ],
+    "description": "Rehabilitación del sistema de detección de gas y fuego en la terminal de distribución de gas licuado Topolobampo para garantizar la seguridad y prevenir accidentes.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 0,
+    "team": [
+      "66aad2e890c5f7e232583042"
+    ],
+    "representant": "66aad2e890c5f7e232583042"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f95d7",
+    "projectName": "Desarrollo de una herramienta para desprendimiento de granos de café",
+    "projectCategory": "Agricultura",
+    "fundingCap": 22301761,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Diseño Mecatrónico",
+    "hasAI": false,
+    "collaborators": [
+      "Ing. Agrónomos",
+      "Ing. Electrónicos"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Prototipado Rápido"
+    ],
+    "developmentStatus": 0.36,
+    "riskLevel": "Moderado",
+    "projectObjective": "Desarrollo de una herramienta para desprendimiento de granos de café",
+    "rewardType": [
+      "Producto final del proyecto"
+    ],
+    "returnPeriod": 2,
+    "competitiveLandscape": [
+      "Diferenciación a través de tecnología única"
+    ],
+    "description": "Diseño y fabricación de una herramienta especializada para el desprendimiento de granos de café, facilitando el proceso de poscosecha y mejorando la eficiencia en la preparación del café para su comercialización.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 1,
+    "team": [
+      "66aad2e690c5f7e232583024"
+    ],
+    "representant": "66aad2e690c5f7e232583024"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f95e0",
+    "projectName": "Diseño de un sistema de control para un helicóptero de tres grados de libertad (3gdl)",
+    "projectCategory": "Industria 4.0",
+    "fundingCap": 22696060,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "PLC",
+      "Arduino"
+    ],
+    "designMethodology": "Metodología Hardware-Software",
+    "hasAI": true,
+    "collaborators": [
+      "Ing. de Control (Automáticos)",
+      "Ing. Electrónicos",
+      "Ing. Industriales"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Láser",
+      "Metalurgia"
+    ],
+    "developmentStatus": 0.02,
+    "riskLevel": "Moderado",
+    "projectObjective": "Diseño de un sistema de control para helicóptero de tres grados de libertad",
+    "rewardType": [
+      "Participación en las ganancias"
+    ],
+    "returnPeriod": 2,
+    "competitiveLandscape": [
+      "Enfoque en la calidad del producto"
+    ],
+    "description": "Desarrollo de un sistema de control especializado para un helicóptero de tres grados de libertad, permitiendo un vuelo estable y seguro en diversas condiciones operativas y aplicaciones específicas.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 1,
+    "team": [
+      "66aad2e690c5f7e232583022"
+    ],
+    "representant": "66aad2e690c5f7e232583022"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f95e1",
+    "projectName": "Diseño Construcción y Adaptación de Prótesis Inteligentes con piel artificial sensible de miembros superior muñeca-mano e inferior tobillo-pie de cada una de las extremidades para una niña con malformaciones congénitas de la ciudad Cúcuta en el Departamento Norte de Santander",
+    "projectCategory": "Educación",
+    "fundingCap": 43431646,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Raspberry Pi",
+      "PLC"
+    ],
+    "designMethodology": "Metodología Hardware-Software",
+    "hasAI": true,
+    "collaborators": [
+      "Ing. de Sistemas",
+      "Ing. Electrónicos",
+      "Ing. Mecatrónicos"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Láser"
+    ],
+    "developmentStatus": 0.24,
+    "riskLevel": "Moderado",
+    "projectObjective": "Diseño y adaptación de prótesis inteligentes para una niña con malformaciones congénitas",
+    "rewardType": [
+      "Reconocimiento en la industria"
+    ],
+    "returnPeriod": 3,
+    "competitiveLandscape": [
+      "Innovación en la enseñanza"
+    ],
+    "description": "Diseño, construcción y adaptación de prótesis inteligentes con piel artificial sensible para cada una de las extremidades de una niña con malformaciones congénitas, con el objetivo de mejorar su movilidad y calidad de vida.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 0,
+    "team": [
+      "66aad2e790c5f7e23258302c"
+    ],
+    "representant": "66aad2e790c5f7e23258302c"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f95e2",
+    "projectName": "Diseño de algoritmo de detección de zonas de calor y clasificación de clientes según género y edad en el sector de retail",
+    "projectCategory": "Energía",
+    "fundingCap": 47745878,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Diseño Mecatrónico",
+    "hasAI": false,
+    "collaborators": [
+      "Ing. Electrónicos",
+      "Ing. de Energías Renovables"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Láser",
+      "Prototipado Rápido"
+    ],
+    "developmentStatus": 0.84,
+    "riskLevel": "Moderado",
+    "projectObjective": "Desarrollo de un algoritmo de detección y clasificación de clientes",
+    "rewardType": [
+      "Participación en Beneficios"
+    ],
+    "returnPeriod": 4,
+    "competitiveLandscape": [
+      "Sostenibilidad en la generación de energía"
+    ],
+    "description": "Desarrollo de un algoritmo de detección de zonas de calor y clasificación de clientes según género y edad en el sector de retail, utilizando técnicas de visión artificial para mejorar la experiencia de compra y la segmentación de mercado.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 0,
+    "team": [
+      "66aad2e690c5f7e23258302a"
+    ],
+    "representant": "66aad2e690c5f7e23258302a"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f95e4",
+    "projectName": "Mecanismo tipo efector final para rehabilitación de movilidad",
+    "projectCategory": "Medio Ambiente",
+    "fundingCap": 14742614,
+    "mechatronicComponents": [
+      "Sensores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Metodología V",
+    "hasAI": true,
+    "collaborators": [
+      "Ing. Electrónicos",
+      "Ing. Ambientales"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Láser"
+    ],
+    "developmentStatus": 0.92,
+    "riskLevel": "Moderado",
+    "projectObjective": "Desarrollo de un mecanismo efector final para rehabilitación de movilidad",
+    "rewardType": [
+      "Reconocimiento en la industria"
+    ],
+    "returnPeriod": 3,
+    "competitiveLandscape": [
+      "Enfoque en la sostenibilidad ambiental"
+    ],
+    "description": "Diseño y desarrollo de un mecanismo tipo efector final destinado a la rehabilitación de la movilidad, facilitando la recuperación de la función motora en pacientes con discapacidades físicas.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 1,
+    "team": [
+      "66aad2e590c5f7e232583014"
+    ],
+    "representant": "66aad2e590c5f7e232583014"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f95e6",
+    "projectName": "Máquina automatizada para el proceso de templado de chocolate",
+    "projectCategory": "Medicina",
+    "fundingCap": 18678600,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Metodología Hardware-Software",
+    "hasAI": true,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Ing. Biomédicos"
+    ],
+    "resourceOptimization": [
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Láser"
+    ],
+    "developmentStatus": 0.13,
+    "riskLevel": "Bajo",
+    "projectObjective": "Desarrollo de una máquina automatizada para el templado de chocolate",
+    "rewardType": [
+      "Reconocimiento en la industria"
+    ],
+    "returnPeriod": 4,
+    "competitiveLandscape": [
+      "Innovación en dispositivos de rehabilitación"
+    ],
+    "description": "Diseño y construcción de una máquina automatizada que optimiza el proceso de templado de chocolate, garantizando la calidad y textura adecuadas del producto final.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 1,
+    "team": [
+      "66aad2e690c5f7e232583022"
+    ],
+    "representant": "66aad2e690c5f7e232583022"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f95e7",
+    "projectName": "Diseño y construcción de un módulo asistente adaptable al bastón de las personas con discapacidad visual para mejorar su desplazamiento",
+    "projectCategory": "Industrial",
+    "fundingCap": 32357396,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "PLC",
+      "Hardware Open"
+    ],
+    "designMethodology": "Diseño Mecatrónico",
+    "hasAI": false,
+    "collaborators": [
+      "Ing. de Control (Automáticos)",
+      "Ing. Electrónicos",
+      "Ing. Industriales"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Láser",
+      "Metalurgia"
+    ],
+    "developmentStatus": 0.95,
+    "riskLevel": "Moderado",
+    "projectObjective": "Mejora de la movilidad de personas con discapacidad visual",
+    "rewardType": [
+      "Participación en las ganancias"
+    ],
+    "returnPeriod": 3,
+    "competitiveLandscape": [
+      "Eficiencia comparada con competidores"
+    ],
+    "description": "Diseño y construcción de un módulo asistente que se adapta al bastón de personas con discapacidad visual para mejorar su desplazamiento y autonomía en entornos urbanos.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 0,
+    "team": [
+      "66aad2e590c5f7e232583008"
+    ],
+    "representant": "66aad2e590c5f7e232583008"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f95ec",
+    "projectName": "Diseño de un sistema automático de selección de frutos de Café mediante Técnicas de Visión Artificial",
+    "projectCategory": "Tecnologías Asistivas",
+    "fundingCap": 36604682,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Raspberry Pi",
+      "Arduino"
+    ],
+    "designMethodology": "Metodología V",
+    "hasAI": true,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Ing. de Sistemas",
+      "Ing. Electrónicos"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Láser"
+    ],
+    "developmentStatus": 0.35,
+    "riskLevel": "Moderado",
+    "projectObjective": "Automatización del proceso de selección de frutos de café",
+    "rewardType": [
+      "Reconocimiento en la industria"
+    ],
+    "returnPeriod": 3,
+    "competitiveLandscape": [
+      "Innovación en dispositivos de asistencia"
+    ],
+    "description": "Diseño de un sistema automático que utiliza técnicas de visión artificial para seleccionar frutos de café de alta calidad, mejorando la eficiencia y precisión del proceso.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 0,
+    "team": [
+      "66aad2e790c5f7e232583036"
+    ],
+    "representant": "66aad2e790c5f7e232583036"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f95f1",
+    "projectName": "Desarrollo de un prototipo de una máquina selectora de semilla Sacha Inchi",
+    "projectCategory": "Agricultura",
+    "fundingCap": 30510350,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Raspberry Pi",
+      "Hardware Open"
+    ],
+    "designMethodology": "Metodología V",
+    "hasAI": false,
+    "collaborators": [
+      "Ing. Agrónomos",
+      "Ing. Mecatrónicos"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "Coordenadas GPS"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Láser"
+    ],
+    "developmentStatus": 0.16,
+    "riskLevel": "Moderado",
+    "projectObjective": "Desarrollo de un prototipo de máquina selectora de semilla Sacha Inchi",
+    "rewardType": [
+      "Participación en las ganancias"
+    ],
+    "returnPeriod": 3,
+    "competitiveLandscape": [
+      "Precisión y sostenibilidad en la agricultura"
+    ],
+    "description": "Diseño y construcción de un prototipo de máquina selectora de semilla de Sacha Inchi, con el objetivo de mejorar la eficiencia y precisión en el proceso de selección y clasificación de semillas para su posterior procesamiento y comercialización.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 1,
+    "team": [
+      "66aad2e790c5f7e23258303a"
+    ],
+    "representant": "66aad2e790c5f7e23258303a"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f95f2",
+    "projectName": "Máquina cortadora de mazorcas de cacao",
+    "projectCategory": "Tecnologías Asistivas",
+    "fundingCap": 42372249,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Metodología Hardware-Software",
+    "hasAI": true,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Especialistas en Discapacidad"
+    ],
+    "resourceOptimization": [
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Prototipado Rápido"
+    ],
+    "developmentStatus": 0.03,
+    "riskLevel": "Moderado",
+    "projectObjective": "Desarrollo de una máquina cortadora de mazorcas de cacao",
+    "rewardType": [
+      "Reconocimiento en la industria"
+    ],
+    "returnPeriod": 2,
+    "competitiveLandscape": [
+      "Innovación en experiencias de realidad virtual"
+    ],
+    "description": "Diseño y fabricación de una máquina especializada en el corte preciso y eficiente de mazorcas de cacao, facilitando el proceso de cosecha y postcosecha en la industria cacaotera.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 0,
+    "team": [
+      "66aad2e990c5f7e23258305a"
+    ],
+    "representant": "66aad2e990c5f7e23258305a"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f95f4",
+    "projectName": "Sistema de ejercitación para personas con problemas de movilidad en las extremidades inferiores",
+    "projectCategory": "Agricultura",
+    "fundingCap": 15886264,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "PLC"
+    ],
+    "designMethodology": "Metodología V",
+    "hasAI": false,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Ing. Agrónomos",
+      "Ing. de Sistemas"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "Coordenadas GPS"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Prototipado Rápido"
+    ],
+    "developmentStatus": 0.08,
+    "riskLevel": "Moderado",
+    "projectObjective": "Desarrollo de un sistema de ejercitación para mejorar la movilidad en extremidades inferiores",
+    "rewardType": [
+      "Participación en las ganancias"
+    ],
+    "returnPeriod": 3,
+    "competitiveLandscape": [
+      "Eficiencia en la agricultura vertical"
+    ],
+    "description": "Diseño y desarrollo de un sistema de ejercitación destinado a mejorar la movilidad y la fuerza en las extremidades inferiores, proporcionando terapias efectivas para personas con discapacidades físicas o lesiones en esta área.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 1,
+    "team": [
+      "66aad2e590c5f7e23258300e"
+    ],
+    "representant": "66aad2e590c5f7e23258300e"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f95fa",
+    "projectName": "Diseño de controladores avanzados para los procesos térmicos ubicados en el laboratorio de planta piloto",
+    "projectCategory": "Logística",
+    "fundingCap": 36891512,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Metodología Hardware-Software",
+    "hasAI": true,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Expertos en Logística",
+      "Desarrolladores de Software"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "Coordenadas GPS"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Láser"
+    ],
+    "developmentStatus": 0.78,
+    "riskLevel": "Alto",
+    "projectObjective": "Diseño de controladores avanzados para procesos térmicos en laboratorio de planta piloto",
+    "rewardType": [
+      "Participación en las ganancias"
+    ],
+    "returnPeriod": 4,
+    "competitiveLandscape": [
+      "Eficiencia en entregas autónomas"
+    ],
+    "description": "Desarrollo de controladores avanzados para optimizar los procesos térmicos llevados a cabo en el laboratorio de planta piloto, garantizando un control preciso y eficiente de las variables operativas y mejorando la calidad de los productos obtenidos.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 0,
+    "team": [
+      "66aad2e590c5f7e23258300c"
+    ],
+    "representant": "66aad2e590c5f7e23258300c"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f95fb",
+    "projectName": "Diseño e implementación de un prototipo que clasifique huevos de gallina según sus características",
+    "projectCategory": "Tecnologías Asistivas",
+    "fundingCap": 22844734,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Diseño Mecatrónico",
+    "hasAI": false,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Especialistas en Rehabilitación",
+      "Diseñadores Industriales"
+    ],
+    "resourceOptimization": [
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Prototipado Rápido"
+    ],
+    "developmentStatus": 0.91,
+    "riskLevel": "Bajo",
+    "projectObjective": "Clasificación automatizada de huevos de gallina",
+    "rewardType": [
+      "Reconocimiento en la industria"
+    ],
+    "returnPeriod": 3,
+    "competitiveLandscape": [
+      "Innovación en prótesis accesibles"
+    ],
+    "description": "Desarrollo de un prototipo que utiliza técnicas de clasificación para separar huevos de gallina según su tamaño, forma y calidad, optimizando los procesos de empaquetado y distribución.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 1,
+    "team": [
+      "66aad2e690c5f7e232583024"
+    ],
+    "representant": "66aad2e690c5f7e232583024"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f9601",
+    "projectName": "Automatización del suministro de cisco para la cámara de combustión de una secadora tipo silo de café pergamino",
+    "projectCategory": "Agricultura",
+    "fundingCap": 18803487,
+    "mechatronicComponents": [
+      "Sensores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Metodología Hardware-Software",
+    "hasAI": false,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Expertos en Energía Renovable",
+      "Agrónomos"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Láser",
+      "Prototipado Rápido"
+    ],
+    "developmentStatus": 0.87,
+    "riskLevel": "Moderado",
+    "projectObjective": "Automatización del suministro de cisco para secadora de café pergamino",
+    "rewardType": [
+      "Reconocimiento en la industria"
+    ],
+    "returnPeriod": 4,
+    "competitiveLandscape": [
+      "Sostenibilidad en la agricultura"
+    ],
+    "description": "Diseño e implementación de un sistema automatizado para el suministro de cisco a la cámara de combustión de una secadora tipo silo de café pergamino, optimizando el proceso de secado y mejorando la eficiencia energética.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 1,
+    "team": [
+      "66aad2e990c5f7e232583054"
+    ],
+    "representant": "66aad2e990c5f7e232583054"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f9603",
+    "projectName": "Diseño de un sistema de visión artificial para la revisión del nivel de llenado de bebidas embotelladas",
+    "projectCategory": "Transporte",
+    "fundingCap": 43620248,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Metodología Hardware-Software",
+    "hasAI": true,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Desarrolladores de Software",
+      "Expertos en Transporte"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "Coordenadas GPS"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Láser"
+    ],
+    "developmentStatus": 0.19,
+    "riskLevel": "Alto",
+    "projectObjective": "Inspección automática del nivel de llenado de bebidas",
+    "rewardType": [
+      "Participación en las ganancias"
+    ],
+    "returnPeriod": 4,
+    "competitiveLandscape": [
+      "Eficiencia en transporte urbano"
+    ],
+    "description": "Diseño de un sistema de visión artificial que inspecciona automáticamente el nivel de llenado de bebidas embotelladas, garantizando la calidad del producto y evitando desperdicios.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 0,
+    "team": [
+      "66aad2e690c5f7e23258301e"
+    ],
+    "representant": "66aad2e690c5f7e23258301e"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f9604",
+    "projectName": "Uso de sensores de medición inercial para la evaluación de la movilidad articular de miembro superior con aplicación en rehabilitación",
+    "projectCategory": "Ingeniería Civil",
+    "fundingCap": 33493713.999999996,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "PLC",
+      "Hardware Open"
+    ],
+    "designMethodology": "Diseño Mecatrónico",
+    "hasAI": true,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Ing. Civiles",
+      "Expertos en Inspección Estructural"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "Coordenadas GPS"
+    ],
+    "manufacturingTechnology": [
+      "Láser",
+      "Metalurgia"
+    ],
+    "developmentStatus": 0.09,
+    "riskLevel": "Moderado",
+    "projectObjective": "Uso de sensores para evaluación de movilidad articular en rehabilitación",
+    "rewardType": [
+      "Participación en Beneficios"
+    ],
+    "returnPeriod": 4,
+    "competitiveLandscape": [
+      "Eficiencia en inspección autónoma"
+    ],
+    "description": "Aplicación de sensores de medición inercial para evaluar la movilidad articular del miembro superior, con aplicaciones en la rehabilitación física y la monitorización del progreso del paciente.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 0,
+    "team": [
+      "66aad2e990c5f7e23258305e"
+    ],
+    "representant": "66aad2e990c5f7e23258305e"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f9608",
+    "projectName": "Diseño e implementación de un escáner 3D para prototipado y modelado geométrico de objetos",
+    "projectCategory": "Tecnologías para Mascotas",
+    "fundingCap": 26708144,
+    "mechatronicComponents": [
+      "Sensores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Metodología Hardware-Software",
+    "hasAI": false,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Veterinarios",
+      "Desarrolladores de Software"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Láser",
+      "Prototipado Rápido"
+    ],
+    "developmentStatus": 0.32,
+    "riskLevel": "Moderado",
+    "projectObjective": "Desarrollo de un escáner 3D para prototipado y modelado geométrico",
+    "rewardType": [
+      "Reconocimiento en la industria"
+    ],
+    "returnPeriod": 3,
+    "competitiveLandscape": [
+      "Innovación en tecnología para mascotas"
+    ],
+    "description": "Desarrollo e implementación de un escáner 3D capaz de capturar la geometría de objetos para su uso en prototipado y modelado, con aplicaciones en diseño industrial y arquitectura.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 1,
+    "team": [
+      "66aad2e590c5f7e23258300e"
+    ],
+    "representant": "66aad2e590c5f7e23258300e"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f9612",
+    "projectName": "Diseño de un algoritmo para la segmentación de carriles en vías que permita la navegación autónoma de un vehículo a escala en una autopista",
+    "projectCategory": "Agricultura",
+    "fundingCap": 29996544,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Metodología Hardware-Software",
+    "hasAI": true,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Agrónomos",
+      "Desarrolladores de Software"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "Coordenadas GPS"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Prototipado Rápido"
+    ],
+    "developmentStatus": 0.08,
+    "riskLevel": "Alto",
+    "projectObjective": "Desarrollo de un algoritmo para la segmentación de carriles en vías",
+    "rewardType": [
+      "Participación en las ganancias"
+    ],
+    "returnPeriod": 4,
+    "competitiveLandscape": [
+      "Eficiencia en drones agrícolas"
+    ],
+    "description": "Diseño de un algoritmo que utiliza técnicas de visión artificial para la segmentación de carriles en vías, permitiendo la navegación autónoma de un vehículo a escala en una autopista.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 1,
+    "team": [
+      "66aad2e790c5f7e232583032"
+    ],
+    "representant": "66aad2e790c5f7e232583032"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f961c",
+    "projectName": "Control de posición de un servomotor de Lego® mindstorms NXT a través de seguimiento facial utilizando un sensor Kinect® de Microsoft",
+    "projectCategory": "Entretenimiento",
+    "fundingCap": 45510482,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Metodología Hardware-Software",
+    "hasAI": false,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Diseñadores de Experiencia de Usuario",
+      "Desarrolladores de Software"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Láser"
+    ],
+    "developmentStatus": 0.54,
+    "riskLevel": "Alto",
+    "projectObjective": "Control de posición de servomotor mediante seguimiento facial",
+    "rewardType": [
+      "Participación en Beneficios"
+    ],
+    "returnPeriod": 4,
+    "competitiveLandscape": [
+      "Innovación en entretenimiento virtual"
+    ],
+    "description": "Desarrollo de un sistema que utiliza un sensor Kinect® de Microsoft para el seguimiento facial y el control de posición de un servomotor de Lego® Mindstorms NXT, con aplicaciones en robótica educativa y entretenimiento.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 0,
+    "team": [
+      "66aad2e790c5f7e23258303e"
+    ],
+    "representant": "66aad2e790c5f7e23258303e"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f961f",
+    "projectName": "Desarrollo de un sistema de decisión soporte en la clasificación clínica de pacientes con neumonía viral, bacteriana y sin neumonía, basado en el análisis de imágenes de rayos X de tórax implementando Deep Learning",
+    "projectCategory": "Salud",
+    "fundingCap": 30325869,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Diseño Mecatrónico",
+    "hasAI": true,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Médicos Especializados",
+      "Diseñadores de Prótesis"
+    ],
+    "resourceOptimization": [
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Láser"
+    ],
+    "developmentStatus": 0.53,
+    "riskLevel": "Moderado",
+    "projectObjective": "Desarrollo de un sistema de decisión soporte en la clasificación clínica de neumonías",
+    "rewardType": [
+      "Reconocimiento en la industria"
+    ],
+    "returnPeriod": 3,
+    "competitiveLandscape": [
+      "Innovación en prótesis robóticas"
+    ],
+    "description": "Desarrollo de un sistema de decisión soporte basado en el análisis de imágenes de rayos X de tórax utilizando técnicas de deep learning, para la clasificación clínica precisa de pacientes con neumonía viral, bacteriana y sin neumonía.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 1,
+    "team": [
+      "66758c099caed3c05b9205d1"
+    ],
+    "representant": "66758c099caed3c05b9205d1"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f95d1",
+    "projectName": "Proceso de instalación y programación de dispositivos finales en el Robot ABB 120, Simulación en Robot Estudio",
+    "projectCategory": "Domótica",
+    "fundingCap": 36902902,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores"
+    ],
+    "controlPlatforms": [
+      "PLC",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Metodología Hardware-Software",
+    "hasAI": true,
+    "collaborators": [
+      "Ing. Electrónicos",
+      "Ing. de Sistemas"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Metalurgia"
+    ],
+    "developmentStatus": 0.19,
+    "riskLevel": "Moderado",
+    "projectObjective": "Instalación y programación de dispositivos finales en el Robot ABB 120",
+    "rewardType": [
+      "Participación en las ganancias"
+    ],
+    "returnPeriod": 3,
+    "competitiveLandscape": [
+      "Enfoque en la sostenibilidad"
+    ],
+    "description": "Proceso de instalación y programación de dispositivos finales en el Robot ABB 120, simulado en Robot Estudio para optimizar su funcionamiento.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 0,
+    "team": [
+      "66aad2e990c5f7e23258305e"
+    ],
+    "representant": "66aad2e990c5f7e23258305e"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f95d2",
+    "projectName": "Diseño y fabricación de 3 elevadores de carga de 5 toneladas",
+    "projectCategory": "Agricultura",
+    "fundingCap": 26148640,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Diseño Mecatrónico",
+    "hasAI": false,
+    "collaborators": [
+      "Ing. Agrónomos",
+      "Ing. Electrónicos"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Prototipado Rápido"
+    ],
+    "developmentStatus": 0.55,
+    "riskLevel": "Moderado",
+    "projectObjective": "Diseño y fabricación de elevadores de carga de alta capacidad",
+    "rewardType": [
+      "Participación en las ganancias"
+    ],
+    "returnPeriod": 2,
+    "competitiveLandscape": [
+      "Enfoque en la sostenibilidad"
+    ],
+    "description": "Diseño y fabricación de tres elevadores de carga capaces de levantar hasta 5 toneladas cada uno para su uso en aplicaciones industriales.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 1,
+    "team": [
+      "66aad2e790c5f7e232583034"
+    ],
+    "representant": "66aad2e790c5f7e232583034"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f95d4",
+    "projectName": "Diseño, construcción y control de un Brazo Robótico Tipo Antropomórfico de 6 grados de libertad y de un Brazo Robótico Tipo Scara de 4 grados de libertad",
+    "projectCategory": "Industria 4.0",
+    "fundingCap": 21067850,
+    "mechatronicComponents": [
+      "Sensores",
+      "Microcontroladores"
+    ],
+    "controlPlatforms": [
+      "Raspberry Pi",
+      "PLC"
+    ],
+    "designMethodology": "Metodología Hardware-Software",
+    "hasAI": true,
+    "collaborators": [
+      "Ing. Electrónicos",
+      "Ing. de Sistemas"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Láser",
+      "Prototipado Rápido"
+    ],
+    "developmentStatus": 0.2,
+    "riskLevel": "Moderado",
+    "projectObjective": "Diseño, construcción y control de brazos robóticos",
+    "rewardType": [
+      "Participación en las ganancias"
+    ],
+    "returnPeriod": 3,
+    "competitiveLandscape": [
+      "Mejora en la eficiencia comparada con competidores"
+    ],
+    "description": "Diseño, construcción y control de un brazo robótico antropomórfico de 6 grados de libertad y un brazo robótico tipo Scara de 4 grados de libertad para aplicaciones industriales y de investigación.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 1,
+    "team": [
+      "66aad2e590c5f7e23258300a"
+    ],
+    "representant": "66aad2e590c5f7e23258300a"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f95d5",
+    "projectName": "Desarrollo de una plataforma mecatrónica móvil para la cosecha asistida de café",
+    "projectCategory": "Industrial",
+    "fundingCap": 27187053,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores"
+    ],
+    "controlPlatforms": [
+      "PLC"
+    ],
+    "designMethodology": "Metodología V",
+    "hasAI": true,
+    "collaborators": [
+      "Ing. de Control (Automáticos)",
+      "Ing. Electrónicos"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Metalurgia"
+    ],
+    "developmentStatus": 0.87,
+    "riskLevel": "Alto",
+    "projectObjective": "Desarrollo de una plataforma mecatrónica móvil para cosecha de café",
+    "rewardType": [
+      "Participación en las ganancias"
+    ],
+    "returnPeriod": 4,
+    "competitiveLandscape": [
+      "Mejora en la eficiencia comparada con competidores"
+    ],
+    "description": "Diseño y construcción de una plataforma mecatrónica móvil diseñada para la cosecha asistida de café, ofreciendo una solución eficiente y rentable para la recolección de frutos en terrenos inclinados o difíciles de acceder.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 1,
+    "team": [
+      "66aad2e890c5f7e232583052"
+    ],
+    "representant": "66aad2e890c5f7e232583052"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f95d8",
+    "projectName": "Desarrollo de un sistema de alertas en un ambiente controlado que permita mejorar la calidad de vida de individuos con discapacidad auditiva pertenecientes a la ciudad de Bucaramanga",
+    "projectCategory": "Medicina",
+    "fundingCap": 28260824,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores"
+    ],
+    "controlPlatforms": [
+      "Hardware Open"
+    ],
+    "designMethodology": "Diseño Mecatrónico",
+    "hasAI": true,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Ing. Biomédicos"
+    ],
+    "resourceOptimization": [
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Prototipado Rápido"
+    ],
+    "developmentStatus": 0.21,
+    "riskLevel": "Bajo",
+    "projectObjective": "Desarrollo de un sistema de alertas para personas con discapacidad auditiva",
+    "rewardType": [
+      "Participación en Beneficios"
+    ],
+    "returnPeriod": 4,
+    "competitiveLandscape": [
+      "Innovación en Materiales"
+    ],
+    "description": "Desarrollo de un sistema de alertas que utiliza señales visuales y táctiles para mejorar la calidad de vida de individuos con discapacidad auditiva en la ciudad de Bucaramanga, proporcionando una mayor independencia y seguridad en su entorno.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 1,
+    "team": [
+      "66aad2e690c5f7e23258301e"
+    ],
+    "representant": "66aad2e690c5f7e23258301e"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f95ea",
+    "projectName": "Análisis de señales respiratorias para el diagnóstico de pacientes con insuficiencia cardíaca crónica mediante técnicas de inteligencia artificial",
+    "projectCategory": "Construcción",
+    "fundingCap": 42608840,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "PLC",
+      "Hardware Open"
+    ],
+    "designMethodology": "Diseño Mecatrónico",
+    "hasAI": false,
+    "collaborators": [
+      "Ing. Civiles",
+      "Ing. Mecatrónicos",
+      "Ing. de Control (Automáticos)"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Láser",
+      "Metalurgia"
+    ],
+    "developmentStatus": 0.95,
+    "riskLevel": "Alto",
+    "projectObjective": "Análisis de señales respiratorias para el diagnóstico de insuficiencia cardíaca crónica",
+    "rewardType": [
+      "Participación en las ganancias"
+    ],
+    "returnPeriod": 3,
+    "competitiveLandscape": [
+      "Eficiencia comparada con competidores"
+    ],
+    "description": "Investigación y aplicación de técnicas de inteligencia artificial para analizar señales respiratorias y diagnosticar la insuficiencia cardíaca crónica de manera temprana y precisa, mejorando la atención médica y la calidad de vida de los pacientes.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 0,
+    "team": [
+      "66aad2e790c5f7e232583030"
+    ],
+    "representant": "66aad2e790c5f7e232583030"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f95ef",
+    "projectName": "Estimación de trayectorias usando odometría visual monocular aplicado a vehículos autónomos",
+    "projectCategory": "Energía",
+    "fundingCap": 38441487,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Diseño Mecatrónico",
+    "hasAI": false,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Ing. Eléctricos",
+      "Ing. de Sistemas"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "Coordenadas GPS"
+    ],
+    "manufacturingTechnology": [
+      "Láser",
+      "Prototipado Rápido"
+    ],
+    "developmentStatus": 0.08,
+    "riskLevel": "Alto",
+    "projectObjective": "Estimación de trayectorias para vehículos autónomos utilizando odometría visual monocular",
+    "rewardType": [
+      "Participación en Beneficios"
+    ],
+    "returnPeriod": 5,
+    "competitiveLandscape": [
+      "Sostenibilidad y accesibilidad energética"
+    ],
+    "description": "Desarrollo de un sistema de estimación de trayectorias que utiliza odometría visual monocular para mejorar la navegación y el desplazamiento de vehículos autónomos en entornos dinámicos y cambiantes.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 0,
+    "team": [
+      "66aad2e690c5f7e232583020",
+      "66aad2e690c5f7e232583020",
+      "66aad2e690c5f7e232583020",
+      "66aad2e890c5f7e232583048",
+      "66aad2e890c5f7e232583048",
+      "66aad2e890c5f7e232583048"
+    ],
+    "representant": "66aad2e890c5f7e232583048"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f95f0",
+    "projectName": "Interacción con videojuegos como estrategia didáctica para estimular la creatividad en niños en edad preescolar",
+    "projectCategory": "Medicina",
+    "fundingCap": 26177799,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Diseño Mecatrónico",
+    "hasAI": true,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Ing. Biomédicos"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Láser",
+      "Prototipado Rápido"
+    ],
+    "developmentStatus": 0.78,
+    "riskLevel": "Moderado",
+    "projectObjective": "Uso de videojuegos como estrategia didáctica para estimular la creatividad en niños preescolares",
+    "rewardType": [
+      "Reconocimiento en la industria"
+    ],
+    "returnPeriod": 4,
+    "competitiveLandscape": [
+      "Eficiencia comparada con soluciones convencionales"
+    ],
+    "description": "Investigación y desarrollo de estrategias didácticas basadas en la interacción con videojuegos, con el objetivo de estimular la creatividad y el aprendizaje en niños en edad preescolar, fomentando el desarrollo cognitivo y emocional a través del juego.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 1,
+    "team": [
+      "66aad2e590c5f7e232583010"
+    ],
+    "representant": "66aad2e590c5f7e232583010"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f95f3",
+    "projectName": "Diseño y simulación de un aerogenerador de eje vertical para zonas no interconectadas de Colombia",
+    "projectCategory": "Medicina",
+    "fundingCap": 31879390,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Diseño Mecatrónico",
+    "hasAI": false,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Fisioterapeutas",
+      "Médicos Rehabilitadores"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Láser"
+    ],
+    "developmentStatus": 0.6,
+    "riskLevel": "Bajo",
+    "projectObjective": "Diseño y simulación de aerogenerador de eje vertical para zonas no interconectadas",
+    "rewardType": [
+      "Reconocimiento en la industria"
+    ],
+    "returnPeriod": 4,
+    "competitiveLandscape": [
+      "Innovación en dispositivos de rehabilitación"
+    ],
+    "description": "Diseño y simulación de un aerogenerador de eje vertical adaptado para zonas no interconectadas de Colombia, aprovechando los recursos eólicos disponibles para la generación de energía eléctrica en áreas remotas y rurales.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 0,
+    "team": [
+      "66aad2e690c5f7e232583026"
+    ],
+    "representant": "66aad2e690c5f7e232583026"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f95f5",
+    "projectName": "Diseño e implementación de un sistema de reconocimiento y exploración de terrenos basado en robótica móvil, visión artificial y el hardware Kinect",
+    "projectCategory": "Tecnologías Asistivas",
+    "fundingCap": 37722269,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Diseño Mecatrónico",
+    "hasAI": true,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Especialistas en Discapacidad"
+    ],
+    "resourceOptimization": [
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Láser"
+    ],
+    "developmentStatus": 0.74,
+    "riskLevel": "Moderado",
+    "projectObjective": "Desarrollo de un sistema para reconocimiento y exploración de terrenos",
+    "rewardType": [
+      "Reconocimiento en la industria"
+    ],
+    "returnPeriod": 3,
+    "competitiveLandscape": [
+      "Innovación en sillas de ruedas inteligentes"
+    ],
+    "description": "Diseño e implementación de un sistema que combina robótica móvil, visión artificial y el hardware Kinect para reconocer y explorar terrenos de manera autónoma, con aplicaciones en agricultura y exploración.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 0,
+    "team": [
+      "66aad2e590c5f7e232583014"
+    ],
+    "representant": "66aad2e590c5f7e232583014"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f95f9",
+    "projectName": "Construcción de un vehículo eléctrico auto balanceado de dos ruedas para el transporte unipersonal",
+    "projectCategory": "Industria",
+    "fundingCap": 18420233,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Diseño Mecatrónico",
+    "hasAI": false,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Ing. Civiles",
+      "Trabajadores de la Construcción"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Prototipado Rápido"
+    ],
+    "developmentStatus": 0.88,
+    "riskLevel": "Moderado",
+    "projectObjective": "Construcción de un vehículo eléctrico auto balanceado",
+    "rewardType": [
+      "Reconocimiento en la industria"
+    ],
+    "returnPeriod": 3,
+    "competitiveLandscape": [
+      "Innovación en asistencia para trabajadores"
+    ],
+    "description": "Construcción de un vehículo eléctrico de dos ruedas que se auto balancea, diseñado para proporcionar un transporte unipersonal eficiente y sostenible en entornos urbanos.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 1,
+    "team": [
+      "66aad2e790c5f7e23258302e"
+    ],
+    "representant": "66aad2e790c5f7e23258302e"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f95fd",
+    "projectName": "Diseño, modelación y simulación de sistemas nanotecnológicos de electroestimulación por tecnología de fabricación de electro hilado (electro spinning)",
+    "projectCategory": "Electrónica",
+    "fundingCap": 32636757,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "PLC",
+      "Hardware Open"
+    ],
+    "designMethodology": "Diseño Mecatrónico",
+    "hasAI": true,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Técnicos en Electrónica",
+      "Operadores de Máquinas"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Láser",
+      "Prototipado Rápido"
+    ],
+    "developmentStatus": 0.33,
+    "riskLevel": "Moderado",
+    "projectObjective": "Diseño, modelación y simulación de sistemas nanotecnológicos de electroestimulación",
+    "rewardType": [
+      "Participación en Beneficios"
+    ],
+    "returnPeriod": 4,
+    "competitiveLandscape": [
+      "Eficiencia en ensamblaje electrónico"
+    ],
+    "description": "Investigación y desarrollo de sistemas nanotecnológicos de electroestimulación mediante la tecnología de fabricación de electro hilado, con el objetivo de aplicar estas tecnologías en el campo de la medicina y la rehabilitación física.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 0,
+    "team": [
+      "66aad2e790c5f7e23258303c"
+    ],
+    "representant": "66aad2e790c5f7e23258303c"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f95ff",
+    "projectName": "Técnicas de análisis del patrón respiratorio para la extracción de índices en pacientes en proceso de extubación",
+    "projectCategory": "Medicina",
+    "fundingCap": 27280479,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Diseño Mecatrónico",
+    "hasAI": false,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Fisioterapeutas",
+      "Médicos Rehabilitadores"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Prototipado Rápido"
+    ],
+    "developmentStatus": 0.2,
+    "riskLevel": "Bajo",
+    "projectObjective": "Desarrollo de técnicas de análisis del patrón respiratorio para extracción de índices en pacientes en proceso de extubación",
+    "rewardType": [
+      "Reconocimiento en la industria"
+    ],
+    "returnPeriod": 4,
+    "competitiveLandscape": [
+      "Innovación en dispositivos de rehabilitación"
+    ],
+    "description": "Investigación y desarrollo de técnicas de análisis del patrón respiratorio para la extracción de índices en pacientes en proceso de extubación, permitiendo una evaluación objetiva y precisa del estado respiratorio y la respuesta del paciente al proceso de destete.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 1,
+    "team": [
+      "66aad2e590c5f7e232583008"
+    ],
+    "representant": "66aad2e590c5f7e232583008"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f9600",
+    "projectName": "Diseño de un sistema de reconocimiento de gestos no móviles mediante el procesamiento digital de imágenes",
+    "projectCategory": "Industria",
+    "fundingCap": 21487745,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Diseño Mecatrónico",
+    "hasAI": false,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Ergónomos",
+      "Trabajadores de Almacén"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Prototipado Rápido"
+    ],
+    "developmentStatus": 0.34,
+    "riskLevel": "Moderado",
+    "projectObjective": "Reconocimiento de gestos sin movimiento",
+    "rewardType": [
+      "Participación en Beneficios"
+    ],
+    "returnPeriod": 3,
+    "competitiveLandscape": [
+      "Innovación en asistencia para trabajadores de almacén"
+    ],
+    "description": "Diseño de un sistema que utiliza procesamiento digital de imágenes para reconocer gestos no móviles, mejorando la interacción entre humanos y computadoras en entornos donde el movimiento es limitado.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 1,
+    "team": [
+      "66aad2e590c5f7e23258300c"
+    ],
+    "representant": "66aad2e590c5f7e23258300c"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f9605",
+    "projectName": "Diseño y desarrollo de micro-y nanoautómatas de inferencia en tiempo real por tecnología de fabricación aditiva para el monitoreo y control de la calidad aguas residuales de la industria del petróleo ecopetrol",
+    "projectCategory": "Agricultura",
+    "fundingCap": 41480541,
+    "mechatronicComponents": [
+      "Sensores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Metodología Hardware-Software",
+    "hasAI": true,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Agrónomos",
+      "Desarrolladores de Software"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "Coordenadas GPS"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Prototipado Rápido"
+    ],
+    "developmentStatus": 0.9,
+    "riskLevel": "Moderado",
+    "projectObjective": "Diseño y desarrollo de micro-y nanoautómatas para monitoreo y control de calidad de aguas residuales",
+    "rewardType": [
+      "Participación en las ganancias"
+    ],
+    "returnPeriod": 3,
+    "competitiveLandscape": [
+      "Innovación en drones agrícolas"
+    ],
+    "description": "Investigación y fabricación de micro-y nanoautómatas de inferencia en tiempo real mediante tecnología de fabricación aditiva, destinados al monitoreo y control de la calidad de aguas residuales en la industria petrolera, específicamente en Ecopetrol.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 0,
+    "team": [
+      "66aad2e690c5f7e23258301e"
+    ],
+    "representant": "66aad2e690c5f7e23258301e"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f960f",
+    "projectName": "Clasificación de pacientes con retinopatía diabética mediante deep learning",
+    "projectCategory": "Agricultura",
+    "fundingCap": 32058694,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Diseño Mecatrónico",
+    "hasAI": true,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Agrónomos",
+      "Expertos en Agricultura Sostenible"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Prototipado Rápido"
+    ],
+    "developmentStatus": 0.76,
+    "riskLevel": "Alto",
+    "projectObjective": "Clasificación de pacientes con retinopatía diabética utilizando deep learning",
+    "rewardType": [
+      "Participación en Beneficios"
+    ],
+    "returnPeriod": 5,
+    "competitiveLandscape": [
+      "Eficiencia en cultivo vertical"
+    ],
+    "description": "Desarrollo de un sistema de clasificación de pacientes con retinopatía diabética mediante el uso de técnicas de deep learning, para una detección temprana y un tratamiento más efectivo.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 0,
+    "team": [
+      "66aad2e690c5f7e232583018"
+    ],
+    "representant": "66aad2e690c5f7e232583018"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f9616",
+    "projectName": "Investigación y desarrollo de instrumentación de alta precisión para pavimentos",
+    "projectCategory": "Tecnologías Asistivas",
+    "fundingCap": 41011736,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Diseño Mecatrónico",
+    "hasAI": true,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Especialistas en Discapacidad Visual",
+      "Desarrolladores de Software"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Prototipado Rápido"
+    ],
+    "developmentStatus": 0.68,
+    "riskLevel": "Moderado",
+    "projectObjective": "Investigación y desarrollo de instrumentación de alta precisión para pavimentos",
+    "rewardType": [
+      "Reconocimiento en la industria"
+    ],
+    "returnPeriod": 3,
+    "competitiveLandscape": [
+      "Innovación en asistencia para discapacidad visual"
+    ],
+    "description": "Investigación y desarrollo de instrumentación especializada de alta precisión para el monitoreo y análisis de pavimentos, permitiendo una evaluación detallada del estado estructural y funcional de las superficies de rodadura.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 0,
+    "team": [
+      "66aad2e590c5f7e232583012",
+      "66aad2e590c5f7e232583012"
+    ],
+    "representant": "66aad2e590c5f7e232583012"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f9617",
+    "projectName": "Diseño de un sistema automático para determinar el grado de progresión de la retinopatía diabética",
+    "projectCategory": "Medio Ambiente",
+    "fundingCap": 41186313,
+    "mechatronicComponents": [
+      "Sensores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Metodología Hardware-Software",
+    "hasAI": true,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Especialistas en Medio Ambiente",
+      "Desarrolladores de Software"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "Coordenadas GPS"
+    ],
+    "manufacturingTechnology": [
+      "Láser",
+      "Prototipado Rápido"
+    ],
+    "developmentStatus": 0.9,
+    "riskLevel": "Moderado",
+    "projectObjective": "Desarrollo de un sistema automático para determinar el grado de progresión de retinopatía diabética",
+    "rewardType": [
+      "Reconocimiento en la industria"
+    ],
+    "returnPeriod": 4,
+    "competitiveLandscape": [
+      "Precisión en monitoreo ambiental"
+    ],
+    "description": "Desarrollo de un sistema automático de análisis de imágenes para determinar el grado de progresión de la retinopatía diabética, facilitando el diagnóstico temprano y el seguimiento de la enfermedad para mejorar el tratamiento y la atención médica.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 0,
+    "team": [
+      "66aad2e890c5f7e23258304c"
+    ],
+    "representant": "66aad2e890c5f7e23258304c"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f961b",
+    "projectName": "Desarrollo de una tecnología de cosecha selectiva de café arábica aplicando vibraciones de alta frecuencia",
+    "projectCategory": "Agricultura",
+    "fundingCap": 20363700,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Metodología Hardware-Software",
+    "hasAI": true,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Agrónomos",
+      "Desarrolladores de Software"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "Coordenadas GPS"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Láser"
+    ],
+    "developmentStatus": 0.2,
+    "riskLevel": "Alto",
+    "projectObjective": "Desarrollo de tecnología de cosecha selectiva de café arábica",
+    "rewardType": [
+      "Participación en las ganancias"
+    ],
+    "returnPeriod": 4,
+    "competitiveLandscape": [
+      "Eficiencia en monitoreo agrícola"
+    ],
+    "description": "Investigación y desarrollo de una tecnología de cosecha selectiva de café arábica mediante el uso de vibraciones de alta frecuencia, permitiendo una recolección eficiente y selectiva de los frutos maduros, mejorando la calidad y rendimiento del cultivo.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 1,
+    "team": [
+      "66aad2e690c5f7e23258301c"
+    ],
+    "representant": "66aad2e690c5f7e23258301c"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f95d6",
+    "projectName": "Desarrollo de un prototipo electromecánico de acople rápido para la conversión de sillas de ruedas convencionales en sillas de ruedas eléctricas",
+    "projectCategory": "Industrial",
+    "fundingCap": 49890994,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores"
+    ],
+    "controlPlatforms": [
+      "PLC"
+    ],
+    "designMethodology": "Metodología V",
+    "hasAI": true,
+    "collaborators": [
+      "Ing. de Control (Automáticos)",
+      "Ing. Electrónicos"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Metalurgia"
+    ],
+    "developmentStatus": 0.6,
+    "riskLevel": "Alto",
+    "projectObjective": "Desarrollo de un prototipo de acople rápido para sillas de ruedas",
+    "rewardType": [
+      "Participación en las ganancias"
+    ],
+    "returnPeriod": 4,
+    "competitiveLandscape": [
+      "Mejora en la eficiencia comparada con competidores"
+    ],
+    "description": "Desarrollo de un prototipo electromecánico que permite el acople rápido y seguro de sistemas de propulsión eléctrica a sillas de ruedas convencionales, facilitando la conversión a sillas de ruedas eléctricas.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 0,
+    "team": [
+      "66aad2e490c5f7e232582ffe"
+    ],
+    "representant": "66aad2e490c5f7e232582ffe"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f95db",
+    "projectName": "Diseño de un sistema automatizado para selección de Café por medio de Flotes",
+    "projectCategory": "Medicina",
+    "fundingCap": 14633467,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Hardware Open"
+    ],
+    "designMethodology": "Diseño Mecatrónico",
+    "hasAI": true,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Ing. Biomédicos"
+    ],
+    "resourceOptimization": [
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Prototipado Rápido"
+    ],
+    "developmentStatus": 0.67,
+    "riskLevel": "Bajo",
+    "projectObjective": "Automatización del proceso de selección de café",
+    "rewardType": [
+      "Participación en Beneficios"
+    ],
+    "returnPeriod": 4,
+    "competitiveLandscape": [
+      "Innovación en Materiales"
+    ],
+    "description": "Diseño de un sistema automatizado que utiliza flotación para la selección eficiente de granos de café, optimizando el proceso de clasificación.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 1,
+    "team": [
+      "66aad2e590c5f7e232583005"
+    ],
+    "representant": "66aad2e590c5f7e232583005"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f95df",
+    "projectName": "Análisis de las señales cardiorespiratorias mediante la dinámica simbólica en pacientes sometidos a ventilación mecánica",
+    "projectCategory": "Robótica",
+    "fundingCap": 36857712,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Raspberry Pi",
+      "Hardware Open"
+    ],
+    "designMethodology": "Diseño Mecatrónico",
+    "hasAI": true,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Ing. de Control (Automáticos)",
+      "Ing. Electrónicos"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Láser",
+      "Prototipado Rápido"
+    ],
+    "developmentStatus": 0.03,
+    "riskLevel": "Moderado",
+    "projectObjective": "Análisis de señales cardiorespiratorias en pacientes con ventilación mecánica",
+    "rewardType": [
+      "Reconocimiento en la industria"
+    ],
+    "returnPeriod": 3,
+    "competitiveLandscape": [
+      "Diferenciación a través de tecnología única"
+    ],
+    "description": "Investigación y análisis de las señales cardiorespiratorias utilizando técnicas de dinámica simbólica en pacientes sometidos a ventilación mecánica, con el fin de mejorar la detección y el tratamiento de complicaciones respiratorias en entornos clínicos.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 0,
+    "team": [
+      "66aad2e790c5f7e23258302e"
+    ],
+    "representant": "66aad2e790c5f7e23258302e"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f95ed",
+    "projectName": "Diseño de una suspensión para un vehículo tipo SAE-UNAB",
+    "projectCategory": "Educación",
+    "fundingCap": 16709227,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Raspberry Pi",
+      "Arduino"
+    ],
+    "designMethodology": "Metodología Hardware-Software",
+    "hasAI": false,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Ing. de Sistemas",
+      "Pedagogos"
+    ],
+    "resourceOptimization": [
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Láser"
+    ],
+    "developmentStatus": 0.71,
+    "riskLevel": "Bajo",
+    "projectObjective": "Diseño de suspensión para vehículo tipo SAE-UNAB",
+    "rewardType": [
+      "Reconocimiento en la industria"
+    ],
+    "returnPeriod": 2,
+    "competitiveLandscape": [
+      "Innovación en kits educativos"
+    ],
+    "description": "Diseño y desarrollo de un sistema de suspensión adaptado para un vehículo tipo SAE-UNAB, garantizando un rendimiento óptimo y una conducción suave en competiciones y pruebas de ingeniería automotriz.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 1,
+    "team": [
+      "66aad2e790c5f7e23258302c"
+    ],
+    "representant": "66aad2e790c5f7e23258302c"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f95ee",
+    "projectName": "Diseño de un sistema para generación de energía eléctrica a partir de gases de desecho de plantas de tratamiento de aguas residuales utilizando celdas de combustible de membrana de intercambio protónico",
+    "projectCategory": "Tecnologías Asistivas",
+    "fundingCap": 18798758,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Metodología Hardware-Software",
+    "hasAI": true,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Psicólogos",
+      "Terapeutas Ocupacionales"
+    ],
+    "resourceOptimization": [
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Láser"
+    ],
+    "developmentStatus": 0.73,
+    "riskLevel": "Moderado",
+    "projectObjective": "Diseño de sistema para generación de energía eléctrica a partir de gases de desecho",
+    "rewardType": [
+      "Reconocimiento en la industria"
+    ],
+    "returnPeriod": 3,
+    "competitiveLandscape": [
+      "Innovación en juegos terapéuticos"
+    ],
+    "description": "Desarrollo de un sistema innovador para la generación de energía eléctrica utilizando gases de desecho de plantas de tratamiento de aguas residuales, mediante el uso de celdas de combustible de membrana de intercambio protónico, contribuyendo a la sostenibilidad ambiental y energética.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 1,
+    "team": [
+      "66aad2e990c5f7e23258305c"
+    ],
+    "representant": "66aad2e990c5f7e23258305c"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f95f7",
+    "projectName": "Acoplamiento cardiorespiratorio mediante técnicas no lineales, para la extracción de índices en pacientes durante la prueba del tubo en 'T'",
+    "projectCategory": "Educación",
+    "fundingCap": 20820685,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Metodología V",
+    "hasAI": false,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Pedagogos",
+      "Diseñadores Infantiles"
+    ],
+    "resourceOptimization": [
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Prototipado Rápido"
+    ],
+    "developmentStatus": 0.79,
+    "riskLevel": "Bajo",
+    "projectObjective": "Acoplamiento cardiorespiratorio mediante técnicas no lineales para extracción de índices",
+    "rewardType": [
+      "Reconocimiento en la industria"
+    ],
+    "returnPeriod": 2,
+    "competitiveLandscape": [
+      "Innovación en juguetes educativos"
+    ],
+    "description": "Investigación y aplicación de técnicas no lineales para el acoplamiento cardiorespiratorio y la extracción de índices en pacientes sometidos a la prueba del tubo en 'T', permitiendo una evaluación precisa y detallada de la función cardiorrespiratoria en entornos clínicos.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 1,
+    "team": [
+      "66aad2e890c5f7e232583050"
+    ],
+    "representant": "66aad2e890c5f7e232583050"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f95f8",
+    "projectName": "Sistema guiado para personas con discapacidad visual en supermercados",
+    "projectCategory": "Industria",
+    "fundingCap": 19927853,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "PLC",
+      "Hardware Open"
+    ],
+    "designMethodology": "Diseño Mecatrónico",
+    "hasAI": true,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Ing. Industriales",
+      "Inspectores de Calidad"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Láser",
+      "Metalurgia"
+    ],
+    "developmentStatus": 0.79,
+    "riskLevel": "Moderado",
+    "projectObjective": "Desarrollo de un sistema guiado para personas con discapacidad visual",
+    "rewardType": [
+      "Participación en Beneficios"
+    ],
+    "returnPeriod": 4,
+    "competitiveLandscape": [
+      "Precisión en control de calidad"
+    ],
+    "description": "Desarrollo de un sistema de navegación y guiado diseñado específicamente para personas con discapacidad visual, facilitando su autonomía y seguridad al realizar compras en supermercados y otros espacios públicos.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 1,
+    "team": [
+      "66aad2e990c5f7e232583054"
+    ],
+    "representant": "66aad2e990c5f7e232583054"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f95fe",
+    "projectName": "Análisis de interacción entre patrón respiratorio y frecuencia cardíaca, mediante técnicas lineales y no lineales, en pacientes durante el proceso de destete",
+    "projectCategory": "Agricultura",
+    "fundingCap": 21160720,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Diseño Mecatrónico",
+    "hasAI": true,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Agrónomos",
+      "Desarrolladores de Software"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "Coordenadas GPS"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Láser"
+    ],
+    "developmentStatus": 0.68,
+    "riskLevel": "Moderado",
+    "projectObjective": "Análisis de interacción entre patrón respiratorio y frecuencia cardíaca en pacientes durante el proceso de destete",
+    "rewardType": [
+      "Reconocimiento en la industria"
+    ],
+    "returnPeriod": 3,
+    "competitiveLandscape": [
+      "Innovación en drones agrícolas"
+    ],
+    "description": "Investigación y análisis de la interacción entre el patrón respiratorio y la frecuencia cardíaca utilizando técnicas lineales y no lineales en pacientes durante el proceso de destete de la ventilación mecánica, para mejorar la detección de complicaciones y optimizar la transición a la respiración espontánea.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 1,
+    "team": [
+      "66aad2e790c5f7e232583036"
+    ],
+    "representant": "66aad2e790c5f7e232583036"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f9602",
+    "projectName": "Modelado Matemático y Validación de Simulaciones en Matlab Simulink para Motores Brushless DC (BLDC)",
+    "projectCategory": "Tecnologías Asistivas",
+    "fundingCap": 18089965,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Diseño Mecatrónico",
+    "hasAI": false,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Especialistas en Rehabilitación",
+      "Diseñadores Industriales"
+    ],
+    "resourceOptimization": [
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Prototipado Rápido"
+    ],
+    "developmentStatus": 0.75,
+    "riskLevel": "Bajo",
+    "projectObjective": "Modelado y validación de simulaciones para motores Brushless DC",
+    "rewardType": [
+      "Reconocimiento en la industria"
+    ],
+    "returnPeriod": 3,
+    "competitiveLandscape": [
+      "Innovación en prótesis avanzadas"
+    ],
+    "description": "Modelado matemático y validación de simulaciones en Matlab Simulink para motores Brushless DC (BLDC), con el fin de entender su comportamiento y mejorar su eficiencia y rendimiento.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 1,
+    "team": [
+      "66aad2e890c5f7e232583052"
+    ],
+    "representant": "66aad2e890c5f7e232583052"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f9606",
+    "projectName": "Gestión de mantenimiento para el nuevo sistema de calentamiento de la empresa mundial de tambores Ltda",
+    "projectCategory": "Deporte",
+    "fundingCap": 44095231,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Diseño Mecatrónico",
+    "hasAI": false,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Entrenadores Deportivos",
+      "Fisioterapeutas"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Láser"
+    ],
+    "developmentStatus": 0.66,
+    "riskLevel": "Moderado",
+    "projectObjective": "Optimización del mantenimiento del sistema de calentamiento",
+    "rewardType": [
+      "Reconocimiento en la industria"
+    ],
+    "returnPeriod": 3,
+    "competitiveLandscape": [
+      "Innovación en exoesqueletos deportivos"
+    ],
+    "description": "Desarrollo e implementación de un sistema de gestión de mantenimiento para el nuevo sistema de calentamiento de la empresa Mundial de Tambores Ltda, con el fin de maximizar la disponibilidad y eficiencia operativa.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 0,
+    "team": [
+      "66aad2e890c5f7e232583044",
+      "66aad2e690c5f7e23258301c"
+    ],
+    "representant": "66aad2e690c5f7e23258301c"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f9607",
+    "projectName": "Concepción de un vehículo aéreo no tripulado del tipo quadrotor para aplicaciones de supervisión aérea de instalaciones de petróleo y gas natural",
+    "projectCategory": "Tecnologías Asistivas",
+    "fundingCap": 40231115,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Diseño Mecatrónico",
+    "hasAI": true,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Especialistas en Geriatría",
+      "Psicólogos"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Prototipado Rápido"
+    ],
+    "developmentStatus": 0.16,
+    "riskLevel": "Bajo",
+    "projectObjective": "Desarrollo de un vehículo aéreo no tripulado para supervisión aérea de instalaciones petroleras",
+    "rewardType": [
+      "Participación en Beneficios"
+    ],
+    "returnPeriod": 4,
+    "competitiveLandscape": [
+      "Innovación en asistencia para personas mayores"
+    ],
+    "description": "Diseño y construcción de un vehículo aéreo no tripulado tipo quadrotor destinado a aplicaciones de supervisión aérea de instalaciones de petróleo y gas natural, permitiendo una inspección segura y eficiente de infraestructuras críticas.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 0,
+    "team": [
+      "66aad2e690c5f7e232583026"
+    ],
+    "representant": "66aad2e690c5f7e232583026"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f9609",
+    "projectName": "Diseño de una herramienta CACSD para reguladores PID, fuzzy, Hinf",
+    "projectCategory": "Energía Renovable",
+    "fundingCap": 29653779,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Metodología Hardware-Software",
+    "hasAI": true,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Ing. Electricistas",
+      "Expertos en Energías Renovables"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Láser"
+    ],
+    "developmentStatus": 0.8,
+    "riskLevel": "Moderado",
+    "projectObjective": "Diseño de herramienta CACSD para reguladores PID, fuzzy, Hinf",
+    "rewardType": [
+      "Participación en las ganancias"
+    ],
+    "returnPeriod": 4,
+    "competitiveLandscape": [
+      "Eficiencia en sistemas de energía renovable"
+    ],
+    "description": "Desarrollo de una herramienta Computer-Aided Control System Design (CACSD) especializada para el diseño y análisis de reguladores PID, fuzzy y Hinf, facilitando el diseño de sistemas de control avanzados para diversas aplicaciones industriales y comerciales.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 1,
+    "team": [
+      "66aad2e590c5f7e23258300c"
+    ],
+    "representant": "66aad2e590c5f7e23258300c"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f960c",
+    "projectName": "Diseño de un sistema de control para regular la tensión generada por una turbina hidráulica tipo kaplan acoplada a un generador DC",
+    "projectCategory": "Transporte",
+    "fundingCap": 38082382,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Metodología Hardware-Software",
+    "hasAI": true,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Desarrolladores de Software",
+      "Expertos en Transporte Sostenible"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "Coordenadas GPS"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Láser"
+    ],
+    "developmentStatus": 0.59,
+    "riskLevel": "Moderado",
+    "projectObjective": "Diseño de un sistema de control para regulación de tensión en turbina hidráulica",
+    "rewardType": [
+      "Participación en Beneficios"
+    ],
+    "returnPeriod": 4,
+    "competitiveLandscape": [
+      "Eficiencia en la navegación autónoma"
+    ],
+    "description": "Desarrollo de un sistema de control especializado para regular la tensión generada por una turbina hidráulica tipo kaplan acoplada a un generador DC, garantizando un suministro estable de energía eléctrica y optimizando el rendimiento del sistema.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 0,
+    "team": [
+      "66aad2e590c5f7e232583008"
+    ],
+    "representant": "66aad2e590c5f7e232583008"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f960d",
+    "projectName": "Diseño de una bicicleta eléctrica de competición",
+    "projectCategory": "Energía",
+    "fundingCap": 20197451,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "PLC",
+      "Hardware Open"
+    ],
+    "designMethodology": "Diseño Mecatrónico",
+    "hasAI": false,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Expertos en Energía Renovable",
+      "Ingenieros Eléctricos"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Láser",
+      "Metalurgia"
+    ],
+    "developmentStatus": 0.16,
+    "riskLevel": "Alto",
+    "projectObjective": "Diseño de una bicicleta eléctrica de alto rendimiento",
+    "rewardType": [
+      "Reconocimiento en la industria"
+    ],
+    "returnPeriod": 5,
+    "competitiveLandscape": [
+      "Innovación en energía renovable"
+    ],
+    "description": "Diseño de una bicicleta eléctrica especialmente diseñada para competiciones, optimizando su rendimiento, velocidad y eficiencia energética.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 1,
+    "team": [
+      "66aad2e890c5f7e23258304c"
+    ],
+    "representant": "66aad2e890c5f7e23258304c"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f960e",
+    "projectName": "Diseño de un robot teleoperado para limpieza externa de tanques de almacenamiento de hidrocarburos",
+    "projectCategory": "Seguridad",
+    "fundingCap": 25702985,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Metodología Hardware-Software",
+    "hasAI": true,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Meteorólogos",
+      "Expertos en Desastres Naturales"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Láser"
+    ],
+    "developmentStatus": 0.31,
+    "riskLevel": "Moderado",
+    "projectObjective": "Desarrollo de un robot teleoperado para limpieza de tanques de almacenamiento de hidrocarburos",
+    "rewardType": [
+      "Reconocimiento en la industria"
+    ],
+    "returnPeriod": 4,
+    "competitiveLandscape": [
+      "Innovación en tecnologías para desastres naturales"
+    ],
+    "description": "Diseño y desarrollo de un robot teleoperado especializado en la limpieza externa de tanques de almacenamiento de hidrocarburos, permitiendo una limpieza segura y eficiente de estructuras críticas en la industria petrolera.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 1,
+    "team": [
+      "6670d46a6a466c1a3b7ed90c"
+    ],
+    "representant": "6670d46a6a466c1a3b7ed90c"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f9610",
+    "projectName": "Construcción de un robot asistencial para el programa de ingeniería mecatrónica",
+    "projectCategory": "Tecnologías Asistivas",
+    "fundingCap": 15523124,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Diseño Mecatrónico",
+    "hasAI": false,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Especialistas en Rehabilitación",
+      "Diseñadores Industriales"
+    ],
+    "resourceOptimization": [
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Prototipado Rápido"
+    ],
+    "developmentStatus": 0.05,
+    "riskLevel": "Moderado",
+    "projectObjective": "Construcción de un robot asistencial",
+    "rewardType": [
+      "Reconocimiento en la industria"
+    ],
+    "returnPeriod": 4,
+    "competitiveLandscape": [
+      "Innovación en dispositivos de rehabilitación"
+    ],
+    "description": "Construcción de un robot diseñado para proporcionar asistencia en diversas tareas, como la atención médica, la asistencia domiciliaria y la educación, como parte del programa de ingeniería mecatrónica.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 1,
+    "team": [
+      "66aad2e690c5f7e23258301a",
+      "66aad2e990c5f7e232583056"
+    ],
+    "representant": "66aad2e990c5f7e232583056"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f9614",
+    "projectName": "Diseño de una tricicleta con sistema de tracción híbrida pedaleo/motor eléctrico",
+    "projectCategory": "Tecnologías Asistivas",
+    "fundingCap": 37177139,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Diseño Mecatrónico",
+    "hasAI": false,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Especialistas en Rehabilitación",
+      "Diseñadores Industriales"
+    ],
+    "resourceOptimization": [
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Prototipado Rápido"
+    ],
+    "developmentStatus": 0.86,
+    "riskLevel": "Bajo",
+    "projectObjective": "Diseño de una tricicleta con sistema de tracción híbrida",
+    "rewardType": [
+      "Reconocimiento en la industria"
+    ],
+    "returnPeriod": 3,
+    "competitiveLandscape": [
+      "Innovación en prótesis robóticas"
+    ],
+    "description": "Diseño de una tricicleta que combina pedaleo humano con un motor eléctrico para proporcionar una tracción híbrida, mejorando la eficiencia y comodidad en el transporte personal.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 0,
+    "team": [
+      "66aad2e590c5f7e23258300a"
+    ],
+    "representant": "66aad2e590c5f7e23258300a"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f9619",
+    "projectName": "Comparación entre dos tipos de control implementados en LabVIEW y MATLAB aplicados a la transmisión hidrostática y al péndulo invertido del laboratorio de oleo-neumática de la UNAB",
+    "projectCategory": "Industria",
+    "fundingCap": 22906347,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "PLC",
+      "Hardware Open"
+    ],
+    "designMethodology": "Diseño Mecatrónico",
+    "hasAI": true,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Ing. de Alimentos",
+      "Operadores de Producción"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Láser",
+      "Metalurgia"
+    ],
+    "developmentStatus": 0.33,
+    "riskLevel": "Moderado",
+    "projectObjective": "Comparación entre dos tipos de control implementados en LabVIEW y MATLAB",
+    "rewardType": [
+      "Participación en Beneficios"
+    ],
+    "returnPeriod": 4,
+    "competitiveLandscape": [
+      "Eficiencia en procesos alimentarios"
+    ],
+    "description": "Investigación y comparación entre dos tipos de control implementados en LabVIEW y MATLAB, aplicados a la transmisión hidrostática y al péndulo invertido en el laboratorio de oleo-neumática de la UNAB, evaluando su eficacia y rendimiento en diferentes contextos y aplicaciones.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 1,
+    "team": [
+      "66aad2e790c5f7e232583032"
+    ],
+    "representant": "66aad2e790c5f7e232583032"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f961e",
+    "projectName": "Desarrollo de un Sistema de Control para la Gestión Eléctrica del Pedaleo Asistido en Vehículos de Tracción Híbrida en pro del cuidado de las Baterías Eléctricas",
+    "projectCategory": "Energía Renovable",
+    "fundingCap": 44671372,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Diseño Mecatrónico",
+    "hasAI": false,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Ingenieros Eléctricos",
+      "Instaladores de Energía Solar"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Prototipado Rápido"
+    ],
+    "developmentStatus": 0.05,
+    "riskLevel": "Moderado",
+    "projectObjective": "Desarrollo de un sistema de control para la gestión eléctrica del pedaleo asistido",
+    "rewardType": [
+      "Participación en las ganancias"
+    ],
+    "returnPeriod": 4,
+    "competitiveLandscape": [
+      "Eficiencia en sistemas de energía renovable"
+    ],
+    "description": "Desarrollo de un sistema de control para la gestión eléctrica del pedaleo asistido en vehículos de tracción híbrida, con el objetivo de optimizar el rendimiento y prolongar la vida útil de las baterías eléctricas.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 0,
+    "team": [
+      "66aad2e890c5f7e23258304e"
+    ],
+    "representant": "66aad2e890c5f7e23258304e"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f95cf",
+    "projectName": "Sistema de caracterización y modelamiento de afloramientos geológicos mediante técnicas de fotogrametría, a bordo de un vehículo aéreo autónomo no tripulado",
+    "projectCategory": "Agricultura",
+    "fundingCap": 21730962,
+    "mechatronicComponents": [
+      "Sensores",
+      "Microcontroladores"
+    ],
+    "controlPlatforms": [
+      "Arduino"
+    ],
+    "designMethodology": "Metodología V",
+    "hasAI": false,
+    "collaborators": [
+      "Ing. Agrónomos",
+      "Ing. Civiles"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Prototipado Rápido"
+    ],
+    "developmentStatus": 0.19,
+    "riskLevel": "Moderado",
+    "projectObjective": "Desarrollo de un sistema de caracterización y modelamiento de afloramientos geológicos",
+    "rewardType": [
+      "Producto final del proyecto"
+    ],
+    "returnPeriod": 2,
+    "competitiveLandscape": [
+      "Diferenciación a través de tecnología única"
+    ],
+    "description": "Diseño y desarrollo de un sistema especializado para la caracterización y modelamiento de afloramientos geológicos utilizando técnicas de fotogrametría, montado en un vehículo aéreo autónomo no tripulado, permitiendo una cartografía detallada y precisa del terreno.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 1,
+    "team": [
+      "66aad2e690c5f7e232583026"
+    ],
+    "representant": "66aad2e690c5f7e232583026"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f95d9",
+    "projectName": "Estudio y generación de dispositivos mecánicos con acoples móviles mediante la técnica de prototipado rápido FDM (Fused Deposition Modeling)",
+    "projectCategory": "Domótica",
+    "fundingCap": 19573879,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Raspberry Pi",
+      "PLC"
+    ],
+    "designMethodology": "Metodología Hardware-Software",
+    "hasAI": true,
+    "collaborators": [
+      "Ing. Electrónicos",
+      "Ing. de Sistemas"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Láser",
+      "Metalurgia"
+    ],
+    "developmentStatus": 0.58,
+    "riskLevel": "Moderado",
+    "projectObjective": "Estudio y generación de dispositivos mecánicos con acoples móviles",
+    "rewardType": [
+      "Participación en las ganancias"
+    ],
+    "returnPeriod": 3,
+    "competitiveLandscape": [
+      "Enfoque en la sostenibilidad"
+    ],
+    "description": "Investigación y desarrollo de dispositivos mecánicos con acoples móviles utilizando la técnica de prototipado rápido FDM, con el objetivo de crear sistemas flexibles y adaptables para diversas aplicaciones industriales y comerciales.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 1,
+    "team": [
+      "66aad2e990c5f7e23258305a"
+    ],
+    "representant": "66aad2e990c5f7e23258305a"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f95da",
+    "projectName": "Diseño y construcción de una plataforma para rehabilitación de movimiento controlado de rotación y traslación de miembros inferiores para pacientes con hemiplejia",
+    "projectCategory": "Industrial",
+    "fundingCap": 20162431,
+    "mechatronicComponents": [
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "PLC",
+      "Hardware Open"
+    ],
+    "designMethodology": "Metodología Hardware-Software",
+    "hasAI": true,
+    "collaborators": [
+      "Ing. de Control (Automáticos)",
+      "Ing. Electrónicos",
+      "Ing. Mecatrónicos"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Láser",
+      "Metalurgia"
+    ],
+    "developmentStatus": 0.17,
+    "riskLevel": "Moderado",
+    "projectObjective": "Desarrollo de una plataforma de rehabilitación para pacientes con hemiplejia",
+    "rewardType": [
+      "Participación en las ganancias"
+    ],
+    "returnPeriod": 3,
+    "competitiveLandscape": [
+      "Mejora en la eficiencia comparada con competidores"
+    ],
+    "description": "Diseño y construcción de una plataforma especializada para la rehabilitación del movimiento controlado de rotación y traslación de miembros inferiores, ofreciendo terapias personalizadas y efectivas para pacientes con hemiplejia y otros trastornos neurológicos.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 1,
+    "team": [
+      "6670d46a6a466c1a3b7ed90c"
+    ],
+    "representant": "6670d46a6a466c1a3b7ed90c"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f95dc",
+    "projectName": "Diseño de una red neuronal recurrente para la estimación de la variable peso para aplicaciones en el sector avícola y apícola",
+    "projectCategory": "Domótica",
+    "fundingCap": 33899142,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Raspberry Pi",
+      "PLC"
+    ],
+    "designMethodology": "Metodología Hardware-Software",
+    "hasAI": true,
+    "collaborators": [
+      "Ing. Electrónicos",
+      "Ing. de Sistemas"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Láser",
+      "Metalurgia"
+    ],
+    "developmentStatus": 0.87,
+    "riskLevel": "Moderado",
+    "projectObjective": "Diseño de una red neuronal recurrente para estimación de peso",
+    "rewardType": [
+      "Participación en las ganancias"
+    ],
+    "returnPeriod": 3,
+    "competitiveLandscape": [
+      "Enfoque en la sostenibilidad"
+    ],
+    "description": "Diseño de una red neuronal recurrente especializada en la estimación precisa del peso en el sector avícola y apícola, con el fin de optimizar los procesos de producción y mejorar la gestión del inventario.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 0,
+    "team": [
+      "66aad2e590c5f7e23258300e"
+    ],
+    "representant": "66aad2e590c5f7e23258300e"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f95dd",
+    "projectName": "Evaluación de seguridad, desempeño y experiencia de usuario de un sistema robótico controlado por BCI para la rehabilitación asistida de brazo y antebrazo (Brazo-FiT) en personas con hemiparesia",
+    "projectCategory": "Agricultura",
+    "fundingCap": 46054758,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Diseño Mecatrónico",
+    "hasAI": false,
+    "collaborators": [
+      "Ing. Agrónomos",
+      "Ing. Electrónicos"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Prototipado Rápido"
+    ],
+    "developmentStatus": 0.86,
+    "riskLevel": "Moderado",
+    "projectObjective": "Evaluación de un sistema robótico para rehabilitación asistida",
+    "rewardType": [
+      "Producto final del proyecto"
+    ],
+    "returnPeriod": 2,
+    "competitiveLandscape": [
+      "Diferenciación a través de tecnología única"
+    ],
+    "description": "Evaluación de la seguridad, desempeño y experiencia de usuario de un sistema robótico controlado por BCI para la rehabilitación asistida de brazo y antebrazo (Brazo-FiT) en personas con hemiparesia, con el fin de mejorar la efectividad del tratamiento y la calidad de vida del paciente.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 0,
+    "team": [
+      "66aad2e790c5f7e23258303a"
+    ],
+    "representant": "66aad2e790c5f7e23258303a"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f95de",
+    "projectName": "Sistema Robótico para Rehabilitación de Miembro Superior",
+    "projectCategory": "Electrónica",
+    "fundingCap": 25834325,
+    "mechatronicComponents": [
+      "Sensores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Arduino"
+    ],
+    "designMethodology": "Metodología V",
+    "hasAI": false,
+    "collaborators": [
+      "Ing. Electrónicos",
+      "Ing. de Sistemas"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Láser",
+      "Prototipado Rápido"
+    ],
+    "developmentStatus": 0.36,
+    "riskLevel": "Alto",
+    "projectObjective": "Desarrollo de un sistema robótico para rehabilitación",
+    "rewardType": [
+      "Reconocimiento en la industria"
+    ],
+    "returnPeriod": 1,
+    "competitiveLandscape": [
+      "Innovación en eficiencia energética"
+    ],
+    "description": "Desarrollo de un sistema robótico diseñado específicamente para la rehabilitación del miembro superior, proporcionando terapias personalizadas y efectivas para pacientes con lesiones o discapacidades en esta área.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 1,
+    "team": [
+      "66aad2e990c5f7e232583054"
+    ],
+    "representant": "66aad2e990c5f7e232583054"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f95e3",
+    "projectName": "Mecanismo antropomórfico para rehabilitación de marcha",
+    "projectCategory": "Energía",
+    "fundingCap": 16772774,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Diseño Mecatrónico",
+    "hasAI": false,
+    "collaborators": [
+      "Ing. Electrónicos",
+      "Ing. de Energías Renovables"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Láser",
+      "Prototipado Rápido"
+    ],
+    "developmentStatus": 0.54,
+    "riskLevel": "Moderado",
+    "projectObjective": "Desarrollo de un mecanismo para rehabilitación de marcha",
+    "rewardType": [
+      "Participación en Beneficios"
+    ],
+    "returnPeriod": 4,
+    "competitiveLandscape": [
+      "Sostenibilidad en la generación de energía"
+    ],
+    "description": "Desarrollo de un mecanismo antropomórfico destinado a la rehabilitación de la marcha, ayudando a pacientes con problemas de movilidad a recuperar la función y el equilibrio adecuados durante la locomoción.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 1,
+    "team": [
+      "66aad2e990c5f7e23258305c"
+    ],
+    "representant": "66aad2e990c5f7e23258305c"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f95e5",
+    "projectName": "Sistema automático apilador de cajitas de jugo de la máquina Tetra Brick Aseptic 19 para la optimización del empacado en la empresa Coolechera Ltda",
+    "projectCategory": "Agricultura",
+    "fundingCap": 27027244,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Raspberry Pi",
+      "PLC"
+    ],
+    "designMethodology": "Diseño Mecatrónico",
+    "hasAI": true,
+    "collaborators": [
+      "Ing. Agrónomos",
+      "Ing. Mecatrónicos"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "Coordenadas GPS"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Láser",
+      "Prototipado Rápido"
+    ],
+    "developmentStatus": 0.65,
+    "riskLevel": "Moderado",
+    "projectObjective": "Automatización del proceso de apilado de cajitas de jugo",
+    "rewardType": [
+      "Participación en Beneficios"
+    ],
+    "returnPeriod": 2,
+    "competitiveLandscape": [
+      "Diferenciación a través de tecnología única"
+    ],
+    "description": "Implementación de un sistema automático apilador de cajitas de jugo provenientes de la máquina Tetra Brick Aseptic 19 para mejorar la eficiencia y precisión en el empacado en la empresa Coolechera Ltda.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 1,
+    "team": [
+      "66aad2e690c5f7e23258302a"
+    ],
+    "representant": "66aad2e690c5f7e23258302a"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f95e8",
+    "projectName": "Diseño de un sistema de estabilización del voltaje de línea para esquemas de generación Stand-Alone con cargas desbalanceadas",
+    "projectCategory": "Tecnologías Asistivas",
+    "fundingCap": 27020230,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Arduino"
+    ],
+    "designMethodology": "Metodología V",
+    "hasAI": false,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Ing. Electrónicos"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Prototipado Rápido"
+    ],
+    "developmentStatus": 0.78,
+    "riskLevel": "Alto",
+    "projectObjective": "Diseño de un sistema de estabilización de voltaje para esquemas de generación Stand-Alone",
+    "rewardType": [
+      "Reconocimiento en la industria"
+    ],
+    "returnPeriod": 2,
+    "competitiveLandscape": [
+      "Innovación en dispositivos para discapacidades visuales"
+    ],
+    "description": "Diseño de un sistema de estabilización del voltaje de línea específicamente diseñado para esquemas de generación Stand-Alone con cargas desbalanceadas, garantizando un suministro eléctrico confiable y seguro.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 1,
+    "team": [
+      "66aad2e690c5f7e23258301c"
+    ],
+    "representant": "66aad2e690c5f7e23258301c"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f95e9",
+    "projectName": "Diseño e implementación de un sistema de control para un intercambiador de calor",
+    "projectCategory": "Educación",
+    "fundingCap": 27646223,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Raspberry Pi",
+      "Arduino"
+    ],
+    "designMethodology": "Metodología Hardware-Software",
+    "hasAI": true,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Ing. de Sistemas",
+      "Ing. Electrónicos"
+    ],
+    "resourceOptimization": [
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Láser"
+    ],
+    "developmentStatus": 0.09,
+    "riskLevel": "Bajo",
+    "projectObjective": "Desarrollo de un sistema de control para un intercambiador de calor",
+    "rewardType": [
+      "Reconocimiento en la industria"
+    ],
+    "returnPeriod": 3,
+    "competitiveLandscape": [
+      "Innovación en juguetes educativos"
+    ],
+    "description": "Diseño e implementación de un sistema de control para un intercambiador de calor que regula eficientemente el intercambio térmico entre dos fluidos, mejorando la eficiencia energética y reduciendo costos operativos.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 1,
+    "team": [
+      "6670d46a6a466c1a3b7ed90c"
+    ],
+    "representant": "6670d46a6a466c1a3b7ed90c"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f95eb",
+    "projectName": "Sistema de Visión artificial para identificar insectos y su grado de peligrosidad",
+    "projectCategory": "Medicina",
+    "fundingCap": 43921049,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Diseño Mecatrónico",
+    "hasAI": true,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Ing. Biomédicos"
+    ],
+    "resourceOptimization": [
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Láser"
+    ],
+    "developmentStatus": 0.34,
+    "riskLevel": "Bajo",
+    "projectObjective": "Desarrollo de un sistema de visión artificial para identificación de insectos",
+    "rewardType": [
+      "Reconocimiento en la industria"
+    ],
+    "returnPeriod": 4,
+    "competitiveLandscape": [
+      "Innovación en prótesis robóticas"
+    ],
+    "description": "Desarrollo de un sistema de visión artificial capaz de identificar insectos y evaluar su grado de peligrosidad, facilitando la detección y control de plagas en cultivos agrícolas y entornos urbanos.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 0,
+    "team": [
+      "66aad2e890c5f7e232583050"
+    ],
+    "representant": "66aad2e890c5f7e232583050"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f95f6",
+    "projectName": "Interpretación de señales para la detección de obstrucciones en inspecciones instrumentadas de tuberías para el transporte de hidrocarburos",
+    "projectCategory": "Deporte",
+    "fundingCap": 25608932,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Metodología Hardware-Software",
+    "hasAI": false,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Entrenadores Deportivos",
+      "Fisioterapeutas"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Láser"
+    ],
+    "developmentStatus": 0.92,
+    "riskLevel": "Bajo",
+    "projectObjective": "Interpretación de señales para detección de obstrucciones en tuberías de transporte de hidrocarburos",
+    "rewardType": [
+      "Reconocimiento en la industria"
+    ],
+    "returnPeriod": 4,
+    "competitiveLandscape": [
+      "Eficiencia en el entrenamiento deportivo"
+    ],
+    "description": "Investigación y desarrollo de técnicas de interpretación de señales para la detección temprana de obstrucciones en inspecciones instrumentadas de tuberías utilizadas en el transporte de hidrocarburos, garantizando la seguridad y eficiencia en la operación de los sistemas de transporte.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 1,
+    "team": [
+      "66aad2e890c5f7e232583052"
+    ],
+    "representant": "66aad2e890c5f7e232583052"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f95fc",
+    "projectName": "Diseño de un sistema de control utilizando el DCS Delta V para regular el caudal de bombas centrífugas",
+    "projectCategory": "Medicina",
+    "fundingCap": 41096695,
+    "mechatronicComponents": [
+      "Sensores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Metodología Hardware-Software",
+    "hasAI": false,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Profesionales de la Salud",
+      "Desarrolladores de Software"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Láser",
+      "Prototipado Rápido"
+    ],
+    "developmentStatus": 0.25,
+    "riskLevel": "Moderado",
+    "projectObjective": "Desarrollo de un sistema de control para regular el caudal de bombas centrífugas",
+    "rewardType": [
+      "Reconocimiento en la industria"
+    ],
+    "returnPeriod": 4,
+    "competitiveLandscape": [
+      "Precisión en monitoreo de salud"
+    ],
+    "description": "Diseño de un sistema de control basado en el DCS Delta V para regular el caudal de bombas centrífugas, optimizando procesos industriales y garantizando un flujo estable y preciso.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 0,
+    "team": [
+      "66aad2e890c5f7e23258304a"
+    ],
+    "representant": "66aad2e890c5f7e23258304a"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f960a",
+    "projectName": "Desarrollo de prótesis inteligente manejada por inteligencia para interpretar señales cerebrales",
+    "projectCategory": "Educación",
+    "fundingCap": 15170358,
+    "mechatronicComponents": [
+      "Sensores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Metodología Hardware-Software",
+    "hasAI": false,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Educadores",
+      "Desarrolladores de Software"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Prototipado Rápido"
+    ],
+    "developmentStatus": 0.33,
+    "riskLevel": "Alto",
+    "projectObjective": "Desarrollo de prótesis inteligente controlada por señales cerebrales",
+    "rewardType": [
+      "Reconocimiento en la industria"
+    ],
+    "returnPeriod": 3,
+    "competitiveLandscape": [
+      "Innovación en tecnología educativa"
+    ],
+    "description": "Desarrollo de una prótesis inteligente que utiliza inteligencia artificial para interpretar señales cerebrales y permitir un control preciso y natural de las extremidades protésicas, mejorando la calidad de vida de personas con amputaciones.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 1,
+    "team": [
+      "66758c099caed3c05b9205d1"
+    ],
+    "representant": "66758c099caed3c05b9205d1"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f960b",
+    "projectName": "Diseño e implementación de un sistema mecatrónico para entrenamiento de nadadores profesionales en el departamento del Atlántico",
+    "projectCategory": "Educación",
+    "fundingCap": 40206422,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Metodología V",
+    "hasAI": false,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Educadores Infantiles",
+      "Diseñadores de Juguetes"
+    ],
+    "resourceOptimization": [
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Prototipado Rápido"
+    ],
+    "developmentStatus": 0.78,
+    "riskLevel": "Bajo",
+    "projectObjective": "Desarrollo de un sistema para entrenamiento de nadadores profesionales",
+    "rewardType": [
+      "Reconocimiento en la industria"
+    ],
+    "returnPeriod": 2,
+    "competitiveLandscape": [
+      "Innovación en juguetes educativos"
+    ],
+    "description": "Diseño e implementación de un sistema mecatrónico específicamente diseñado para el entrenamiento de nadadores profesionales en el departamento del Atlántico, con el objetivo de mejorar su rendimiento y técnica.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 0,
+    "team": [
+      "66aad2e790c5f7e232583036"
+    ],
+    "representant": "66aad2e790c5f7e232583036"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f9611",
+    "projectName": "Adaptación de un sistema electrónico sonoro a un balón para la innovación en la práctica de futsal para personas con discapacidad visual (bindball)",
+    "projectCategory": "Tecnologías Asistivas",
+    "fundingCap": 37887924,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Diseño Mecatrónico",
+    "hasAI": true,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Expertos en Accesibilidad",
+      "Usuarios con Discapacidad Visual"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Prototipado Rápido"
+    ],
+    "developmentStatus": 0.83,
+    "riskLevel": "Moderado",
+    "projectObjective": "Desarrollo de un balón electrónico para personas con discapacidad visual",
+    "rewardType": [
+      "Participación en Beneficios"
+    ],
+    "returnPeriod": 4,
+    "competitiveLandscape": [
+      "Innovación en tecnologías para discapacidad visual"
+    ],
+    "description": "Adaptación de un sistema electrónico sonoro a un balón de futsal para personas con discapacidad visual, permitiendo una práctica deportiva inclusiva y segura mediante la detección del sonido y la vibración.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 0,
+    "team": [
+      "66aad2e890c5f7e23258304e"
+    ],
+    "representant": "66aad2e890c5f7e23258304e"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f9613",
+    "projectName": "Sistema de control de un elevador, con tecnología inalámbrica para el diagnóstico, bloqueo y desbloqueo remoto",
+    "projectCategory": "Educación",
+    "fundingCap": 38147570,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Metodología V",
+    "hasAI": false,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Educadores",
+      "Desarrolladores de Software"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Láser",
+      "Prototipado Rápido"
+    ],
+    "developmentStatus": 0.34,
+    "riskLevel": "Bajo",
+    "projectObjective": "Desarrollo de un sistema de control inalámbrico para elevadores",
+    "rewardType": [
+      "Reconocimiento en la industria"
+    ],
+    "returnPeriod": 2,
+    "competitiveLandscape": [
+      "Innovación en educación virtual"
+    ],
+    "description": "Diseño e implementación de un sistema de control inalámbrico para elevadores que permite el diagnóstico, bloqueo y desbloqueo remoto, mejorando la eficiencia y seguridad en su operación.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 0,
+    "team": [
+      "66aad2e790c5f7e23258303e"
+    ],
+    "representant": "66aad2e790c5f7e23258303e"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f9615",
+    "projectName": "Vehículo terrestre con navegación autónoma para apoyo en tareas de cultivos de café",
+    "projectCategory": "Energía",
+    "fundingCap": 27249810,
+    "mechatronicComponents": [
+      "Sensores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Metodología Hardware-Software",
+    "hasAI": false,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Ingenieros Eléctricos",
+      "Expertos en Energía Renovable"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Láser",
+      "Prototipado Rápido"
+    ],
+    "developmentStatus": 0.04,
+    "riskLevel": "Moderado",
+    "projectObjective": "Desarrollo de un vehículo terrestre autónomo para tareas agrícolas",
+    "rewardType": [
+      "Participación en las ganancias"
+    ],
+    "returnPeriod": 5,
+    "competitiveLandscape": [
+      "Sostenibilidad en energía para comunidades"
+    ],
+    "description": "Diseño y construcción de un vehículo terrestre equipado con sistema de navegación autónoma, diseñado específicamente para brindar apoyo en tareas de cultivos de café, como la recolección y el mantenimiento de plantaciones.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 1,
+    "team": [
+      "66aad2e590c5f7e232583010"
+    ],
+    "representant": "66aad2e590c5f7e232583010"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f9618",
+    "projectName": "Investigación de nuevos modelos nanotecnológicos en el diseño de piel artificial con nanopartículas para el recubrimiento de prótesis de mano y piernas en discapacitados",
+    "projectCategory": "Educación",
+    "fundingCap": 31833438,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores"
+    ],
+    "controlPlatforms": [
+      "Arduino"
+    ],
+    "designMethodology": "Metodología V",
+    "hasAI": false,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Pedagogos",
+      "Diseñadores Infantiles"
+    ],
+    "resourceOptimization": [
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Prototipado Rápido"
+    ],
+    "developmentStatus": 0.61,
+    "riskLevel": "Bajo",
+    "projectObjective": "Investigación de nuevos modelos nanotecnológicos en el diseño de piel artificial",
+    "rewardType": [
+      "Reconocimiento en la industria"
+    ],
+    "returnPeriod": 2,
+    "competitiveLandscape": [
+      "Innovación en kits educativos"
+    ],
+    "description": "Investigación y desarrollo de nuevos modelos nanotecnológicos en el diseño de piel artificial utilizando nanopartículas, con el objetivo de mejorar el recubrimiento de prótesis de mano y piernas en personas discapacitadas, ofreciendo una mayor comodidad y funcionalidad.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 0,
+    "team": [
+      "66758c099caed3c05b9205d1"
+    ],
+    "representant": "66758c099caed3c05b9205d1"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f961a",
+    "projectName": "Investigación y desarrollo de una prótesis comercial con control mecatrónico por clonación artificial y diseño asistido basado en patrones de células madres para discapacitados de la violencia en Colombia evaluada en un prototipo construido",
+    "projectCategory": "Medicina",
+    "fundingCap": 46353079,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Diseño Mecatrónico",
+    "hasAI": false,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Fisioterapeutas",
+      "Desarrolladores de Software"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "De acuerdo con el inversor"
+    ],
+    "manufacturingTechnology": [
+      "Impresión 3D",
+      "Prototipado Rápido"
+    ],
+    "developmentStatus": 0.39,
+    "riskLevel": "Moderado",
+    "projectObjective": "Investigación y desarrollo de prótesis comercial con control mecatrónico para discapacitados",
+    "rewardType": [
+      "Reconocimiento en la industria"
+    ],
+    "returnPeriod": 3,
+    "competitiveLandscape": [
+      "Innovación en terapias de rehabilitación"
+    ],
+    "description": "Investigación y desarrollo de una prótesis comercial con control mecatrónico utilizando técnicas de clonación artificial y diseño asistido basado en patrones de células madre, dirigida a personas discapacitadas como resultado de la violencia en Colombia, evaluada en un prototipo construido para garantizar su eficacia y funcionalidad.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 0,
+    "team": [
+      "66aad2e690c5f7e23258302a"
+    ],
+    "representant": "66aad2e690c5f7e23258302a"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "65db9751d1d62976714f961d",
+    "projectName": "Sistema automatizado de bombeo solar para abastecimiento de agua a comunidad wayuu",
+    "projectCategory": "Exploración Oceánica",
+    "fundingCap": 17249735,
+    "mechatronicComponents": [
+      "Sensores",
+      "Actuadores",
+      "Microcontroladores",
+      "Interfaz Humano-Computador"
+    ],
+    "controlPlatforms": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "designMethodology": "Metodología Hardware-Software",
+    "hasAI": true,
+    "collaborators": [
+      "Ing. Mecatrónicos",
+      "Oceanógrafos",
+      "Desarrolladores de Software"
+    ],
+    "resourceOptimization": [
+      "Eficiencia Energética",
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "Coordenadas GPS"
+    ],
+    "manufacturingTechnology": [
+      "Láser",
+      "Metalurgia"
+    ],
+    "developmentStatus": 0.63,
+    "riskLevel": "Moderado",
+    "projectObjective": "Desarrollo de un sistema automatizado de bombeo solar",
+    "rewardType": [
+      "Reconocimiento en la industria"
+    ],
+    "returnPeriod": 3,
+    "competitiveLandscape": [
+      "Innovación en exploración submarina"
+    ],
+    "description": "Diseño e implementación de un sistema automatizado de bombeo solar para el abastecimiento de agua en comunidades Wayuu, aprovechando la energía solar para garantizar un suministro continuo y sostenible de agua potable.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "__v": 0,
+    "cluster": 1,
+    "team": [
+      "66aad2e590c5f7e232583005"
+    ],
+    "representant": "66aad2e590c5f7e232583005"
+  },
+  {
+    "projectRiskCalculation": 0,
+    "returnRate": 0,
+    "_id": "66763e77b6e2ddf4f9b57070",
+    "projectName": "Automatización Robótica para Ensamblaje Electrónico",
+    "projectCategory": "Robótica",
+    "fundingCap": 85000000,
+    "mechatronicComponents": [
+      "Actuadores",
+      "Microcontroladores"
+    ],
+    "controlPlatforms": [
+      "Arduino"
+    ],
+    "designMethodology": "Metodología V",
+    "hasAI": true,
+    "collaborators": [
+      "Ing. Mecatrónicos"
+    ],
+    "resourceOptimization": [
+      "Materiales Ecológicos (Reciclables)"
+    ],
+    "location": [
+      "Popayan"
+    ],
+    "manufacturingTechnology": [
+      "Metalurgia"
+    ],
+    "developmentStatus": 0.4,
+    "riskLevel": "Moderado",
+    "projectObjective": "Incrementar la eficiencia y precisión del ensamblaje",
+    "rewardType": [
+      "Participación en las ganancias"
+    ],
+    "returnPeriod": 1,
+    "competitiveLandscape": [
+      "Mejora en la eficiencia comparada con competidores"
+    ],
+    "description": "Desarrollar un sistema robótico para optimizar el ensamblaje de componentes electrónicos en la línea de producción.",
+    "isActive": true,
+    "projectImages": [
+      
+    ],
+    "cluster": 2,
+    "team": [
+      "66aad2e990c5f7e23258305c"
+    ],
+    "__v": 0,
+    "representant": "66aad2e990c5f7e23258305c"
+  }
+]

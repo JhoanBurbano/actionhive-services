@@ -1,19 +1,31 @@
 const User = require('../models/user.model');
+const Investor = require('../models/investor.model');
 const bcrypt = require('bcrypt');
 const jwt = require('jsonwebtoken');
 const { secret } = require('../config');
 const { mapToUserResponse } = require('../mappers/user.mapper');
 const { sendForgotEmail } = require('./email.service');
+const { generateAndRegisterFakeUsers } = require('./user.service');
+const { runScript } = require('./scripts.services');
+const recommendProjectsForUsers = require('./recomendations');
 
-const login = async (email, passwword) => {
+const login = async (email, password, isInvestor = false) => {
     try {
-        const user = await User.findOne({ email });
+        let user;
+        if (isInvestor) {
+            user = await Investor.findOne({ email });
         if (!user) return { status: 404, message: 'User not found' };
         if (!user.isActive) return { status: 403, message: 'User not active' };
-        const match = await bcrypt.compare(passwword, user.password);
+        if (user.password !== password) return { status: 403, message: 'Invalid password' };
+        } else {
+         user = await User.findOne({ email });
+        if (!user) return { status: 404, message: 'User not found' };
+        if (!user.isActive) return { status: 403, message: 'User not active' };
+        const match = await bcrypt.compare(password, user.password);
         if (!match) return { status: 403, message: 'Invalid password' };
-        const token = jwt.sign({ id: user._id }, secret, { expiresIn: '24h' });
-        return { status: 200, message: 'Login success', data: mapToUserResponse(user, token)};
+        }
+         const token = jwt.sign({ id: user._id }, secret, { expiresIn: '24h' });
+        return { status: 200, message: 'Login success', data: mapToUserResponse(user, token, isInvestor)};
     } catch (error) {
         return { status: 500, message: error.message };
     }
@@ -52,11 +64,15 @@ const verify = async (email, token) => {
 
 const verifyToken = async (token) => {
     try {
+        // await generateAndRegisterFakeUsers(46).then(() => console.log('Fake users generated'));
+        // await runScript()
+        // throw new Error();
         const payload = jwt.verify(token, secret);
         if (!payload) return { status: 403, message: 'Invalid token' };
         const user = await User.findById(payload.id);
-        if (!user) return { status: 404, message: 'User not found' };
-        if (!user.isActive) return { status: 400, message: 'User not active' };
+        const investor = await Investor.findById(payload.id);
+        if (!user && !investor) return { status: 404, message: 'User not found' };
+        // if (!user.isActive) return { status: 400, message: 'User not active' };
         return { status: 200, message: 'Token verified' };
     }
     catch (error) {

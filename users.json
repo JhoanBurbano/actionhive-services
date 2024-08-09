@@ -1,0 +1,968 @@
+[
+    {
+        "_id": "6670d46a6a466c1a3b7ed90c",
+        "preferences": {
+            "preferredFundingCap": 33755120,
+            "riskTolerance": 0.49,
+            "expectedReturnRate": 0.41
+        },
+        "skills": [
+            "Diseño CAD",
+            "Programación de microcontroladores",
+            "Automatización industrial"
+        ],
+        "interests": [
+            "Programación",
+            "Mecatrónica",
+            "Electrónica"
+        ],
+        "socialLinks": [
+            "https://instagram.com/dylan51",
+            "https://github.com/iwaller",
+            "https://linkedin.com/in/richardandrea"
+        ]
+    },
+    {
+        "_id": "66758c099caed3c05b9205d1",
+        "preferences": {
+            "preferredFundingCap": 19739200,
+            "riskTolerance": 0.94,
+            "expectedReturnRate": 0.0
+        },
+        "skills": [
+            "Diseño CAD",
+            "Programación de microcontroladores",
+            "Automatización industrial"
+        ],
+        "interests": [
+            "Programación",
+            "Agricultura",
+            "Electrónica"
+        ],
+        "socialLinks": [
+            "https://instagram.com/lfrank",
+            "https://github.com/hartmanpatrick",
+            "https://linkedin.com/in/heatherwilliams"
+        ]
+    },
+    {
+        "_id": "66aad2e490c5f7e232582ffe",
+        "preferences": {
+            "preferredFundingCap": 65160590,
+            "riskTolerance": 0.26,
+            "expectedReturnRate": 0.76
+        },
+        "skills": [
+            "Diseño CAD",
+            "Programación de microcontroladores",
+            "Automatización industrial"
+        ],
+        "interests": [
+            "Electrónica",
+            "Programación",
+            "Desarrollo de Software"
+        ],
+        "socialLinks": [
+            "https://instagram.com/megan37",
+            "https://github.com/diane53",
+            "https://linkedin.com/in/davidswanson"
+        ]
+    },
+    {
+        "_id": "cf79d51f09046f422eb6971c2044529c",
+        "preferences": {
+            "preferredFundingCap": 48086113,
+            "riskTolerance": 0.62,
+            "expectedReturnRate": 0.52
+        },
+        "skills": [
+            "Diseño CAD",
+            "Programación de microcontroladores",
+            "Automatización industrial"
+        ],
+        "interests": [
+            "Eléctrica",
+            "Programación",
+            "Electrónica"
+        ],
+        "socialLinks": [
+            "https://instagram.com/medinadebra",
+            "https://github.com/ljohnson",
+            "https://linkedin.com/in/adamsmaria"
+        ]
+    },
+    {
+        "_id": "47fe52459b1d226c42ff1eb45fc84424",
+        "preferences": {
+            "preferredFundingCap": 42576129,
+            "riskTolerance": 0.85,
+            "expectedReturnRate": 0.05
+        },
+        "skills": [
+            "Diseño CAD",
+            "Programación de microcontroladores",
+            "Automatización industrial"
+        ],
+        "interests": [
+            "Eléctrica",
+            "Eléctrica",
+            "Desarrollo de Software"
+        ],
+        "socialLinks": [
+            "https://instagram.com/jordanbennett",
+            "https://github.com/jamescombs",
+            "https://linkedin.com/in/justinwright"
+        ]
+    },
+    {
+        "_id": "3a5f6e54aaf1fddcb30ec3aedc2d3d25",
+        "preferences": {
+            "preferredFundingCap": 73713950,
+            "riskTolerance": 0.27,
+            "expectedReturnRate": 0.58
+        },
+        "skills": [
+            "Diseño CAD",
+            "Programación de microcontroladores",
+            "Automatización industrial"
+        ],
+        "interests": [
+            "Programación",
+            "Electrónica",
+            "Electrónica"
+        ],
+        "socialLinks": [
+            "https://instagram.com/johnstoncaroline",
+            "https://github.com/kristenmunoz",
+            "https://linkedin.com/in/brooke56"
+        ]
+    },
+    {
+        "_id": "e649d37ff2d04576616305eb32fb3efe",
+        "preferences": {
+            "preferredFundingCap": 73634215,
+            "riskTolerance": 0.5,
+            "expectedReturnRate": 0.11
+        },
+        "skills": [
+            "Diseño CAD",
+            "Programación de microcontroladores",
+            "Automatización industrial"
+        ],
+        "interests": [
+            "Electrónica",
+            "Mecatrónica",
+            "Electrónica"
+        ],
+        "socialLinks": [
+            "https://instagram.com/catherinenewton",
+            "https://github.com/johnhansen",
+            "https://linkedin.com/in/paula45"
+        ]
+    },
+    {
+        "_id": "57953ae23cd72663ce83fcbdd0bf18c1",
+        "preferences": {
+            "preferredFundingCap": 77893608,
+            "riskTolerance": 0.29,
+            "expectedReturnRate": 0.39
+        },
+        "skills": [
+            "Diseño CAD",
+            "Programación de microcontroladores",
+            "Automatización industrial"
+        ],
+        "interests": [
+            "Mecatrónica",
+            "Mecatrónica",
+            "Eléctrica"
+        ],
+        "socialLinks": [
+            "https://instagram.com/robert14",
+            "https://github.com/laura22",
+            "https://linkedin.com/in/cassandra84"
+        ]
+    },
+    {
+        "_id": "69754b4b39a97af052e379b7135cea4d",
+        "preferences": {
+            "preferredFundingCap": 56876079,
+            "riskTolerance": 0.53,
+            "expectedReturnRate": 0.46
+        },
+        "skills": [
+            "Diseño CAD",
+            "Programación de microcontroladores",
+            "Automatización industrial"
+        ],
+        "interests": [
+            "Mecatrónica",
+            "Desarrollo de Software",
+            "Inteligencia Artificial"
+        ],
+        "socialLinks": [
+            "https://instagram.com/jacksondiane",
+            "https://github.com/henry92",
+            "https://linkedin.com/in/smithstephen"
+        ]
+    },
+    {
+        "_id": "5ba7ac622887360b4f894f8b874a8172",
+        "preferences": {
+            "preferredFundingCap": 51109303,
+            "riskTolerance": 0.06,
+            "expectedReturnRate": 0.66
+        },
+        "skills": [
+            "Diseño CAD",
+            "Programación de microcontroladores",
+            "Automatización industrial"
+        ],
+        "interests": [
+            "Programación",
+            "Eléctrica",
+            "Eléctrica"
+        ],
+        "socialLinks": [
+            "https://instagram.com/jonesalicia",
+            "https://github.com/wharrison",
+            "https://linkedin.com/in/dweiss"
+        ]
+    },
+    {
+        "_id": "9e9c684a8187625b0b105cc8e76aa27b",
+        "preferences": {
+            "preferredFundingCap": 65826039,
+            "riskTolerance": 0.23,
+            "expectedReturnRate": 0.77
+        },
+        "skills": [
+            "Diseño CAD",
+            "Programación de microcontroladores",
+            "Automatización industrial"
+        ],
+        "interests": [
+            "Eléctrica",
+            "Programación",
+            "Electrónica"
+        ],
+        "socialLinks": [
+            "https://instagram.com/gmckenzie",
+            "https://github.com/ronald16",
+            "https://linkedin.com/in/jfischer"
+        ]
+    },
+    {
+        "_id": "79f98956336a06bf25d3d268ba61a125",
+        "preferences": {
+            "preferredFundingCap": 32900132,
+            "riskTolerance": 0.93,
+            "expectedReturnRate": 0.87
+        },
+        "skills": [
+            "Diseño CAD",
+            "Programación de microcontroladores",
+            "Automatización industrial"
+        ],
+        "interests": [
+            "Desarrollo de Software",
+            "Mecatrónica",
+            "Electrónica"
+        ],
+        "socialLinks": [
+            "https://instagram.com/todd48",
+            "https://github.com/bradley32",
+            "https://linkedin.com/in/kimberly19"
+        ]
+    },
+    {
+        "_id": "27369987d4b85699c1a5c52693d97c8f",
+        "preferences": {
+            "preferredFundingCap": 58698114,
+            "riskTolerance": 0.95,
+            "expectedReturnRate": 0.76
+        },
+        "skills": [
+            "Diseño CAD",
+            "Programación de microcontroladores",
+            "Automatización industrial"
+        ],
+        "interests": [
+            "Electrónica",
+            "Inteligencia Artificial",
+            "Programación"
+        ],
+        "socialLinks": [
+            "https://instagram.com/maurice80",
+            "https://github.com/murphyjennifer",
+            "https://linkedin.com/in/vwilliamson"
+        ]
+    },
+    {
+        "_id": "827dc839c3cca3e2a13e9d3f5134f0a0",
+        "preferences": {
+            "preferredFundingCap": 76060524,
+            "riskTolerance": 0.25,
+            "expectedReturnRate": 0.59
+        },
+        "skills": [
+            "Diseño CAD",
+            "Programación de microcontroladores",
+            "Automatización industrial"
+        ],
+        "interests": [
+            "Agricultura",
+            "Desarrollo de Software",
+            "Eléctrica"
+        ],
+        "socialLinks": [
+            "https://instagram.com/monicalee",
+            "https://github.com/melanie83",
+            "https://linkedin.com/in/michelebarnes"
+        ]
+    },
+    {
+        "_id": "f31bfc4505e4fa59be073e13458f5914",
+        "preferences": {
+            "preferredFundingCap": 76396036,
+            "riskTolerance": 0.76,
+            "expectedReturnRate": 0.97
+        },
+        "skills": [
+            "Diseño CAD",
+            "Programación de microcontroladores",
+            "Automatización industrial"
+        ],
+        "interests": [
+            "Agricultura",
+            "Desarrollo de Software",
+            "Mecatrónica"
+        ],
+        "socialLinks": [
+            "https://instagram.com/uedwards",
+            "https://github.com/stephenstheresa",
+            "https://linkedin.com/in/pmiller"
+        ]
+    },
+    {
+        "_id": "bace3fb926cd8e17cc0a5ead9a18970f",
+        "preferences": {
+            "preferredFundingCap": 81158913,
+            "riskTolerance": 0.38,
+            "expectedReturnRate": 0.17
+        },
+        "skills": [
+            "Diseño CAD",
+            "Programación de microcontroladores",
+            "Automatización industrial"
+        ],
+        "interests": [
+            "Programación",
+            "Inteligencia Artificial",
+            "Inteligencia Artificial"
+        ],
+        "socialLinks": [
+            "https://instagram.com/burkejessica",
+            "https://github.com/heidilopez",
+            "https://linkedin.com/in/anamann"
+        ]
+    },
+    {
+        "_id": "b91f0db61160ce929cb0d3e2abe3ae80",
+        "preferences": {
+            "preferredFundingCap": 19402574,
+            "riskTolerance": 0.57,
+            "expectedReturnRate": 0.67
+        },
+        "skills": [
+            "Diseño CAD",
+            "Programación de microcontroladores",
+            "Automatización industrial"
+        ],
+        "interests": [
+            "Mecatrónica",
+            "Programación",
+            "Programación"
+        ],
+        "socialLinks": [
+            "https://instagram.com/campbellkimberly",
+            "https://github.com/myersdaniel",
+            "https://linkedin.com/in/wallskevin"
+        ]
+    },
+    {
+        "_id": "65dd41f983509069e075b2d0673fad8e",
+        "preferences": {
+            "preferredFundingCap": 21381127,
+            "riskTolerance": 0.95,
+            "expectedReturnRate": 0.54
+        },
+        "skills": [
+            "Diseño CAD",
+            "Programación de microcontroladores",
+            "Automatización industrial"
+        ],
+        "interests": [
+            "Eléctrica",
+            "Programación",
+            "Mecatrónica"
+        ],
+        "socialLinks": [
+            "https://instagram.com/amanda86",
+            "https://github.com/eileenhernandez",
+            "https://linkedin.com/in/qcaldwell"
+        ]
+    },
+    {
+        "_id": "429ee5d21fc9f182e5aad13282eef255",
+        "preferences": {
+            "preferredFundingCap": 18276670,
+            "riskTolerance": 0.91,
+            "expectedReturnRate": 0.58
+        },
+        "skills": [
+            "Diseño CAD",
+            "Programación de microcontroladores",
+            "Automatización industrial"
+        ],
+        "interests": [
+            "Desarrollo de Software",
+            "Agricultura",
+            "Desarrollo de Software"
+        ],
+        "socialLinks": [
+            "https://instagram.com/brooksterri",
+            "https://github.com/pateljoseph",
+            "https://linkedin.com/in/stephanie57"
+        ]
+    },
+    {
+        "_id": "b2f44e492b2f03857f7c29b315bc42f1",
+        "preferences": {
+            "preferredFundingCap": 72508757,
+            "riskTolerance": 0.44,
+            "expectedReturnRate": 0.33
+        },
+        "skills": [
+            "Diseño CAD",
+            "Programación de microcontroladores",
+            "Automatización industrial"
+        ],
+        "interests": [
+            "Programación",
+            "Mecatrónica",
+            "Programación"
+        ],
+        "socialLinks": [
+            "https://instagram.com/james37",
+            "https://github.com/wallen",
+            "https://linkedin.com/in/qharper"
+        ]
+    },
+    {
+        "_id": "d0463cc6c71c0690fbb9ffd78e499d3e",
+        "preferences": {
+            "preferredFundingCap": 21266355,
+            "riskTolerance": 0.46,
+            "expectedReturnRate": 0.59
+        },
+        "skills": [
+            "Diseño CAD",
+            "Programación de microcontroladores",
+            "Automatización industrial"
+        ],
+        "interests": [
+            "Eléctrica",
+            "Desarrollo de Software",
+            "Mecatrónica"
+        ],
+        "socialLinks": [
+            "https://instagram.com/uburton",
+            "https://github.com/smithcaroline",
+            "https://linkedin.com/in/josephmoore"
+        ]
+    },
+    {
+        "_id": "084ee08d574f0432579bbd1e98f65c70",
+        "preferences": {
+            "preferredFundingCap": 68452299,
+            "riskTolerance": 0.7,
+            "expectedReturnRate": 0.0
+        },
+        "skills": [
+            "Diseño CAD",
+            "Programación de microcontroladores",
+            "Automatización industrial"
+        ],
+        "interests": [
+            "Programación",
+            "Eléctrica",
+            "Mecatrónica"
+        ],
+        "socialLinks": [
+            "https://instagram.com/harrisondaniel",
+            "https://github.com/carterkathryn",
+            "https://linkedin.com/in/jjimenez"
+        ]
+    },
+    {
+        "_id": "354212da6566819c9224514357f08084",
+        "preferences": {
+            "preferredFundingCap": 9101064,
+            "riskTolerance": 0.15,
+            "expectedReturnRate": 0.85
+        },
+        "skills": [
+            "Diseño CAD",
+            "Programación de microcontroladores",
+            "Automatización industrial"
+        ],
+        "interests": [
+            "Mecatrónica",
+            "Electrónica",
+            "Agricultura"
+        ],
+        "socialLinks": [
+            "https://instagram.com/nathaniel94",
+            "https://github.com/mercadoteresa",
+            "https://linkedin.com/in/thompsondiane"
+        ]
+    },
+    {
+        "_id": "d992eb01efdafe02dd1cc184c9f6df08",
+        "preferences": {
+            "preferredFundingCap": 45314086,
+            "riskTolerance": 0.1,
+            "expectedReturnRate": 0.17
+        },
+        "skills": [
+            "Diseño CAD",
+            "Programación de microcontroladores",
+            "Automatización industrial"
+        ],
+        "interests": [
+            "Mecatrónica",
+            "Programación",
+            "Mecatrónica"
+        ],
+        "socialLinks": [
+            "https://instagram.com/danaclark",
+            "https://github.com/wanda75",
+            "https://linkedin.com/in/melindagates"
+        ]
+    },
+    {
+        "_id": "e3f388352d1cb32be62c84f63b36be18",
+        "preferences": {
+            "preferredFundingCap": 17895875,
+            "riskTolerance": 0.34,
+            "expectedReturnRate": 0.42
+        },
+        "skills": [
+            "Diseño CAD",
+            "Programación de microcontroladores",
+            "Automatización industrial"
+        ],
+        "interests": [
+            "Mecatrónica",
+            "Agricultura",
+            "Electrónica"
+        ],
+        "socialLinks": [
+            "https://instagram.com/jamesperez",
+            "https://github.com/scottjoyce",
+            "https://linkedin.com/in/jamesclark"
+        ]
+    },
+    {
+        "_id": "9819f84945172fea498bbe0320594f88",
+        "preferences": {
+            "preferredFundingCap": 89482426,
+            "riskTolerance": 0.08,
+            "expectedReturnRate": 0.4
+        },
+        "skills": [
+            "Diseño CAD",
+            "Programación de microcontroladores",
+            "Automatización industrial"
+        ],
+        "interests": [
+            "Desarrollo de Software",
+            "Agricultura",
+            "Desarrollo de Software"
+        ],
+        "socialLinks": [
+            "https://instagram.com/annefitzpatrick",
+            "https://github.com/barnesleslie",
+            "https://linkedin.com/in/gpowell"
+        ]
+    },
+    {
+        "_id": "0dde3fa09e28965aa7a3944adfdf3275",
+        "preferences": {
+            "preferredFundingCap": 21531702,
+            "riskTolerance": 0.88,
+            "expectedReturnRate": 0.55
+        },
+        "skills": [
+            "Diseño CAD",
+            "Programación de microcontroladores",
+            "Automatización industrial"
+        ],
+        "interests": [
+            "Mecatrónica",
+            "Agricultura",
+            "Agricultura"
+        ],
+        "socialLinks": [
+            "https://instagram.com/melissalopez",
+            "https://github.com/maryporter",
+            "https://linkedin.com/in/qmartin"
+        ]
+    },
+    {
+        "_id": "3cc8d41668cfeda4d03aabc15d8706a1",
+        "preferences": {
+            "preferredFundingCap": 60722904,
+            "riskTolerance": 0.55,
+            "expectedReturnRate": 0.96
+        },
+        "skills": [
+            "Diseño CAD",
+            "Programación de microcontroladores",
+            "Automatización industrial"
+        ],
+        "interests": [
+            "Agricultura",
+            "Electrónica",
+            "Mecatrónica"
+        ],
+        "socialLinks": [
+            "https://instagram.com/uwheeler",
+            "https://github.com/ramirezmichael",
+            "https://linkedin.com/in/jasonwashington"
+        ]
+    },
+    {
+        "_id": "ea5a53bf4044b9f4f7ad30a75d22f8c5",
+        "preferences": {
+            "preferredFundingCap": 53004745,
+            "riskTolerance": 0.79,
+            "expectedReturnRate": 0.59
+        },
+        "skills": [
+            "Diseño CAD",
+            "Programación de microcontroladores",
+            "Automatización industrial"
+        ],
+        "interests": [
+            "Programación",
+            "Eléctrica",
+            "Electrónica"
+        ],
+        "socialLinks": [
+            "https://instagram.com/phillipsaustin",
+            "https://github.com/joneskathy",
+            "https://linkedin.com/in/amy01"
+        ]
+    },
+    {
+        "_id": "28c90e61581f5e44433e722ece369fc1",
+        "preferences": {
+            "preferredFundingCap": 45575204,
+            "riskTolerance": 0.08,
+            "expectedReturnRate": 0.99
+        },
+        "skills": [
+            "Diseño CAD",
+            "Programación de microcontroladores",
+            "Automatización industrial"
+        ],
+        "interests": [
+            "Eléctrica",
+            "Eléctrica",
+            "Agricultura"
+        ],
+        "socialLinks": [
+            "https://instagram.com/uingram",
+            "https://github.com/alexander50",
+            "https://linkedin.com/in/morrisonbenjamin"
+        ]
+    },
+    {
+        "_id": "fcee97e8aa1f22d723ea2c24c139e3e4",
+        "preferences": {
+            "preferredFundingCap": 38533508,
+            "riskTolerance": 0.59,
+            "expectedReturnRate": 0.07
+        },
+        "skills": [
+            "Diseño CAD",
+            "Programación de microcontroladores",
+            "Automatización industrial"
+        ],
+        "interests": [
+            "Mecatrónica",
+            "Eléctrica",
+            "Eléctrica"
+        ],
+        "socialLinks": [
+            "https://instagram.com/kelseyjoseph",
+            "https://github.com/dwilliams",
+            "https://linkedin.com/in/elizabeth25"
+        ]
+    },
+    {
+        "_id": "4af06ab9eb1608909ba8d591e32ae654",
+        "preferences": {
+            "preferredFundingCap": 36189471,
+            "riskTolerance": 0.55,
+            "expectedReturnRate": 0.17
+        },
+        "skills": [
+            "Diseño CAD",
+            "Programación de microcontroladores",
+            "Automatización industrial"
+        ],
+        "interests": [
+            "Agricultura",
+            "Agricultura",
+            "Eléctrica"
+        ],
+        "socialLinks": [
+            "https://instagram.com/spope",
+            "https://github.com/qbradford",
+            "https://linkedin.com/in/rebecca39"
+        ]
+    },
+    {
+        "_id": "0c4d1efb236aa352fc1368b0c7db9b9b",
+        "preferences": {
+            "preferredFundingCap": 34103186,
+            "riskTolerance": 0.5,
+            "expectedReturnRate": 0.79
+        },
+        "skills": [
+            "Diseño CAD",
+            "Programación de microcontroladores",
+            "Automatización industrial"
+        ],
+        "interests": [
+            "Agricultura",
+            "Programación",
+            "Desarrollo de Software"
+        ],
+        "socialLinks": [
+            "https://instagram.com/westcorey",
+            "https://github.com/watsonjeffery",
+            "https://linkedin.com/in/coopercatherine"
+        ]
+    },
+    {
+        "_id": "ec81a777f16d55b8f3e14e2d65a8eb09",
+        "preferences": {
+            "preferredFundingCap": 58723213,
+            "riskTolerance": 0.06,
+            "expectedReturnRate": 0.5
+        },
+        "skills": [
+            "Diseño CAD",
+            "Programación de microcontroladores",
+            "Automatización industrial"
+        ],
+        "interests": [
+            "Programación",
+            "Agricultura",
+            "Desarrollo de Software"
+        ],
+        "socialLinks": [
+            "https://instagram.com/jeffrey37",
+            "https://github.com/npotts",
+            "https://linkedin.com/in/adalton"
+        ]
+    },
+    {
+        "_id": "ce130a986c2d6c626873f282bab74f9c",
+        "preferences": {
+            "preferredFundingCap": 36186175,
+            "riskTolerance": 0.61,
+            "expectedReturnRate": 0.08
+        },
+        "skills": [
+            "Diseño CAD",
+            "Programación de microcontroladores",
+            "Automatización industrial"
+        ],
+        "interests": [
+            "Agricultura",
+            "Mecatrónica",
+            "Electrónica"
+        ],
+        "socialLinks": [
+            "https://instagram.com/dwoods",
+            "https://github.com/mbender",
+            "https://linkedin.com/in/williamsemily"
+        ]
+    },
+    {
+        "_id": "4d71e8afa2471191692b02a63ea989db",
+        "preferences": {
+            "preferredFundingCap": 21455733,
+            "riskTolerance": 0.02,
+            "expectedReturnRate": 0.99
+        },
+        "skills": [
+            "Diseño CAD",
+            "Programación de microcontroladores",
+            "Automatización industrial"
+        ],
+        "interests": [
+            "Electrónica",
+            "Electrónica",
+            "Inteligencia Artificial"
+        ],
+        "socialLinks": [
+            "https://instagram.com/thompsoneric",
+            "https://github.com/rachelware",
+            "https://linkedin.com/in/rho"
+        ]
+    },
+    {
+        "_id": "1966afcf1b3f5c6c38e2710dcef051a5",
+        "preferences": {
+            "preferredFundingCap": 68366256,
+            "riskTolerance": 0.74,
+            "expectedReturnRate": 0.37
+        },
+        "skills": [
+            "Diseño CAD",
+            "Programación de microcontroladores",
+            "Automatización industrial"
+        ],
+        "interests": [
+            "Desarrollo de Software",
+            "Programación",
+            "Eléctrica"
+        ],
+        "socialLinks": [
+            "https://instagram.com/thompsonbrad",
+            "https://github.com/ncannon",
+            "https://linkedin.com/in/morrisonjohn"
+        ]
+    },
+    {
+        "_id": "324a4f6dcb8a0ec924efbaf8c7ed0481",
+        "preferences": {
+            "preferredFundingCap": 52999377,
+            "riskTolerance": 0.58,
+            "expectedReturnRate": 0.2
+        },
+        "skills": [
+            "Diseño CAD",
+            "Programación de microcontroladores",
+            "Automatización industrial"
+        ],
+        "interests": [
+            "Eléctrica",
+            "Electrónica",
+            "Desarrollo de Software"
+        ],
+        "socialLinks": [
+            "https://instagram.com/david55",
+            "https://github.com/robertskaren",
+            "https://linkedin.com/in/awilliams"
+        ]
+    },
+    {
+        "_id": "1a25508ab3293f470c9e7548a2149d15",
+        "preferences": {
+            "preferredFundingCap": 38768346,
+            "riskTolerance": 0.29,
+            "expectedReturnRate": 0.38
+        },
+        "skills": [
+            "Diseño CAD",
+            "Programación de microcontroladores",
+            "Automatización industrial"
+        ],
+        "interests": [
+            "Eléctrica",
+            "Agricultura",
+            "Eléctrica"
+        ],
+        "socialLinks": [
+            "https://instagram.com/palmerpaul",
+            "https://github.com/kwalton",
+            "https://linkedin.com/in/adamdavidson"
+        ]
+    },
+    {
+        "_id": "a45ae765f65a29582b48ec31e2a6ebca",
+        "preferences": {
+            "preferredFundingCap": 23975679,
+            "riskTolerance": 0.62,
+            "expectedReturnRate": 0.57
+        },
+        "skills": [
+            "Diseño CAD",
+            "Programación de microcontroladores",
+            "Automatización industrial"
+        ],
+        "interests": [
+            "Desarrollo de Software",
+            "Eléctrica",
+            "Programación"
+        ],
+        "socialLinks": [
+            "https://instagram.com/kendragonzales",
+            "https://github.com/sarabailey",
+            "https://linkedin.com/in/ericajones"
+        ]
+    },
+    {
+        "_id": "82a8771706453d84f8a3511989d800d2",
+        "preferences": {
+            "preferredFundingCap": 57558545,
+            "riskTolerance": 0.11,
+            "expectedReturnRate": 0.03
+        },
+        "skills": [
+            "Diseño CAD",
+            "Programación de microcontroladores",
+            "Automatización industrial"
+        ],
+        "interests": [
+            "Eléctrica",
+            "Agricultura",
+            "Electrónica"
+        ],
+        "socialLinks": [
+            "https://instagram.com/katherinebentley",
+            "https://github.com/benjamingilbert",
+            "https://linkedin.com/in/andersonthomas"
+        ]
+    },
+    {
+        "_id": "7b43aba2599c96369e2588e703b0dbe0",
+        "preferences": {
+            "preferredFundingCap": 19755407,
+            "riskTolerance": 0.46,
+            "expectedReturnRate": 0.32
+        },
+        "skills": [
+            "Diseño CAD",
+            "Programación de microcontroladores",
+            "Automatización industrial"
+        ],
+        "interests": [
+            "Agricultura",
+            "Programación",
+            "Eléctrica"
+        ],
+        "socialLinks": [
+            "https://instagram.com/lewisjade",
+            "https://github.com/mary23",
+            "https://linkedin.com/in/mjones"
+        ]
+    }
+]

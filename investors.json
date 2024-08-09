@@ -1,0 +1,1068 @@
+[
+  {
+      "_id": "65dbb5f4cee81b86dec9f216",
+      "preferences": {
+          "fundingCap": 6400000,
+          "riskTolerance": 0.07,
+          "expectedReturnRate": 0.69
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Mason_Turner",
+          "https://portfolio2.com/Mason_Turner"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "65dbb5f4cee81b86dec9f1ea",
+      "preferences": {
+          "fundingCap": 5700000,
+          "riskTolerance": 0.77,
+          "expectedReturnRate": 0.68
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Avery_Turner",
+          "https://portfolio2.com/Avery_Turner"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "65dbb5f4cee81b86dec9f1ed",
+      "preferences": {
+          "fundingCap": 85000000,
+          "riskTolerance": 0.14,
+          "expectedReturnRate": 0.46
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Daniel_Perez",
+          "https://portfolio2.com/Daniel_Perez"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "ebcf98af-4272-4a40-a588-e577446778a5",
+      "preferences": {
+          "fundingCap": 60655008,
+          "riskTolerance": 0.1,
+          "expectedReturnRate": 0.21
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Danielle_Robertson",
+          "https://portfolio2.com/Danielle_Robertson"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "36874356-c432-4683-b944-a0fb225d7987",
+      "preferences": {
+          "fundingCap": 66051729,
+          "riskTolerance": 0.78,
+          "expectedReturnRate": 0.06
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Michael_Morales",
+          "https://portfolio2.com/Michael_Morales"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "5f8a71eb-26c8-4ac3-920c-2f798e6fbd19",
+      "preferences": {
+          "fundingCap": 27084504,
+          "riskTolerance": 0.93,
+          "expectedReturnRate": 0.28
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Jamie_Ingram",
+          "https://portfolio2.com/Jamie_Ingram"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "2ad6fe7f-1b46-4f50-be9c-ad93cee69743",
+      "preferences": {
+          "fundingCap": 6564234,
+          "riskTolerance": 0.58,
+          "expectedReturnRate": 0.71
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Alyssa_Burton",
+          "https://portfolio2.com/Alyssa_Burton"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "8809cd4d-8152-4360-9aa1-aa97d8b4ae42",
+      "preferences": {
+          "fundingCap": 78977861,
+          "riskTolerance": 0.94,
+          "expectedReturnRate": 0.61
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Alicia_Arnold",
+          "https://portfolio2.com/Alicia_Arnold"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "910b4b2a-5a06-4b32-a6b3-8de2d60f6afd",
+      "preferences": {
+          "fundingCap": 65735790,
+          "riskTolerance": 0.76,
+          "expectedReturnRate": 0.35
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Christopher_Smith",
+          "https://portfolio2.com/Christopher_Smith"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "060c7f04-a15a-4397-b270-9db5b955ccc9",
+      "preferences": {
+          "fundingCap": 32107019,
+          "riskTolerance": 0.43,
+          "expectedReturnRate": 0.75
+      },
+      "socialLinks": [
+          "https://portfolio1.com/John_Ray",
+          "https://portfolio2.com/John_Ray"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "f69b474f-0a0c-4c5f-b8f2-08997eb975a9",
+      "preferences": {
+          "fundingCap": 33869417,
+          "riskTolerance": 0.91,
+          "expectedReturnRate": 0.43
+      },
+      "socialLinks": [
+          "https://portfolio1.com/William_Sanchez",
+          "https://portfolio2.com/William_Sanchez"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "91ad8f48-db59-4c1c-a1df-c8a878c97216",
+      "preferences": {
+          "fundingCap": 49209181,
+          "riskTolerance": 0.41,
+          "expectedReturnRate": 0.91
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Brittany_Gonzalez",
+          "https://portfolio2.com/Brittany_Gonzalez"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "2ecc66d5-9bcc-4f4c-a415-7c5aaf25078c",
+      "preferences": {
+          "fundingCap": 40649066,
+          "riskTolerance": 0.24,
+          "expectedReturnRate": 0.3
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Tabitha_Dougherty",
+          "https://portfolio2.com/Tabitha_Dougherty"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "7505aa74-c3bc-4680-b468-9fbbc09947eb",
+      "preferences": {
+          "fundingCap": 87989199,
+          "riskTolerance": 0.02,
+          "expectedReturnRate": 0.42
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Kelly_Franco",
+          "https://portfolio2.com/Kelly_Franco"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "d512d2aa-c520-42f8-92a0-a4388e922f44",
+      "preferences": {
+          "fundingCap": 42410641,
+          "riskTolerance": 0.35,
+          "expectedReturnRate": 0.26
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Timothy_Moss",
+          "https://portfolio2.com/Timothy_Moss"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "02b63a4d-8800-4f6f-9ab8-5f5d3e15ebfe",
+      "preferences": {
+          "fundingCap": 52971349,
+          "riskTolerance": 0.07,
+          "expectedReturnRate": 0.42
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Sean_Hall",
+          "https://portfolio2.com/Sean_Hall"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "7955949d-1f5d-4c13-a412-fca6b794f132",
+      "preferences": {
+          "fundingCap": 48516174,
+          "riskTolerance": 0.19,
+          "expectedReturnRate": 0.49
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Gary_Collins",
+          "https://portfolio2.com/Gary_Collins"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "bd771981-ab2c-4c5b-818d-0523b843826a",
+      "preferences": {
+          "fundingCap": 23764410,
+          "riskTolerance": 0.01,
+          "expectedReturnRate": 0.36
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Elizabeth_Kaufman",
+          "https://portfolio2.com/Elizabeth_Kaufman"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "2577e6ae-17ac-4b20-834a-a15d3c120395",
+      "preferences": {
+          "fundingCap": 53507251,
+          "riskTolerance": 0.21,
+          "expectedReturnRate": 0.57
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Lisa_Torres",
+          "https://portfolio2.com/Lisa_Torres"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "4e498fa4-1881-4582-aed3-9c236fdc7915",
+      "preferences": {
+          "fundingCap": 25830624,
+          "riskTolerance": 0.55,
+          "expectedReturnRate": 0.79
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Amber_Barnes",
+          "https://portfolio2.com/Amber_Barnes"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "33bb9541-51d1-4581-9739-893e780167c7",
+      "preferences": {
+          "fundingCap": 21601408,
+          "riskTolerance": 0.54,
+          "expectedReturnRate": 0.72
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Peter_Banks",
+          "https://portfolio2.com/Peter_Banks"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "b593b727-b58f-42a4-8c3a-ac4dc721eb9f",
+      "preferences": {
+          "fundingCap": 83399371,
+          "riskTolerance": 0.22,
+          "expectedReturnRate": 0.73
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Tina_Moore",
+          "https://portfolio2.com/Tina_Moore"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "a7a5f4da-f719-41e8-83c3-cc7572857519",
+      "preferences": {
+          "fundingCap": 38305409,
+          "riskTolerance": 0.94,
+          "expectedReturnRate": 0.39
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Andrea_Romero",
+          "https://portfolio2.com/Andrea_Romero"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "d40da2ea-245e-40ed-a549-c69a540e4864",
+      "preferences": {
+          "fundingCap": 39023499,
+          "riskTolerance": 0.23,
+          "expectedReturnRate": 0.58
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Stephanie_Morris",
+          "https://portfolio2.com/Stephanie_Morris"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "cbddf068-ac23-4692-ad19-630bb043ae8c",
+      "preferences": {
+          "fundingCap": 66548844,
+          "riskTolerance": 0.65,
+          "expectedReturnRate": 0.22
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Jeffrey_Munoz",
+          "https://portfolio2.com/Jeffrey_Munoz"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "7fafa639-356a-4e91-856f-8e3d62a7eb1b",
+      "preferences": {
+          "fundingCap": 40320459,
+          "riskTolerance": 0.07,
+          "expectedReturnRate": 0.2
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Gabriel_Sanders",
+          "https://portfolio2.com/Gabriel_Sanders"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "d1e19e91-d679-4e94-ad3a-8d9ebaa67f16",
+      "preferences": {
+          "fundingCap": 22790772,
+          "riskTolerance": 0.72,
+          "expectedReturnRate": 0.68
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Jillian_Watkins",
+          "https://portfolio2.com/Jillian_Watkins"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "c870cc49-9b39-42ea-916f-0e7b3a4252a0",
+      "preferences": {
+          "fundingCap": 64840757,
+          "riskTolerance": 0.77,
+          "expectedReturnRate": 0.76
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Tracey_Frank",
+          "https://portfolio2.com/Tracey_Frank"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "367b60a5-9b80-456c-b03c-8a7e7e547e42",
+      "preferences": {
+          "fundingCap": 68461456,
+          "riskTolerance": 0.26,
+          "expectedReturnRate": 0.23
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Beth_Gutierrez",
+          "https://portfolio2.com/Beth_Gutierrez"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "f22778dc-7a27-4282-bfef-fa6bc729b3e9",
+      "preferences": {
+          "fundingCap": 82280179,
+          "riskTolerance": 0.01,
+          "expectedReturnRate": 0.49
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Crystal_Chen",
+          "https://portfolio2.com/Crystal_Chen"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "2d24e467-259b-4023-a618-b1fbc68171d9",
+      "preferences": {
+          "fundingCap": 84958355,
+          "riskTolerance": 0.67,
+          "expectedReturnRate": 0.75
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Earl_Patel",
+          "https://portfolio2.com/Earl_Patel"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "693d8c97-5ba2-45af-bc09-912aee1a6824",
+      "preferences": {
+          "fundingCap": 7829578,
+          "riskTolerance": 0.86,
+          "expectedReturnRate": 0.94
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Felicia_Hatfield",
+          "https://portfolio2.com/Felicia_Hatfield"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "808c9f72-6d35-4792-8d8c-e23c47abd6f0",
+      "preferences": {
+          "fundingCap": 10208287,
+          "riskTolerance": 0.07,
+          "expectedReturnRate": 0.34
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Jessica_Ortiz",
+          "https://portfolio2.com/Jessica_Ortiz"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "bf42bddc-4215-47d4-b69a-e883f25669b7",
+      "preferences": {
+          "fundingCap": 35291467,
+          "riskTolerance": 0.26,
+          "expectedReturnRate": 0.61
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Keith_Boone",
+          "https://portfolio2.com/Keith_Boone"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "89b279c8-6e44-4321-a52a-a4126909ebda",
+      "preferences": {
+          "fundingCap": 31086876,
+          "riskTolerance": 0.55,
+          "expectedReturnRate": 0.35
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Jonathan_Burke",
+          "https://portfolio2.com/Jonathan_Burke"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "b310e45b-4e9b-4df6-bec4-3974e9bf246f",
+      "preferences": {
+          "fundingCap": 66115019,
+          "riskTolerance": 0.83,
+          "expectedReturnRate": 0.86
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Dylan_Francis",
+          "https://portfolio2.com/Dylan_Francis"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "b3c2cda1-6e7d-4863-b755-2f6776d6bba7",
+      "preferences": {
+          "fundingCap": 40894885,
+          "riskTolerance": 0.73,
+          "expectedReturnRate": 0.86
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Tracy_Conley",
+          "https://portfolio2.com/Tracy_Conley"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "3c2754b2-c72f-4052-bc3c-7612e25c9375",
+      "preferences": {
+          "fundingCap": 18376133,
+          "riskTolerance": 0.68,
+          "expectedReturnRate": 0.88
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Jason_Martin",
+          "https://portfolio2.com/Jason_Martin"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "792ebce6-487a-4e0e-a70a-b5e4b4c6936b",
+      "preferences": {
+          "fundingCap": 78449079,
+          "riskTolerance": 0.5,
+          "expectedReturnRate": 0.7
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Don_Cooper",
+          "https://portfolio2.com/Don_Cooper"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "dc6745df-a58d-483d-9c07-0224cfe052b4",
+      "preferences": {
+          "fundingCap": 64825706,
+          "riskTolerance": 0.64,
+          "expectedReturnRate": 0.26
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Marie_Carroll",
+          "https://portfolio2.com/Marie_Carroll"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "44f458f9-93c0-457b-86d1-885bd3d56549",
+      "preferences": {
+          "fundingCap": 50609179,
+          "riskTolerance": 0.57,
+          "expectedReturnRate": 0.44
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Tara_Sims",
+          "https://portfolio2.com/Tara_Sims"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "6a2d2024-a93b-4d11-9db1-6ef1195f04e9",
+      "preferences": {
+          "fundingCap": 68387658,
+          "riskTolerance": 0.55,
+          "expectedReturnRate": 0.97
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Jamie_Logan",
+          "https://portfolio2.com/Jamie_Logan"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "ecb102e7-9828-4916-985b-440417ec10e6",
+      "preferences": {
+          "fundingCap": 55658183,
+          "riskTolerance": 0.94,
+          "expectedReturnRate": 0.21
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Mark_Chen",
+          "https://portfolio2.com/Mark_Chen"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "c524fe66-5732-4155-9457-8433ad2dbae3",
+      "preferences": {
+          "fundingCap": 65984669,
+          "riskTolerance": 0.22,
+          "expectedReturnRate": 0.43
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Joy_Blevins",
+          "https://portfolio2.com/Joy_Blevins"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "02a8d47a-c1f8-43ce-a2e5-7c4fc62a9a4b",
+      "preferences": {
+          "fundingCap": 37809616,
+          "riskTolerance": 0.27,
+          "expectedReturnRate": 0.02
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Tammy_Oliver",
+          "https://portfolio2.com/Tammy_Oliver"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "e8e3fc9d-9dd3-4527-9fd7-ac61e6b857ed",
+      "preferences": {
+          "fundingCap": 55445212,
+          "riskTolerance": 0.71,
+          "expectedReturnRate": 0.15
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Shawn_Robinson",
+          "https://portfolio2.com/Shawn_Robinson"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "44f0c5f0-ee1a-469e-8321-48a55b750a9c",
+      "preferences": {
+          "fundingCap": 65311042,
+          "riskTolerance": 0.35,
+          "expectedReturnRate": 0.66
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Allison_Turner",
+          "https://portfolio2.com/Allison_Turner"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "a0cd6d4e-e2a6-413b-bf03-20df3672f92b",
+      "preferences": {
+          "fundingCap": 57939507,
+          "riskTolerance": 0.83,
+          "expectedReturnRate": 0.92
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Kenneth_Greene",
+          "https://portfolio2.com/Kenneth_Greene"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "fa8fa50f-12b5-4ce2-aaf7-27e764859812",
+      "preferences": {
+          "fundingCap": 57302533,
+          "riskTolerance": 0.06,
+          "expectedReturnRate": 0.98
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Kristin_Casey",
+          "https://portfolio2.com/Kristin_Casey"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "1040bc22-854f-490c-93f5-f4e3d49dc340",
+      "preferences": {
+          "fundingCap": 77172454,
+          "riskTolerance": 0.28,
+          "expectedReturnRate": 0.64
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Traci_Stone",
+          "https://portfolio2.com/Traci_Stone"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "4262b776-669d-4cc1-8350-1d8e639c4e94",
+      "preferences": {
+          "fundingCap": 16055608,
+          "riskTolerance": 0.05,
+          "expectedReturnRate": 0.09
+      },
+      "socialLinks": [
+          "https://portfolio1.com/David_Hale",
+          "https://portfolio2.com/David_Hale"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "f09fa0c1-3c49-4f31-b11b-6689005bdc10",
+      "preferences": {
+          "fundingCap": 63310703,
+          "riskTolerance": 0.24,
+          "expectedReturnRate": 0.88
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Chad_Myers",
+          "https://portfolio2.com/Chad_Myers"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "f7f53151-d1de-4a98-8f4d-3750d691717d",
+      "preferences": {
+          "fundingCap": 12976990,
+          "riskTolerance": 0.67,
+          "expectedReturnRate": 0.05
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Jacob_Woods",
+          "https://portfolio2.com/Jacob_Woods"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "8af554a4-98a5-4697-859f-77fff9c93f72",
+      "preferences": {
+          "fundingCap": 60225429,
+          "riskTolerance": 0.47,
+          "expectedReturnRate": 1.0
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Luke_Miller",
+          "https://portfolio2.com/Luke_Miller"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "0257e990-162c-4c49-ae35-5564bc7f4f5e",
+      "preferences": {
+          "fundingCap": 54415453,
+          "riskTolerance": 0.7,
+          "expectedReturnRate": 0.06
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Eric_Flynn",
+          "https://portfolio2.com/Eric_Flynn"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "8886955e-be79-4869-897c-8c823092f3a8",
+      "preferences": {
+          "fundingCap": 43888107,
+          "riskTolerance": 0.93,
+          "expectedReturnRate": 0.86
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Laura_Wiley",
+          "https://portfolio2.com/Laura_Wiley"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "8dc8b4c2-34b5-4352-9d41-0031ed80f3ce",
+      "preferences": {
+          "fundingCap": 20033295,
+          "riskTolerance": 0.08,
+          "expectedReturnRate": 0.73
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Amy_Garcia",
+          "https://portfolio2.com/Amy_Garcia"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "62d61394-c73d-4f96-ad85-aea5602f4823",
+      "preferences": {
+          "fundingCap": 34105529,
+          "riskTolerance": 0.43,
+          "expectedReturnRate": 0.06
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Jermaine_Chavez",
+          "https://portfolio2.com/Jermaine_Chavez"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "a3eaf2da-bd70-43f0-91d6-cad9128053bd",
+      "preferences": {
+          "fundingCap": 64444375,
+          "riskTolerance": 0.92,
+          "expectedReturnRate": 0.7
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Joshua_Reynolds",
+          "https://portfolio2.com/Joshua_Reynolds"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "6b29339b-4dca-44be-b895-1579a5653e0c",
+      "preferences": {
+          "fundingCap": 86371055,
+          "riskTolerance": 0.55,
+          "expectedReturnRate": 0.65
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Elizabeth_Farrell",
+          "https://portfolio2.com/Elizabeth_Farrell"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "53b4cc68-d478-4991-9d88-e2cbfd6cd2b1",
+      "preferences": {
+          "fundingCap": 31151393,
+          "riskTolerance": 0.78,
+          "expectedReturnRate": 0.93
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Jill_Jones",
+          "https://portfolio2.com/Jill_Jones"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "00d3e353-d309-4c44-9be1-957c7e056c36",
+      "preferences": {
+          "fundingCap": 24127072,
+          "riskTolerance": 0.18,
+          "expectedReturnRate": 0.34
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Jacob_Johnson",
+          "https://portfolio2.com/Jacob_Johnson"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "484de47f-dd92-4783-ad38-37219a32b113",
+      "preferences": {
+          "fundingCap": 64122967,
+          "riskTolerance": 0.51,
+          "expectedReturnRate": 0.61
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Ashley_Thomas",
+          "https://portfolio2.com/Ashley_Thomas"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "59969a73-2851-4c75-9d42-3b08ac4c3dc8",
+      "preferences": {
+          "fundingCap": 75837217,
+          "riskTolerance": 0.69,
+          "expectedReturnRate": 0.0
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Courtney_Oneal",
+          "https://portfolio2.com/Courtney_Oneal"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "47bd821b-5ae1-4e2f-add5-4b75a5bcbed5",
+      "preferences": {
+          "fundingCap": 59695939,
+          "riskTolerance": 0.97,
+          "expectedReturnRate": 0.09
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Jose_Griffin",
+          "https://portfolio2.com/Jose_Griffin"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "1da18671-e748-4746-882a-567df60bb5e6",
+      "preferences": {
+          "fundingCap": 22036062,
+          "riskTolerance": 0.63,
+          "expectedReturnRate": 0.68
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Leah_White",
+          "https://portfolio2.com/Leah_White"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "6c471a22-29ab-4061-9a67-9db1f4193a99",
+      "preferences": {
+          "fundingCap": 89921953,
+          "riskTolerance": 0.89,
+          "expectedReturnRate": 0.24
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Matthew_Cline",
+          "https://portfolio2.com/Matthew_Cline"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "d814d332-fde8-4867-9c7c-70caf8db1dde",
+      "preferences": {
+          "fundingCap": 49830967,
+          "riskTolerance": 0.01,
+          "expectedReturnRate": 0.64
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Robert_Allen",
+          "https://portfolio2.com/Robert_Allen"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "53f83ae4-e411-4a61-8114-d51900550647",
+      "preferences": {
+          "fundingCap": 33772861,
+          "riskTolerance": 0.39,
+          "expectedReturnRate": 0.46
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Joseph_Jacobs",
+          "https://portfolio2.com/Joseph_Jacobs"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "def221b3-0d07-47ba-8488-fb19ee392f99",
+      "preferences": {
+          "fundingCap": 83077253,
+          "riskTolerance": 0.62,
+          "expectedReturnRate": 0.69
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Carrie_Carter",
+          "https://portfolio2.com/Carrie_Carter"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "1a1a5852-8aba-4b20-89a0-8a254e6e9a5a",
+      "preferences": {
+          "fundingCap": 17517321,
+          "riskTolerance": 0.96,
+          "expectedReturnRate": 0.11
+      },
+      "socialLinks": [
+          "https://portfolio1.com/James_Blackburn",
+          "https://portfolio2.com/James_Blackburn"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "9897d19e-7250-4b39-b40c-d32267c420d3",
+      "preferences": {
+          "fundingCap": 6846182,
+          "riskTolerance": 0.49,
+          "expectedReturnRate": 0.24
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Stephanie_Barber",
+          "https://portfolio2.com/Stephanie_Barber"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "c4a95c78-d389-4b98-883c-a2eb36d0504d",
+      "preferences": {
+          "fundingCap": 33169908,
+          "riskTolerance": 0.72,
+          "expectedReturnRate": 0.29
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Glen_King",
+          "https://portfolio2.com/Glen_King"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "4c2a7ac0-2aae-43ef-981a-bc35f6a4fda1",
+      "preferences": {
+          "fundingCap": 84780063,
+          "riskTolerance": 0.3,
+          "expectedReturnRate": 0.63
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Elizabeth_Wright",
+          "https://portfolio2.com/Elizabeth_Wright"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "42c02810-033d-4274-8709-e0760bf66111",
+      "preferences": {
+          "fundingCap": 66664958,
+          "riskTolerance": 0.27,
+          "expectedReturnRate": 0.5
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Donald_White",
+          "https://portfolio2.com/Donald_White"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "8c21a366-4d1f-4ced-a8fe-01a7d2e58cc5",
+      "preferences": {
+          "fundingCap": 32844826,
+          "riskTolerance": 0.18,
+          "expectedReturnRate": 0.02
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Christopher_Leonard",
+          "https://portfolio2.com/Christopher_Leonard"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "aff59175-0fd8-47ca-b78d-090e828f7c86",
+      "preferences": {
+          "fundingCap": 46644086,
+          "riskTolerance": 0.74,
+          "expectedReturnRate": 0.55
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Amanda_Smith",
+          "https://portfolio2.com/Amanda_Smith"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "5f26ab19-d577-421f-89e2-4136bbe0e2e8",
+      "preferences": {
+          "fundingCap": 76086753,
+          "riskTolerance": 0.56,
+          "expectedReturnRate": 0.05
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Joshua_Larson",
+          "https://portfolio2.com/Joshua_Larson"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "59f63d50-551d-41dc-afee-0324e377a19b",
+      "preferences": {
+          "fundingCap": 57625692,
+          "riskTolerance": 0.4,
+          "expectedReturnRate": 0.1
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Julian_Brooks",
+          "https://portfolio2.com/Julian_Brooks"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "7fc18058-004d-4ca6-b544-5e2a4bb602c0",
+      "preferences": {
+          "fundingCap": 59273152,
+          "riskTolerance": 0.13,
+          "expectedReturnRate": 0.68
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Yolanda_Moore",
+          "https://portfolio2.com/Yolanda_Moore"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "75e78006-a1d8-4de8-aa9e-dd489d086598",
+      "preferences": {
+          "fundingCap": 83960206,
+          "riskTolerance": 0.3,
+          "expectedReturnRate": 0.4
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Jeremy_Silva",
+          "https://portfolio2.com/Jeremy_Silva"
+      ],
+      "portfolio": []
+  },
+  {
+      "_id": "4c3c6fa5-ca07-488d-ba32-8b392f8881f7",
+      "preferences": {
+          "fundingCap": 27219976,
+          "riskTolerance": 0.54,
+          "expectedReturnRate": 0.31
+      },
+      "socialLinks": [
+          "https://portfolio1.com/Kathryn_Moore",
+          "https://portfolio2.com/Kathryn_Moore"
+      ],
+      "portfolio": []
+  }
+]

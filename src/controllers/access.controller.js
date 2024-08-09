@@ -3,8 +3,8 @@ const accessService = require('../services/access.service');
 
 
 const login = async (req, res) => {
-    const { email, password } = req.body;
-    const response = await accessService.login(email, password);
+    const { email, password, isInvestor } = req.body;
+    const response = await accessService.login(email, password, isInvestor);
     res.status(response.status).json(response);
     };
 

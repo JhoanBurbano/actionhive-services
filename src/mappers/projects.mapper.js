@@ -19,10 +19,10 @@ const toProjectView = (project) => {
         };
       }),
       representant: {
-        id: project.representant._id,
-        firstname: project.representant.firstname,
-        lastname: project.representant.lastname,
-        email: project.representant.email,
+        id: project.representant?._id,
+        firstname: project.representant?.firstname,
+        lastname: project.representant?.lastname,
+        email: project.representant?.email,
       },
     };
   });
@@ -31,6 +31,7 @@ const toProjectView = (project) => {
 const toProjectDetail = (project) => {
     project = project.toObject();
     delete project["cluster"];
+    delete project["__v"];
   return {
     id: project._id,
     ...project,
@@ -48,10 +49,10 @@ const toProjectDetail = (project) => {
       lastname: project.representant.lastname,
       email: project.representant.email,
     },
-
   };
 };
 
 module.exports = {
   toProjectView,
+  toProjectDetail
 };

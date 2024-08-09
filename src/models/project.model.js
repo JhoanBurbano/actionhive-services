@@ -45,6 +45,8 @@ const projectSchema = new Schema({
   projectObjective: { type: String, required: true },
   rewardType: [{ type: String }],
   returnPeriod: { type: Number, min: 1 },
+  projectRiskCalculation: { type: Number, default: 0, max: 1 },
+  returnRate: { type: Number, default: 0, max: 1 },
   competitiveLandscape: [{ type: String }],
   description: String,
   isActive: { type: Boolean, default: true },
