@@ -4,7 +4,7 @@ const userServices = require("./user.service");
 const investorService = require("./investor.service");
 const clusteringService = require("./clustering.service");
 const { generateRecommendations: recommendProjectsForUsers, clusterProjects } = require("./recomendations");
-const { scriptUserPreferences } = require("./scripts.services");
+// const { scriptUserPreferences } = require("./scripts.services");
 const clusterModel = require("../models/cluster.model");
 
 const getProjects = async () => {

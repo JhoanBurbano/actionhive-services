@@ -49,6 +49,9 @@ const investorSchema = new Schema({
   bio: { type: String },
   location: { type: String },
   socialLinks: [{ type: String }],
+  favoriteProjects: [{ type: Schema.Types.ObjectId, ref: 'Project', default: []}],
+  savedProjects: [{ type: Schema.Types.ObjectId, ref: 'Project', default: []}],
+  financedProjects: [{ type: Schema.Types.ObjectId, ref: 'Project', default: []}],
 });
 
 
