@@ -105,7 +105,6 @@ async function recommendProjects(userId) {
   const centroids = clusters.map((cluster) => cluster.centroid);
 
   const closestCluster = findClosestCluster(userVector, centroids);
-  console.log('closestCluster :>> ', closestCluster);
   const recommendedProjects = await Project.find({ cluster: closestCluster })
     .populate({ path: 'representant', select: 'firstname lastname email' })
     .populate({ path: 'team', select: 'firstname lastname email' })

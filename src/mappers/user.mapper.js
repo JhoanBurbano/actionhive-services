@@ -1,12 +1,11 @@
 const mapToUserResponse = (user, token, isInvestor) => {
-
   return {
     user: {
       profile: {
         email: user.email,
         firstname: user[isInvestor ? "firstName" : "firstname"],
         lastname: user[isInvestor ? "lastName" : "lastname"],
-        rol: user.role,
+        rol: user.role || user.rol,
       },
       isInvestor,
       avatar: isInvestor

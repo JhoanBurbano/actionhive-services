@@ -153,6 +153,35 @@ const logout = async (email) => {
     }
 }
 
+const updateInvestor = async (password, email, firstname, lastname, token, id) => {
+    try {
+        console.log('email :>> ', email);
+        const investorUpdate = { firstName: firstname, lastName: lastname, email };
+        if(password) investorUpdate.password = password;
+        const investor = await Investor.findByIdAndUpdate(id, investorUpdate);
+        console.log(investor)
+        if (!investor) return { status: 404, message: 'Investor not found' };
+        return { status: 200, message: 'Investor updated', data: mapToUserResponse({...investor, firstName: firstname, lastName: lastname, email}, token, true) };
+    } catch (error) {
+        return { status: 500, message: error.message };
+    }
+}
+
+const updateUser = async (password, email, firstname, lastname, rol, token, id) => {
+    try {
+        const user = await User.findByIdAndUpdate(id, { firstname, lastname, role: rol, email });
+        if (!user) return { status: 404, message: 'User not found' };
+        if(password) {
+        const pswResponse = await change(password, token);
+        if (pswResponse.status !== 200) return pswResponse;
+        }
+        return { status: 200, data: mapToUserResponse({ ...user, email, firstname, lastname, rol }, token, false) };
+    } catch (error) {
+        return { status: 500, message: error.message };
+    }
+}
+
+
 
 module.exports = {
     login,
@@ -163,5 +192,7 @@ module.exports = {
     forgot,
     logout,
     reset,
-    change
+    change,
+    updateInvestor,
+    updateUser,
 } 

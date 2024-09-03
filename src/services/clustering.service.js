@@ -66,7 +66,6 @@ async function recommendProjects(investor, clusters, projects) {
 
   
   const recommendedProjects = projects.filter((project) => project.cluster === bestClusterIndex);
-  console.log('object :>> ', bestClusterIndex, clusters, investorPreferences, recommendedProjects[2]);
 
 
   return recommendedProjects;

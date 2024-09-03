@@ -50,6 +50,15 @@ const logout = async (req, res) => {
     res.status(response.status).json(response);
 }
 
+const update = async (req, res) => {
+    const { email, firstname, lastname, rol, isInvestor, password } = req.body;
+    const params = isInvestor ? [password.length ? password : null, email, firstname, lastname] : [password.length ? password : null, email, firstname, lastname, rol];
+    params.push(req.token, req.user._id);
+    const update = isInvestor ? accessService.updateInvestor: accessService.updateUser;
+    const response = await update(...params);
+    res.status(response.status).json(response);
+}
+
 module.exports = {
     login,
     register,
@@ -58,5 +67,6 @@ module.exports = {
     resend,
     forgot,
     logout,
-    change
+    change,
+    update
 };
