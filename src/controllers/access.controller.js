@@ -1,6 +1,11 @@
 
 const accessService = require('../services/access.service');
 
+const refresh = async (req, res) => {
+    const response = await accessService.refresh(req.user._id);
+    res.status(response.status).json(response);
+}
+
 
 const login = async (req, res) => {
     const { email, password, isInvestor } = req.body;
@@ -52,7 +57,7 @@ const logout = async (req, res) => {
 
 const update = async (req, res) => {
     const { email, firstname, lastname, rol, isInvestor, password } = req.body;
-    const params = isInvestor ? [password.length ? password : null, email, firstname, lastname] : [password.length ? password : null, email, firstname, lastname, rol];
+    const params = isInvestor ? [password?.length ? password : null, email, firstname, lastname] : [password?.length ? password : null, email, firstname, lastname, rol];
     params.push(req.token, req.user._id);
     const update = isInvestor ? accessService.updateInvestor: accessService.updateUser;
     const response = await update(...params);
@@ -68,5 +73,6 @@ module.exports = {
     forgot,
     logout,
     change,
-    update
+    update,
+    refresh
 };

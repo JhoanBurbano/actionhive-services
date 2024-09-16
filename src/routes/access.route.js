@@ -10,6 +10,7 @@ router.post('/validate-token', accessController.verifyToken);
 router.post('/forgot-password', accessController.forgot);
 router.post('/change-password', accessController.change);
 router.post('/logout', accessController.logout);
+router.get('/refresh', require('../middlewares/auth.middleware'),accessController.refresh);
 router.put('/update-profile', require('../middlewares/auth.middleware'),accessController.update);
 
 module.exports = router;

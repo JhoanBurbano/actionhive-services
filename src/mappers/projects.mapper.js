@@ -30,7 +30,7 @@ const toProjectView = (project) => {
 
 const toProjectDetail = (project) => {
     project = project.toObject();
-    delete project["cluster"];
+    // delete project["cluster"];
     delete project["__v"];
   return {
     id: project._id,

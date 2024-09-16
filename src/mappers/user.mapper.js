@@ -8,6 +8,7 @@ const mapToUserResponse = (user, token, isInvestor) => {
         rol: user.role || user.rol,
       },
       isInvestor,
+      preferencesCompleted: Object.keys(user.preferences).every((key) => user.preferences[key] > 0),
       avatar: isInvestor
         ? {
             url: user.avatar?.url || "",

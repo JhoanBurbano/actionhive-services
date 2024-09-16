@@ -1,7 +1,5 @@
 [
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f95d0",
     "projectName": "Desarrollo de un sistema para medir la concentración de fenol en agua destilada mediante el uso de un biosensor",
     "projectCategory": "Medicina",
@@ -36,7 +34,7 @@
     "rewardType": [
       "Reconocimiento en la industria"
     ],
-    "returnPeriod": 4,
+    "returnPeriod": 13,
     "competitiveLandscape": [
       "Diferenciación a través de tecnología única"
     ],
@@ -50,11 +48,11 @@
     "team": [
       "66aad2e490c5f7e232582ffe"
     ],
-    "representant": "66aad2e490c5f7e232582ffe"
+    "representant": "66aad2e490c5f7e232582ffe",
+    "projectRiskCalculation": 0.038476552260992,
+    "returnRate": 0.044833469841094875
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f95ce",
     "projectName": "Análisis de nuevos índices de las señales electrocardiográficas y de flujo respiratorio para predecir el éxito o fracaso del proceso de extubación de pacientes asistidos por ventilación mecánica",
     "projectCategory": "Industrial",
@@ -90,7 +88,7 @@
     "rewardType": [
       "Participación en las ganancias"
     ],
-    "returnPeriod": 3,
+    "returnPeriod": 35,
     "competitiveLandscape": [
       "Mejora en la eficiencia comparada con competidores"
     ],
@@ -104,11 +102,11 @@
     "team": [
       "66aad2e590c5f7e232583012"
     ],
-    "representant": "66aad2e590c5f7e232583012"
+    "representant": "66aad2e590c5f7e232583012",
+    "projectRiskCalculation": 0.8663161669534787,
+    "returnRate": 0.13914409074548392
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f95d3",
     "projectName": "Rehabilitación del sistema de detección de gas y fuego de terminal de distribución de gas licuado topolobampo",
     "projectCategory": "Medicina",
@@ -145,7 +143,7 @@
     "rewardType": [
       "Reconocimiento en la industria"
     ],
-    "returnPeriod": 4,
+    "returnPeriod": 10,
     "competitiveLandscape": [
       "Diferenciación a través de tecnología única"
     ],
@@ -159,11 +157,11 @@
     "team": [
       "66aad2e890c5f7e232583042"
     ],
-    "representant": "66aad2e890c5f7e232583042"
+    "representant": "66aad2e890c5f7e232583042",
+    "projectRiskCalculation": 0.13286304383352532,
+    "returnRate": 0.00013578899684826284
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f95d7",
     "projectName": "Desarrollo de una herramienta para desprendimiento de granos de café",
     "projectCategory": "Agricultura",
@@ -200,7 +198,7 @@
     "rewardType": [
       "Producto final del proyecto"
     ],
-    "returnPeriod": 2,
+    "returnPeriod": 16,
     "competitiveLandscape": [
       "Diferenciación a través de tecnología única"
     ],
@@ -214,11 +212,11 @@
     "team": [
       "66aad2e690c5f7e232583024"
     ],
-    "representant": "66aad2e690c5f7e232583024"
+    "representant": "66aad2e690c5f7e232583024",
+    "projectRiskCalculation": 0.3018441582382615,
+    "returnRate": 0.11933772377349675
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f95e0",
     "projectName": "Diseño de un sistema de control para un helicóptero de tres grados de libertad (3gdl)",
     "projectCategory": "Industria 4.0",
@@ -256,7 +254,7 @@
     "rewardType": [
       "Participación en las ganancias"
     ],
-    "returnPeriod": 2,
+    "returnPeriod": 19,
     "competitiveLandscape": [
       "Enfoque en la calidad del producto"
     ],
@@ -270,11 +268,11 @@
     "team": [
       "66aad2e690c5f7e232583022"
     ],
-    "representant": "66aad2e690c5f7e232583022"
+    "representant": "66aad2e690c5f7e232583022",
+    "projectRiskCalculation": 0.31072271692141834,
+    "returnRate": 0.05403382025293884
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f95e1",
     "projectName": "Diseño Construcción y Adaptación de Prótesis Inteligentes con piel artificial sensible de miembros superior muñeca-mano e inferior tobillo-pie de cada una de las extremidades para una niña con malformaciones congénitas de la ciudad Cúcuta en el Departamento Norte de Santander",
     "projectCategory": "Educación",
@@ -313,7 +311,7 @@
     "rewardType": [
       "Reconocimiento en la industria"
     ],
-    "returnPeriod": 3,
+    "returnPeriod": 22,
     "competitiveLandscape": [
       "Innovación en la enseñanza"
     ],
@@ -327,11 +325,11 @@
     "team": [
       "66aad2e790c5f7e23258302c"
     ],
-    "representant": "66aad2e790c5f7e23258302c"
+    "representant": "66aad2e790c5f7e23258302c",
+    "projectRiskCalculation": 0.49714702052509085,
+    "returnRate": 0.13027613130724008
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f95e2",
     "projectName": "Diseño de algoritmo de detección de zonas de calor y clasificación de clientes según género y edad en el sector de retail",
     "projectCategory": "Energía",
@@ -370,7 +368,7 @@
     "rewardType": [
       "Participación en Beneficios"
     ],
-    "returnPeriod": 4,
+    "returnPeriod": 19,
     "competitiveLandscape": [
       "Sostenibilidad en la generación de energía"
     ],
@@ -384,11 +382,11 @@
     "team": [
       "66aad2e690c5f7e23258302a"
     ],
-    "representant": "66aad2e690c5f7e23258302a"
+    "representant": "66aad2e690c5f7e23258302a",
+    "projectRiskCalculation": 0.5745794455320747,
+    "returnRate": 0.08320136509421683
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f95e4",
     "projectName": "Mecanismo tipo efector final para rehabilitación de movilidad",
     "projectCategory": "Medio Ambiente",
@@ -425,7 +423,7 @@
     "rewardType": [
       "Reconocimiento en la industria"
     ],
-    "returnPeriod": 3,
+    "returnPeriod": 20,
     "competitiveLandscape": [
       "Enfoque en la sostenibilidad ambiental"
     ],
@@ -439,11 +437,11 @@
     "team": [
       "66aad2e590c5f7e232583014"
     ],
-    "representant": "66aad2e590c5f7e232583014"
+    "representant": "66aad2e590c5f7e232583014",
+    "projectRiskCalculation": 0.4966722720216246,
+    "returnRate": 0.12793957907161868
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f95e6",
     "projectName": "Máquina automatizada para el proceso de templado de chocolate",
     "projectCategory": "Medicina",
@@ -480,7 +478,7 @@
     "rewardType": [
       "Reconocimiento en la industria"
     ],
-    "returnPeriod": 4,
+    "returnPeriod": 13,
     "competitiveLandscape": [
       "Innovación en dispositivos de rehabilitación"
     ],
@@ -494,11 +492,11 @@
     "team": [
       "66aad2e690c5f7e232583022"
     ],
-    "representant": "66aad2e690c5f7e232583022"
+    "representant": "66aad2e690c5f7e232583022",
+    "projectRiskCalculation": 0.021035259277679373,
+    "returnRate": 0.04113799590264974
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f95e7",
     "projectName": "Diseño y construcción de un módulo asistente adaptable al bastón de las personas con discapacidad visual para mejorar su desplazamiento",
     "projectCategory": "Industrial",
@@ -537,7 +535,7 @@
     "rewardType": [
       "Participación en las ganancias"
     ],
-    "returnPeriod": 3,
+    "returnPeriod": 17,
     "competitiveLandscape": [
       "Eficiencia comparada con competidores"
     ],
@@ -547,15 +545,15 @@
       
     ],
     "__v": 0,
-    "cluster": 0,
+    "cluster": 2,
     "team": [
       "66aad2e590c5f7e232583008"
     ],
-    "representant": "66aad2e590c5f7e232583008"
+    "representant": "66aad2e590c5f7e232583008",
+    "projectRiskCalculation": 0.3155041430536239,
+    "returnRate": 0.05950321592504864
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f95ec",
     "projectName": "Diseño de un sistema automático de selección de frutos de Café mediante Técnicas de Visión Artificial",
     "projectCategory": "Tecnologías Asistivas",
@@ -594,7 +592,7 @@
     "rewardType": [
       "Reconocimiento en la industria"
     ],
-    "returnPeriod": 3,
+    "returnPeriod": 21,
     "competitiveLandscape": [
       "Innovación en dispositivos de asistencia"
     ],
@@ -604,15 +602,15 @@
       
     ],
     "__v": 0,
-    "cluster": 0,
+    "cluster": 2,
     "team": [
       "66aad2e790c5f7e232583036"
     ],
-    "representant": "66aad2e790c5f7e232583036"
+    "representant": "66aad2e790c5f7e232583036",
+    "projectRiskCalculation": 0.3184534687801368,
+    "returnRate": 0.09214056811431233
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f95f1",
     "projectName": "Desarrollo de un prototipo de una máquina selectora de semilla Sacha Inchi",
     "projectCategory": "Agricultura",
@@ -650,7 +648,7 @@
     "rewardType": [
       "Participación en las ganancias"
     ],
-    "returnPeriod": 3,
+    "returnPeriod": 18,
     "competitiveLandscape": [
       "Precisión y sostenibilidad en la agricultura"
     ],
@@ -660,15 +658,15 @@
       
     ],
     "__v": 0,
-    "cluster": 1,
+    "cluster": 2,
     "team": [
       "66aad2e790c5f7e23258303a"
     ],
-    "representant": "66aad2e790c5f7e23258303a"
+    "representant": "66aad2e790c5f7e23258303a",
+    "projectRiskCalculation": 0.45610732680049226,
+    "returnRate": 0.14034404385475602
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f95f2",
     "projectName": "Máquina cortadora de mazorcas de cacao",
     "projectCategory": "Tecnologías Asistivas",
@@ -705,7 +703,7 @@
     "rewardType": [
       "Reconocimiento en la industria"
     ],
-    "returnPeriod": 2,
+    "returnPeriod": 13,
     "competitiveLandscape": [
       "Innovación en experiencias de realidad virtual"
     ],
@@ -719,11 +717,11 @@
     "team": [
       "66aad2e990c5f7e23258305a"
     ],
-    "representant": "66aad2e990c5f7e23258305a"
+    "representant": "66aad2e990c5f7e23258305a",
+    "projectRiskCalculation": 0.5155188864851443,
+    "returnRate": 0.13157887376435642
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f95f4",
     "projectName": "Sistema de ejercitación para personas con problemas de movilidad en las extremidades inferiores",
     "projectCategory": "Agricultura",
@@ -762,7 +760,7 @@
     "rewardType": [
       "Participación en las ganancias"
     ],
-    "returnPeriod": 3,
+    "returnPeriod": 13,
     "competitiveLandscape": [
       "Eficiencia en la agricultura vertical"
     ],
@@ -776,11 +774,11 @@
     "team": [
       "66aad2e590c5f7e23258300e"
     ],
-    "representant": "66aad2e590c5f7e23258300e"
+    "representant": "66aad2e590c5f7e23258300e",
+    "projectRiskCalculation": 0.400629315674713,
+    "returnRate": 0.06177895466331249
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f95fa",
     "projectName": "Diseño de controladores avanzados para los procesos térmicos ubicados en el laboratorio de planta piloto",
     "projectCategory": "Logística",
@@ -819,7 +817,7 @@
     "rewardType": [
       "Participación en las ganancias"
     ],
-    "returnPeriod": 4,
+    "returnPeriod": 31,
     "competitiveLandscape": [
       "Eficiencia en entregas autónomas"
     ],
@@ -829,15 +827,15 @@
       
     ],
     "__v": 0,
-    "cluster": 0,
+    "cluster": 2,
     "team": [
       "66aad2e590c5f7e23258300c"
     ],
-    "representant": "66aad2e590c5f7e23258300c"
+    "representant": "66aad2e590c5f7e23258300c",
+    "projectRiskCalculation": 0.8192164668271442,
+    "returnRate": 0.18357582462030583
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f95fb",
     "projectName": "Diseño e implementación de un prototipo que clasifique huevos de gallina según sus características",
     "projectCategory": "Tecnologías Asistivas",
@@ -875,7 +873,7 @@
     "rewardType": [
       "Reconocimiento en la industria"
     ],
-    "returnPeriod": 3,
+    "returnPeriod": 9,
     "competitiveLandscape": [
       "Innovación en prótesis accesibles"
     ],
@@ -889,11 +887,11 @@
     "team": [
       "66aad2e690c5f7e232583024"
     ],
-    "representant": "66aad2e690c5f7e232583024"
+    "representant": "66aad2e690c5f7e232583024",
+    "projectRiskCalculation": 0.07806655847282148,
+    "returnRate": 0.039172608730080105
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f9601",
     "projectName": "Automatización del suministro de cisco para la cámara de combustión de una secadora tipo silo de café pergamino",
     "projectCategory": "Agricultura",
@@ -930,7 +928,7 @@
     "rewardType": [
       "Reconocimiento en la industria"
     ],
-    "returnPeriod": 4,
+    "returnPeriod": 17,
     "competitiveLandscape": [
       "Sostenibilidad en la agricultura"
     ],
@@ -944,11 +942,11 @@
     "team": [
       "66aad2e990c5f7e232583054"
     ],
-    "representant": "66aad2e990c5f7e232583054"
+    "representant": "66aad2e990c5f7e232583054",
+    "projectRiskCalculation": 0.5316714142503745,
+    "returnRate": 0.13856982483741692
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f9603",
     "projectName": "Diseño de un sistema de visión artificial para la revisión del nivel de llenado de bebidas embotelladas",
     "projectCategory": "Transporte",
@@ -987,7 +985,7 @@
     "rewardType": [
       "Participación en las ganancias"
     ],
-    "returnPeriod": 4,
+    "returnPeriod": 35,
     "competitiveLandscape": [
       "Eficiencia en transporte urbano"
     ],
@@ -1001,15 +999,15 @@
     "team": [
       "66aad2e690c5f7e23258301e"
     ],
-    "representant": "66aad2e690c5f7e23258301e"
+    "representant": "66aad2e690c5f7e23258301e",
+    "projectRiskCalculation": 0.8646944614193732,
+    "returnRate": 0.14043018464950185
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f9604",
     "projectName": "Uso de sensores de medición inercial para la evaluación de la movilidad articular de miembro superior con aplicación en rehabilitación",
     "projectCategory": "Ingeniería Civil",
-    "fundingCap": 33493713.999999996,
+    "fundingCap": 33493713,
     "mechatronicComponents": [
       "Sensores",
       "Actuadores",
@@ -1044,7 +1042,7 @@
     "rewardType": [
       "Participación en Beneficios"
     ],
-    "returnPeriod": 4,
+    "returnPeriod": 18,
     "competitiveLandscape": [
       "Eficiencia en inspección autónoma"
     ],
@@ -1054,15 +1052,15 @@
       
     ],
     "__v": 0,
-    "cluster": 0,
+    "cluster": 2,
     "team": [
       "66aad2e990c5f7e23258305e"
     ],
-    "representant": "66aad2e990c5f7e23258305e"
+    "representant": "66aad2e990c5f7e23258305e",
+    "projectRiskCalculation": 0.49901394534824306,
+    "returnRate": 0.05704952826369043
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f9608",
     "projectName": "Diseño e implementación de un escáner 3D para prototipado y modelado geométrico de objetos",
     "projectCategory": "Tecnologías para Mascotas",
@@ -1100,7 +1098,7 @@
     "rewardType": [
       "Reconocimiento en la industria"
     ],
-    "returnPeriod": 3,
+    "returnPeriod": 16,
     "competitiveLandscape": [
       "Innovación en tecnología para mascotas"
     ],
@@ -1114,11 +1112,11 @@
     "team": [
       "66aad2e590c5f7e23258300e"
     ],
-    "representant": "66aad2e590c5f7e23258300e"
+    "representant": "66aad2e590c5f7e23258300e",
+    "projectRiskCalculation": 0.316253992320498,
+    "returnRate": 0.11303311745960692
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f9612",
     "projectName": "Diseño de un algoritmo para la segmentación de carriles en vías que permita la navegación autónoma de un vehículo a escala en una autopista",
     "projectCategory": "Agricultura",
@@ -1157,7 +1155,7 @@
     "rewardType": [
       "Participación en las ganancias"
     ],
-    "returnPeriod": 4,
+    "returnPeriod": 30,
     "competitiveLandscape": [
       "Eficiencia en drones agrícolas"
     ],
@@ -1167,15 +1165,15 @@
       
     ],
     "__v": 0,
-    "cluster": 1,
+    "cluster": 2,
     "team": [
       "66aad2e790c5f7e232583032"
     ],
-    "representant": "66aad2e790c5f7e232583032"
+    "representant": "66aad2e790c5f7e232583032",
+    "projectRiskCalculation": 0.7413838681578595,
+    "returnRate": 0.12645781619942217
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f961c",
     "projectName": "Control de posición de un servomotor de Lego® mindstorms NXT a través de seguimiento facial utilizando un sensor Kinect® de Microsoft",
     "projectCategory": "Entretenimiento",
@@ -1214,7 +1212,7 @@
     "rewardType": [
       "Participación en Beneficios"
     ],
-    "returnPeriod": 4,
+    "returnPeriod": 27,
     "competitiveLandscape": [
       "Innovación en entretenimiento virtual"
     ],
@@ -1228,11 +1226,11 @@
     "team": [
       "66aad2e790c5f7e23258303e"
     ],
-    "representant": "66aad2e790c5f7e23258303e"
+    "representant": "66aad2e790c5f7e23258303e",
+    "projectRiskCalculation": 0.6849560122229639,
+    "returnRate": 0.13966693472516423
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f961f",
     "projectName": "Desarrollo de un sistema de decisión soporte en la clasificación clínica de pacientes con neumonía viral, bacteriana y sin neumonía, basado en el análisis de imágenes de rayos X de tórax implementando Deep Learning",
     "projectCategory": "Salud",
@@ -1270,7 +1268,7 @@
     "rewardType": [
       "Reconocimiento en la industria"
     ],
-    "returnPeriod": 3,
+    "returnPeriod": 19,
     "competitiveLandscape": [
       "Innovación en prótesis robóticas"
     ],
@@ -1280,15 +1278,15 @@
       
     ],
     "__v": 0,
-    "cluster": 1,
+    "cluster": 2,
     "team": [
       "66758c099caed3c05b9205d1"
     ],
-    "representant": "66758c099caed3c05b9205d1"
+    "representant": "66758c099caed3c05b9205d1",
+    "projectRiskCalculation": 0.32845152053913945,
+    "returnRate": 0.07625814730917713
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f95d1",
     "projectName": "Proceso de instalación y programación de dispositivos finales en el Robot ABB 120, Simulación en Robot Estudio",
     "projectCategory": "Domótica",
@@ -1324,7 +1322,7 @@
     "rewardType": [
       "Participación en las ganancias"
     ],
-    "returnPeriod": 3,
+    "returnPeriod": 19,
     "competitiveLandscape": [
       "Enfoque en la sostenibilidad"
     ],
@@ -1334,15 +1332,15 @@
       
     ],
     "__v": 0,
-    "cluster": 0,
+    "cluster": 2,
     "team": [
       "66aad2e990c5f7e23258305e"
     ],
-    "representant": "66aad2e990c5f7e23258305e"
+    "representant": "66aad2e990c5f7e23258305e",
+    "projectRiskCalculation": 0.4940225420699069,
+    "returnRate": 0.06581274371282825
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f95d2",
     "projectName": "Diseño y fabricación de 3 elevadores de carga de 5 toneladas",
     "projectCategory": "Agricultura",
@@ -1379,7 +1377,7 @@
     "rewardType": [
       "Participación en las ganancias"
     ],
-    "returnPeriod": 2,
+    "returnPeriod": 21,
     "competitiveLandscape": [
       "Enfoque en la sostenibilidad"
     ],
@@ -1393,11 +1391,11 @@
     "team": [
       "66aad2e790c5f7e232583034"
     ],
-    "representant": "66aad2e790c5f7e232583034"
+    "representant": "66aad2e790c5f7e232583034",
+    "projectRiskCalculation": 0.4070615107168343,
+    "returnRate": 0.12921873572764547
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f95d4",
     "projectName": "Diseño, construcción y control de un Brazo Robótico Tipo Antropomórfico de 6 grados de libertad y de un Brazo Robótico Tipo Scara de 4 grados de libertad",
     "projectCategory": "Industria 4.0",
@@ -1433,7 +1431,7 @@
     "rewardType": [
       "Participación en las ganancias"
     ],
-    "returnPeriod": 3,
+    "returnPeriod": 19,
     "competitiveLandscape": [
       "Mejora en la eficiencia comparada con competidores"
     ],
@@ -1447,11 +1445,11 @@
     "team": [
       "66aad2e590c5f7e23258300a"
     ],
-    "representant": "66aad2e590c5f7e23258300a"
+    "representant": "66aad2e590c5f7e23258300a",
+    "projectRiskCalculation": 0.3555202672689003,
+    "returnRate": 0.14835443499640016
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f95d5",
     "projectName": "Desarrollo de una plataforma mecatrónica móvil para la cosecha asistida de café",
     "projectCategory": "Industrial",
@@ -1485,7 +1483,7 @@
     "rewardType": [
       "Participación en las ganancias"
     ],
-    "returnPeriod": 4,
+    "returnPeriod": 31,
     "competitiveLandscape": [
       "Mejora en la eficiencia comparada con competidores"
     ],
@@ -1499,11 +1497,11 @@
     "team": [
       "66aad2e890c5f7e232583052"
     ],
-    "representant": "66aad2e890c5f7e232583052"
+    "representant": "66aad2e890c5f7e232583052",
+    "projectRiskCalculation": 0.9094172782641043,
+    "returnRate": 0.1439124841272655
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f95d8",
     "projectName": "Desarrollo de un sistema de alertas en un ambiente controlado que permita mejorar la calidad de vida de individuos con discapacidad auditiva pertenecientes a la ciudad de Bucaramanga",
     "projectCategory": "Medicina",
@@ -1538,7 +1536,7 @@
     "rewardType": [
       "Participación en Beneficios"
     ],
-    "returnPeriod": 4,
+    "returnPeriod": 8,
     "competitiveLandscape": [
       "Innovación en Materiales"
     ],
@@ -1548,15 +1546,15 @@
       
     ],
     "__v": 0,
-    "cluster": 1,
+    "cluster": 2,
     "team": [
       "66aad2e690c5f7e23258301e"
     ],
-    "representant": "66aad2e690c5f7e23258301e"
+    "representant": "66aad2e690c5f7e23258301e",
+    "projectRiskCalculation": 0.2859043156318109,
+    "returnRate": 0.02365946211529133
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f95ea",
     "projectName": "Análisis de señales respiratorias para el diagnóstico de pacientes con insuficiencia cardíaca crónica mediante técnicas de inteligencia artificial",
     "projectCategory": "Construcción",
@@ -1595,7 +1593,7 @@
     "rewardType": [
       "Participación en las ganancias"
     ],
-    "returnPeriod": 3,
+    "returnPeriod": 25,
     "competitiveLandscape": [
       "Eficiencia comparada con competidores"
     ],
@@ -1609,11 +1607,11 @@
     "team": [
       "66aad2e790c5f7e232583030"
     ],
-    "representant": "66aad2e790c5f7e232583030"
+    "representant": "66aad2e790c5f7e232583030",
+    "projectRiskCalculation": 0.6956297130098764,
+    "returnRate": 0.19821535284530173
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f95ef",
     "projectName": "Estimación de trayectorias usando odometría visual monocular aplicado a vehículos autónomos",
     "projectCategory": "Energía",
@@ -1652,7 +1650,7 @@
     "rewardType": [
       "Participación en Beneficios"
     ],
-    "returnPeriod": 5,
+    "returnPeriod": 33,
     "competitiveLandscape": [
       "Sostenibilidad y accesibilidad energética"
     ],
@@ -1662,7 +1660,7 @@
       
     ],
     "__v": 0,
-    "cluster": 0,
+    "cluster": 2,
     "team": [
       "66aad2e690c5f7e232583020",
       "66aad2e690c5f7e232583020",
@@ -1671,11 +1669,11 @@
       "66aad2e890c5f7e232583048",
       "66aad2e890c5f7e232583048"
     ],
-    "representant": "66aad2e890c5f7e232583048"
+    "representant": "66aad2e890c5f7e232583048",
+    "projectRiskCalculation": 0.9152856380815042,
+    "returnRate": 0.16148810938831615
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f95f0",
     "projectName": "Interacción con videojuegos como estrategia didáctica para estimular la creatividad en niños en edad preescolar",
     "projectCategory": "Medicina",
@@ -1713,7 +1711,7 @@
     "rewardType": [
       "Reconocimiento en la industria"
     ],
-    "returnPeriod": 4,
+    "returnPeriod": 14,
     "competitiveLandscape": [
       "Eficiencia comparada con soluciones convencionales"
     ],
@@ -1727,11 +1725,11 @@
     "team": [
       "66aad2e590c5f7e232583010"
     ],
-    "representant": "66aad2e590c5f7e232583010"
+    "representant": "66aad2e590c5f7e232583010",
+    "projectRiskCalculation": 0.5813274880931261,
+    "returnRate": 0.09991109798666782
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f95f3",
     "projectName": "Diseño y simulación de un aerogenerador de eje vertical para zonas no interconectadas de Colombia",
     "projectCategory": "Medicina",
@@ -1770,7 +1768,7 @@
     "rewardType": [
       "Reconocimiento en la industria"
     ],
-    "returnPeriod": 4,
+    "returnPeriod": 16,
     "competitiveLandscape": [
       "Innovación en dispositivos de rehabilitación"
     ],
@@ -1780,15 +1778,15 @@
       
     ],
     "__v": 0,
-    "cluster": 0,
+    "cluster": 2,
     "team": [
       "66aad2e690c5f7e232583026"
     ],
-    "representant": "66aad2e690c5f7e232583026"
+    "representant": "66aad2e690c5f7e232583026",
+    "projectRiskCalculation": 0.2045559880618477,
+    "returnRate": 0.009620175899412343
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f95f5",
     "projectName": "Diseño e implementación de un sistema de reconocimiento y exploración de terrenos basado en robótica móvil, visión artificial y el hardware Kinect",
     "projectCategory": "Tecnologías Asistivas",
@@ -1825,7 +1823,7 @@
     "rewardType": [
       "Reconocimiento en la industria"
     ],
-    "returnPeriod": 3,
+    "returnPeriod": 12,
     "competitiveLandscape": [
       "Innovación en sillas de ruedas inteligentes"
     ],
@@ -1835,15 +1833,15 @@
       
     ],
     "__v": 0,
-    "cluster": 0,
+    "cluster": 2,
     "team": [
       "66aad2e590c5f7e232583014"
     ],
-    "representant": "66aad2e590c5f7e232583014"
+    "representant": "66aad2e590c5f7e232583014",
+    "projectRiskCalculation": 0.49802403237754655,
+    "returnRate": 0.10212161476025616
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f95f9",
     "projectName": "Construcción de un vehículo eléctrico auto balanceado de dos ruedas para el transporte unipersonal",
     "projectCategory": "Industria",
@@ -1882,7 +1880,7 @@
     "rewardType": [
       "Reconocimiento en la industria"
     ],
-    "returnPeriod": 3,
+    "returnPeriod": 19,
     "competitiveLandscape": [
       "Innovación en asistencia para trabajadores"
     ],
@@ -1896,11 +1894,11 @@
     "team": [
       "66aad2e790c5f7e23258302e"
     ],
-    "representant": "66aad2e790c5f7e23258302e"
+    "representant": "66aad2e790c5f7e23258302e",
+    "projectRiskCalculation": 0.49301205216651,
+    "returnRate": 0.05285189917555817
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f95fd",
     "projectName": "Diseño, modelación y simulación de sistemas nanotecnológicos de electroestimulación por tecnología de fabricación de electro hilado (electro spinning)",
     "projectCategory": "Electrónica",
@@ -1939,7 +1937,7 @@
     "rewardType": [
       "Participación en Beneficios"
     ],
-    "returnPeriod": 4,
+    "returnPeriod": 18,
     "competitiveLandscape": [
       "Eficiencia en ensamblaje electrónico"
     ],
@@ -1949,15 +1947,15 @@
       
     ],
     "__v": 0,
-    "cluster": 0,
+    "cluster": 2,
     "team": [
       "66aad2e790c5f7e23258303c"
     ],
-    "representant": "66aad2e790c5f7e23258303c"
+    "representant": "66aad2e790c5f7e23258303c",
+    "projectRiskCalculation": 0.3737434972838557,
+    "returnRate": 0.13610349260703597
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f95ff",
     "projectName": "Técnicas de análisis del patrón respiratorio para la extracción de índices en pacientes en proceso de extubación",
     "projectCategory": "Medicina",
@@ -1996,7 +1994,7 @@
     "rewardType": [
       "Reconocimiento en la industria"
     ],
-    "returnPeriod": 4,
+    "returnPeriod": 14,
     "competitiveLandscape": [
       "Innovación en dispositivos de rehabilitación"
     ],
@@ -2010,11 +2008,11 @@
     "team": [
       "66aad2e590c5f7e232583008"
     ],
-    "representant": "66aad2e590c5f7e232583008"
+    "representant": "66aad2e590c5f7e232583008",
+    "projectRiskCalculation": 0.11536163693183882,
+    "returnRate": 0.008179139311239914
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f9600",
     "projectName": "Diseño de un sistema de reconocimiento de gestos no móviles mediante el procesamiento digital de imágenes",
     "projectCategory": "Industria",
@@ -2053,7 +2051,7 @@
     "rewardType": [
       "Participación en Beneficios"
     ],
-    "returnPeriod": 3,
+    "returnPeriod": 12,
     "competitiveLandscape": [
       "Innovación en asistencia para trabajadores de almacén"
     ],
@@ -2067,11 +2065,11 @@
     "team": [
       "66aad2e590c5f7e23258300c"
     ],
-    "representant": "66aad2e590c5f7e23258300c"
+    "representant": "66aad2e590c5f7e23258300c",
+    "projectRiskCalculation": 0.47769702914184725,
+    "returnRate": 0.06854078880618437
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f9605",
     "projectName": "Diseño y desarrollo de micro-y nanoautómatas de inferencia en tiempo real por tecnología de fabricación aditiva para el monitoreo y control de la calidad aguas residuales de la industria del petróleo ecopetrol",
     "projectCategory": "Agricultura",
@@ -2109,7 +2107,7 @@
     "rewardType": [
       "Participación en las ganancias"
     ],
-    "returnPeriod": 3,
+    "returnPeriod": 21,
     "competitiveLandscape": [
       "Innovación en drones agrícolas"
     ],
@@ -2123,11 +2121,11 @@
     "team": [
       "66aad2e690c5f7e23258301e"
     ],
-    "representant": "66aad2e690c5f7e23258301e"
+    "representant": "66aad2e690c5f7e23258301e",
+    "projectRiskCalculation": 0.31918506104087013,
+    "returnRate": 0.07499810609525562
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f960f",
     "projectName": "Clasificación de pacientes con retinopatía diabética mediante deep learning",
     "projectCategory": "Agricultura",
@@ -2166,7 +2164,7 @@
     "rewardType": [
       "Participación en Beneficios"
     ],
-    "returnPeriod": 5,
+    "returnPeriod": 30,
     "competitiveLandscape": [
       "Eficiencia en cultivo vertical"
     ],
@@ -2176,15 +2174,15 @@
       
     ],
     "__v": 0,
-    "cluster": 0,
+    "cluster": 2,
     "team": [
       "66aad2e690c5f7e232583018"
     ],
-    "representant": "66aad2e690c5f7e232583018"
+    "representant": "66aad2e690c5f7e232583018",
+    "projectRiskCalculation": 0.9615129506005851,
+    "returnRate": 0.16084203379522266
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f9616",
     "projectName": "Investigación y desarrollo de instrumentación de alta precisión para pavimentos",
     "projectCategory": "Tecnologías Asistivas",
@@ -2223,7 +2221,7 @@
     "rewardType": [
       "Reconocimiento en la industria"
     ],
-    "returnPeriod": 3,
+    "returnPeriod": 12,
     "competitiveLandscape": [
       "Innovación en asistencia para discapacidad visual"
     ],
@@ -2238,11 +2236,11 @@
       "66aad2e590c5f7e232583012",
       "66aad2e590c5f7e232583012"
     ],
-    "representant": "66aad2e590c5f7e232583012"
+    "representant": "66aad2e590c5f7e232583012",
+    "projectRiskCalculation": 0.43439474369328046,
+    "returnRate": 0.06497776311137882
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f9617",
     "projectName": "Diseño de un sistema automático para determinar el grado de progresión de la retinopatía diabética",
     "projectCategory": "Medio Ambiente",
@@ -2280,7 +2278,7 @@
     "rewardType": [
       "Reconocimiento en la industria"
     ],
-    "returnPeriod": 4,
+    "returnPeriod": 13,
     "competitiveLandscape": [
       "Precisión en monitoreo ambiental"
     ],
@@ -2294,11 +2292,11 @@
     "team": [
       "66aad2e890c5f7e23258304c"
     ],
-    "representant": "66aad2e890c5f7e23258304c"
+    "representant": "66aad2e890c5f7e23258304c",
+    "projectRiskCalculation": 0.32023387842516093,
+    "returnRate": 0.09171785652158689
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f961b",
     "projectName": "Desarrollo de una tecnología de cosecha selectiva de café arábica aplicando vibraciones de alta frecuencia",
     "projectCategory": "Agricultura",
@@ -2337,7 +2335,7 @@
     "rewardType": [
       "Participación en las ganancias"
     ],
-    "returnPeriod": 4,
+    "returnPeriod": 34,
     "competitiveLandscape": [
       "Eficiencia en monitoreo agrícola"
     ],
@@ -2351,11 +2349,11 @@
     "team": [
       "66aad2e690c5f7e23258301c"
     ],
-    "representant": "66aad2e690c5f7e23258301c"
+    "representant": "66aad2e690c5f7e23258301c",
+    "projectRiskCalculation": 0.7098323839603263,
+    "returnRate": 0.19557504165282202
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f95d6",
     "projectName": "Desarrollo de un prototipo electromecánico de acople rápido para la conversión de sillas de ruedas convencionales en sillas de ruedas eléctricas",
     "projectCategory": "Industrial",
@@ -2389,7 +2387,7 @@
     "rewardType": [
       "Participación en las ganancias"
     ],
-    "returnPeriod": 4,
+    "returnPeriod": 30,
     "competitiveLandscape": [
       "Mejora en la eficiencia comparada con competidores"
     ],
@@ -2403,11 +2401,11 @@
     "team": [
       "66aad2e490c5f7e232582ffe"
     ],
-    "representant": "66aad2e490c5f7e232582ffe"
+    "representant": "66aad2e490c5f7e232582ffe",
+    "projectRiskCalculation": 0.8367511519626452,
+    "returnRate": 0.1559378499348896
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f95db",
     "projectName": "Diseño de un sistema automatizado para selección de Café por medio de Flotes",
     "projectCategory": "Medicina",
@@ -2443,7 +2441,7 @@
     "rewardType": [
       "Participación en Beneficios"
     ],
-    "returnPeriod": 4,
+    "returnPeriod": 15,
     "competitiveLandscape": [
       "Innovación en Materiales"
     ],
@@ -2457,11 +2455,11 @@
     "team": [
       "66aad2e590c5f7e232583005"
     ],
-    "representant": "66aad2e590c5f7e232583005"
+    "representant": "66aad2e590c5f7e232583005",
+    "projectRiskCalculation": 0.12227162604081637,
+    "returnRate": 0.045303232200469834
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f95df",
     "projectName": "Análisis de las señales cardiorespiratorias mediante la dinámica simbólica en pacientes sometidos a ventilación mecánica",
     "projectCategory": "Robótica",
@@ -2501,7 +2499,7 @@
     "rewardType": [
       "Reconocimiento en la industria"
     ],
-    "returnPeriod": 3,
+    "returnPeriod": 23,
     "competitiveLandscape": [
       "Diferenciación a través de tecnología única"
     ],
@@ -2511,15 +2509,15 @@
       
     ],
     "__v": 0,
-    "cluster": 0,
+    "cluster": 2,
     "team": [
       "66aad2e790c5f7e23258302e"
     ],
-    "representant": "66aad2e790c5f7e23258302e"
+    "representant": "66aad2e790c5f7e23258302e",
+    "projectRiskCalculation": 0.528538366344199,
+    "returnRate": 0.08774812685744718
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f95ed",
     "projectName": "Diseño de una suspensión para un vehículo tipo SAE-UNAB",
     "projectCategory": "Educación",
@@ -2557,7 +2555,7 @@
     "rewardType": [
       "Reconocimiento en la industria"
     ],
-    "returnPeriod": 2,
+    "returnPeriod": 13,
     "competitiveLandscape": [
       "Innovación en kits educativos"
     ],
@@ -2571,11 +2569,11 @@
     "team": [
       "66aad2e790c5f7e23258302c"
     ],
-    "representant": "66aad2e790c5f7e23258302c"
+    "representant": "66aad2e790c5f7e23258302c",
+    "projectRiskCalculation": 0.20702652394556342,
+    "returnRate": 0.04105552799267287
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f95ee",
     "projectName": "Diseño de un sistema para generación de energía eléctrica a partir de gases de desecho de plantas de tratamiento de aguas residuales utilizando celdas de combustible de membrana de intercambio protónico",
     "projectCategory": "Tecnologías Asistivas",
@@ -2613,7 +2611,7 @@
     "rewardType": [
       "Reconocimiento en la industria"
     ],
-    "returnPeriod": 3,
+    "returnPeriod": 19,
     "competitiveLandscape": [
       "Innovación en juegos terapéuticos"
     ],
@@ -2627,11 +2625,11 @@
     "team": [
       "66aad2e990c5f7e23258305c"
     ],
-    "representant": "66aad2e990c5f7e23258305c"
+    "representant": "66aad2e990c5f7e23258305c",
+    "projectRiskCalculation": 0.5778004865204425,
+    "returnRate": 0.11679551473228289
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f95f7",
     "projectName": "Acoplamiento cardiorespiratorio mediante técnicas no lineales, para la extracción de índices en pacientes durante la prueba del tubo en 'T'",
     "projectCategory": "Educación",
@@ -2669,7 +2667,7 @@
     "rewardType": [
       "Reconocimiento en la industria"
     ],
-    "returnPeriod": 2,
+    "returnPeriod": 6,
     "competitiveLandscape": [
       "Innovación en juguetes educativos"
     ],
@@ -2683,11 +2681,11 @@
     "team": [
       "66aad2e890c5f7e232583050"
     ],
-    "representant": "66aad2e890c5f7e232583050"
+    "representant": "66aad2e890c5f7e232583050",
+    "projectRiskCalculation": 0.16678621186081508,
+    "returnRate": 0.037588083243194674
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f95f8",
     "projectName": "Sistema guiado para personas con discapacidad visual en supermercados",
     "projectCategory": "Industria",
@@ -2726,7 +2724,7 @@
     "rewardType": [
       "Participación en Beneficios"
     ],
-    "returnPeriod": 4,
+    "returnPeriod": 19,
     "competitiveLandscape": [
       "Precisión en control de calidad"
     ],
@@ -2740,11 +2738,11 @@
     "team": [
       "66aad2e990c5f7e232583054"
     ],
-    "representant": "66aad2e990c5f7e232583054"
+    "representant": "66aad2e990c5f7e232583054",
+    "projectRiskCalculation": 0.30514064251301415,
+    "returnRate": 0.08357602795361435
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f95fe",
     "projectName": "Análisis de interacción entre patrón respiratorio y frecuencia cardíaca, mediante técnicas lineales y no lineales, en pacientes durante el proceso de destete",
     "projectCategory": "Agricultura",
@@ -2783,7 +2781,7 @@
     "rewardType": [
       "Reconocimiento en la industria"
     ],
-    "returnPeriod": 3,
+    "returnPeriod": 16,
     "competitiveLandscape": [
       "Innovación en drones agrícolas"
     ],
@@ -2797,11 +2795,11 @@
     "team": [
       "66aad2e790c5f7e232583036"
     ],
-    "representant": "66aad2e790c5f7e232583036"
+    "representant": "66aad2e790c5f7e232583036",
+    "projectRiskCalculation": 0.5862254338126948,
+    "returnRate": 0.13203385702624287
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f9602",
     "projectName": "Modelado Matemático y Validación de Simulaciones en Matlab Simulink para Motores Brushless DC (BLDC)",
     "projectCategory": "Tecnologías Asistivas",
@@ -2839,7 +2837,7 @@
     "rewardType": [
       "Reconocimiento en la industria"
     ],
-    "returnPeriod": 3,
+    "returnPeriod": 16,
     "competitiveLandscape": [
       "Innovación en prótesis avanzadas"
     ],
@@ -2853,11 +2851,11 @@
     "team": [
       "66aad2e890c5f7e232583052"
     ],
-    "representant": "66aad2e890c5f7e232583052"
+    "representant": "66aad2e890c5f7e232583052",
+    "projectRiskCalculation": 0.10766104021198294,
+    "returnRate": 0.03614737120313871
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f9606",
     "projectName": "Gestión de mantenimiento para el nuevo sistema de calentamiento de la empresa mundial de tambores Ltda",
     "projectCategory": "Deporte",
@@ -2896,7 +2894,7 @@
     "rewardType": [
       "Reconocimiento en la industria"
     ],
-    "returnPeriod": 3,
+    "returnPeriod": 20,
     "competitiveLandscape": [
       "Innovación en exoesqueletos deportivos"
     ],
@@ -2911,11 +2909,11 @@
       "66aad2e890c5f7e232583044",
       "66aad2e690c5f7e23258301c"
     ],
-    "representant": "66aad2e690c5f7e23258301c"
+    "representant": "66aad2e690c5f7e23258301c",
+    "projectRiskCalculation": 0.4971397142400916,
+    "returnRate": 0.1039281696681939
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f9607",
     "projectName": "Concepción de un vehículo aéreo no tripulado del tipo quadrotor para aplicaciones de supervisión aérea de instalaciones de petróleo y gas natural",
     "projectCategory": "Tecnologías Asistivas",
@@ -2954,7 +2952,7 @@
     "rewardType": [
       "Participación en Beneficios"
     ],
-    "returnPeriod": 4,
+    "returnPeriod": 6,
     "competitiveLandscape": [
       "Innovación en asistencia para personas mayores"
     ],
@@ -2968,11 +2966,11 @@
     "team": [
       "66aad2e690c5f7e232583026"
     ],
-    "representant": "66aad2e690c5f7e232583026"
+    "representant": "66aad2e690c5f7e232583026",
+    "projectRiskCalculation": 0.0186159330690987,
+    "returnRate": 0.015277838420307577
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f9609",
     "projectName": "Diseño de una herramienta CACSD para reguladores PID, fuzzy, Hinf",
     "projectCategory": "Energía Renovable",
@@ -3011,7 +3009,7 @@
     "rewardType": [
       "Participación en las ganancias"
     ],
-    "returnPeriod": 4,
+    "returnPeriod": 22,
     "competitiveLandscape": [
       "Eficiencia en sistemas de energía renovable"
     ],
@@ -3021,15 +3019,15 @@
       
     ],
     "__v": 0,
-    "cluster": 1,
+    "cluster": 2,
     "team": [
       "66aad2e590c5f7e23258300c"
     ],
-    "representant": "66aad2e590c5f7e23258300c"
+    "representant": "66aad2e590c5f7e23258300c",
+    "projectRiskCalculation": 0.5704246636774455,
+    "returnRate": 0.13269742977459237
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f960c",
     "projectName": "Diseño de un sistema de control para regular la tensión generada por una turbina hidráulica tipo kaplan acoplada a un generador DC",
     "projectCategory": "Transporte",
@@ -3068,7 +3066,7 @@
     "rewardType": [
       "Participación en Beneficios"
     ],
-    "returnPeriod": 4,
+    "returnPeriod": 22,
     "competitiveLandscape": [
       "Eficiencia en la navegación autónoma"
     ],
@@ -3078,15 +3076,15 @@
       
     ],
     "__v": 0,
-    "cluster": 0,
+    "cluster": 2,
     "team": [
       "66aad2e590c5f7e232583008"
     ],
-    "representant": "66aad2e590c5f7e232583008"
+    "representant": "66aad2e590c5f7e232583008",
+    "projectRiskCalculation": 0.371513630021451,
+    "returnRate": 0.13528907366456883
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f960d",
     "projectName": "Diseño de una bicicleta eléctrica de competición",
     "projectCategory": "Energía",
@@ -3125,7 +3123,7 @@
     "rewardType": [
       "Reconocimiento en la industria"
     ],
-    "returnPeriod": 5,
+    "returnPeriod": 32,
     "competitiveLandscape": [
       "Innovación en energía renovable"
     ],
@@ -3139,11 +3137,11 @@
     "team": [
       "66aad2e890c5f7e23258304c"
     ],
-    "representant": "66aad2e890c5f7e23258304c"
+    "representant": "66aad2e890c5f7e23258304c",
+    "projectRiskCalculation": 0.8165253890052422,
+    "returnRate": 0.15751948131967927
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f960e",
     "projectName": "Diseño de un robot teleoperado para limpieza externa de tanques de almacenamiento de hidrocarburos",
     "projectCategory": "Seguridad",
@@ -3182,7 +3180,7 @@
     "rewardType": [
       "Reconocimiento en la industria"
     ],
-    "returnPeriod": 4,
+    "returnPeriod": 19,
     "competitiveLandscape": [
       "Innovación en tecnologías para desastres naturales"
     ],
@@ -3196,11 +3194,11 @@
     "team": [
       "6670d46a6a466c1a3b7ed90c"
     ],
-    "representant": "6670d46a6a466c1a3b7ed90c"
+    "representant": "6670d46a6a466c1a3b7ed90c",
+    "projectRiskCalculation": 0.5152182178559582,
+    "returnRate": 0.10932002733932021
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f9610",
     "projectName": "Construcción de un robot asistencial para el programa de ingeniería mecatrónica",
     "projectCategory": "Tecnologías Asistivas",
@@ -3238,7 +3236,7 @@
     "rewardType": [
       "Reconocimiento en la industria"
     ],
-    "returnPeriod": 4,
+    "returnPeriod": 13,
     "competitiveLandscape": [
       "Innovación en dispositivos de rehabilitación"
     ],
@@ -3253,11 +3251,11 @@
       "66aad2e690c5f7e23258301a",
       "66aad2e990c5f7e232583056"
     ],
-    "representant": "66aad2e990c5f7e232583056"
+    "representant": "66aad2e990c5f7e232583056",
+    "projectRiskCalculation": 0.40391511972569144,
+    "returnRate": 0.14661985904947056
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f9614",
     "projectName": "Diseño de una tricicleta con sistema de tracción híbrida pedaleo/motor eléctrico",
     "projectCategory": "Tecnologías Asistivas",
@@ -3295,7 +3293,7 @@
     "rewardType": [
       "Reconocimiento en la industria"
     ],
-    "returnPeriod": 3,
+    "returnPeriod": 16,
     "competitiveLandscape": [
       "Innovación en prótesis robóticas"
     ],
@@ -3305,15 +3303,15 @@
       
     ],
     "__v": 0,
-    "cluster": 0,
+    "cluster": 2,
     "team": [
       "66aad2e590c5f7e23258300a"
     ],
-    "representant": "66aad2e590c5f7e23258300a"
+    "representant": "66aad2e590c5f7e23258300a",
+    "projectRiskCalculation": 0.09536989404311721,
+    "returnRate": 0.04571200368025572
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f9619",
     "projectName": "Comparación entre dos tipos de control implementados en LabVIEW y MATLAB aplicados a la transmisión hidrostática y al péndulo invertido del laboratorio de oleo-neumática de la UNAB",
     "projectCategory": "Industria",
@@ -3352,7 +3350,7 @@
     "rewardType": [
       "Participación en Beneficios"
     ],
-    "returnPeriod": 4,
+    "returnPeriod": 13,
     "competitiveLandscape": [
       "Eficiencia en procesos alimentarios"
     ],
@@ -3366,11 +3364,11 @@
     "team": [
       "66aad2e790c5f7e232583032"
     ],
-    "representant": "66aad2e790c5f7e232583032"
+    "representant": "66aad2e790c5f7e232583032",
+    "projectRiskCalculation": 0.5798160129703396,
+    "returnRate": 0.1486463878073261
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f961e",
     "projectName": "Desarrollo de un Sistema de Control para la Gestión Eléctrica del Pedaleo Asistido en Vehículos de Tracción Híbrida en pro del cuidado de las Baterías Eléctricas",
     "projectCategory": "Energía Renovable",
@@ -3409,7 +3407,7 @@
     "rewardType": [
       "Participación en las ganancias"
     ],
-    "returnPeriod": 4,
+    "returnPeriod": 16,
     "competitiveLandscape": [
       "Eficiencia en sistemas de energía renovable"
     ],
@@ -3423,11 +3421,11 @@
     "team": [
       "66aad2e890c5f7e23258304e"
     ],
-    "representant": "66aad2e890c5f7e23258304e"
+    "representant": "66aad2e890c5f7e23258304e",
+    "projectRiskCalculation": 0.42825524372175594,
+    "returnRate": 0.08860610825187272
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f95cf",
     "projectName": "Sistema de caracterización y modelamiento de afloramientos geológicos mediante técnicas de fotogrametría, a bordo de un vehículo aéreo autónomo no tripulado",
     "projectCategory": "Agricultura",
@@ -3461,7 +3459,7 @@
     "rewardType": [
       "Producto final del proyecto"
     ],
-    "returnPeriod": 2,
+    "returnPeriod": 14,
     "competitiveLandscape": [
       "Diferenciación a través de tecnología única"
     ],
@@ -3475,11 +3473,11 @@
     "team": [
       "66aad2e690c5f7e232583026"
     ],
-    "representant": "66aad2e690c5f7e232583026"
+    "representant": "66aad2e690c5f7e232583026",
+    "projectRiskCalculation": 0.36901557143534697,
+    "returnRate": 0.11944075732739334
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f95d9",
     "projectName": "Estudio y generación de dispositivos mecánicos con acoples móviles mediante la técnica de prototipado rápido FDM (Fused Deposition Modeling)",
     "projectCategory": "Domótica",
@@ -3518,7 +3516,7 @@
     "rewardType": [
       "Participación en las ganancias"
     ],
-    "returnPeriod": 3,
+    "returnPeriod": 12,
     "competitiveLandscape": [
       "Enfoque en la sostenibilidad"
     ],
@@ -3532,11 +3530,11 @@
     "team": [
       "66aad2e990c5f7e23258305a"
     ],
-    "representant": "66aad2e990c5f7e23258305a"
+    "representant": "66aad2e990c5f7e23258305a",
+    "projectRiskCalculation": 0.386646896257436,
+    "returnRate": 0.07275270638560571
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f95da",
     "projectName": "Diseño y construcción de una plataforma para rehabilitación de movimiento controlado de rotación y traslación de miembros inferiores para pacientes con hemiplejia",
     "projectCategory": "Industrial",
@@ -3575,7 +3573,7 @@
     "rewardType": [
       "Participación en las ganancias"
     ],
-    "returnPeriod": 3,
+    "returnPeriod": 14,
     "competitiveLandscape": [
       "Mejora en la eficiencia comparada con competidores"
     ],
@@ -3589,11 +3587,11 @@
     "team": [
       "6670d46a6a466c1a3b7ed90c"
     ],
-    "representant": "6670d46a6a466c1a3b7ed90c"
+    "representant": "6670d46a6a466c1a3b7ed90c",
+    "projectRiskCalculation": 0.44172503798577456,
+    "returnRate": 0.14812311583984952
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f95dc",
     "projectName": "Diseño de una red neuronal recurrente para la estimación de la variable peso para aplicaciones en el sector avícola y apícola",
     "projectCategory": "Domótica",
@@ -3632,7 +3630,7 @@
     "rewardType": [
       "Participación en las ganancias"
     ],
-    "returnPeriod": 3,
+    "returnPeriod": 23,
     "competitiveLandscape": [
       "Enfoque en la sostenibilidad"
     ],
@@ -3642,15 +3640,15 @@
       
     ],
     "__v": 0,
-    "cluster": 0,
+    "cluster": 2,
     "team": [
       "66aad2e590c5f7e23258300e"
     ],
-    "representant": "66aad2e590c5f7e23258300e"
+    "representant": "66aad2e590c5f7e23258300e",
+    "projectRiskCalculation": 0.4734765166117323,
+    "returnRate": 0.12704444410589222
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f95dd",
     "projectName": "Evaluación de seguridad, desempeño y experiencia de usuario de un sistema robótico controlado por BCI para la rehabilitación asistida de brazo y antebrazo (Brazo-FiT) en personas con hemiparesia",
     "projectCategory": "Agricultura",
@@ -3687,7 +3685,7 @@
     "rewardType": [
       "Producto final del proyecto"
     ],
-    "returnPeriod": 2,
+    "returnPeriod": 13,
     "competitiveLandscape": [
       "Diferenciación a través de tecnología única"
     ],
@@ -3701,11 +3699,11 @@
     "team": [
       "66aad2e790c5f7e23258303a"
     ],
-    "representant": "66aad2e790c5f7e23258303a"
+    "representant": "66aad2e790c5f7e23258303a",
+    "projectRiskCalculation": 0.411915402377289,
+    "returnRate": 0.08814406188514222
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f95de",
     "projectName": "Sistema Robótico para Rehabilitación de Miembro Superior",
     "projectCategory": "Electrónica",
@@ -3740,7 +3738,7 @@
     "rewardType": [
       "Reconocimiento en la industria"
     ],
-    "returnPeriod": 1,
+    "returnPeriod": 27,
     "competitiveLandscape": [
       "Innovación en eficiencia energética"
     ],
@@ -3754,11 +3752,11 @@
     "team": [
       "66aad2e990c5f7e232583054"
     ],
-    "representant": "66aad2e990c5f7e232583054"
+    "representant": "66aad2e990c5f7e232583054",
+    "projectRiskCalculation": 0.8515190078885835,
+    "returnRate": 0.14797905669343211
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f95e3",
     "projectName": "Mecanismo antropomórfico para rehabilitación de marcha",
     "projectCategory": "Energía",
@@ -3797,7 +3795,7 @@
     "rewardType": [
       "Participación en Beneficios"
     ],
-    "returnPeriod": 4,
+    "returnPeriod": 20,
     "competitiveLandscape": [
       "Sostenibilidad en la generación de energía"
     ],
@@ -3811,11 +3809,11 @@
     "team": [
       "66aad2e990c5f7e23258305c"
     ],
-    "representant": "66aad2e990c5f7e23258305c"
+    "representant": "66aad2e990c5f7e23258305c",
+    "projectRiskCalculation": 0.39484349656180234,
+    "returnRate": 0.07629861053021084
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f95e5",
     "projectName": "Sistema automático apilador de cajitas de jugo de la máquina Tetra Brick Aseptic 19 para la optimización del empacado en la empresa Coolechera Ltda",
     "projectCategory": "Agricultura",
@@ -3854,7 +3852,7 @@
     "rewardType": [
       "Participación en Beneficios"
     ],
-    "returnPeriod": 2,
+    "returnPeriod": 19,
     "competitiveLandscape": [
       "Diferenciación a través de tecnología única"
     ],
@@ -3868,11 +3866,11 @@
     "team": [
       "66aad2e690c5f7e23258302a"
     ],
-    "representant": "66aad2e690c5f7e23258302a"
+    "representant": "66aad2e690c5f7e23258302a",
+    "projectRiskCalculation": 0.5242937328536945,
+    "returnRate": 0.05724688801148064
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f95e8",
     "projectName": "Diseño de un sistema de estabilización del voltaje de línea para esquemas de generación Stand-Alone con cargas desbalanceadas",
     "projectCategory": "Tecnologías Asistivas",
@@ -3909,7 +3907,7 @@
     "rewardType": [
       "Reconocimiento en la industria"
     ],
-    "returnPeriod": 2,
+    "returnPeriod": 35,
     "competitiveLandscape": [
       "Innovación en dispositivos para discapacidades visuales"
     ],
@@ -3923,11 +3921,11 @@
     "team": [
       "66aad2e690c5f7e23258301c"
     ],
-    "representant": "66aad2e690c5f7e23258301c"
+    "representant": "66aad2e690c5f7e23258301c",
+    "projectRiskCalculation": 0.6604562119698074,
+    "returnRate": 0.1490051123980576
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f95e9",
     "projectName": "Diseño e implementación de un sistema de control para un intercambiador de calor",
     "projectCategory": "Educación",
@@ -3965,7 +3963,7 @@
     "rewardType": [
       "Reconocimiento en la industria"
     ],
-    "returnPeriod": 3,
+    "returnPeriod": 15,
     "competitiveLandscape": [
       "Innovación en juguetes educativos"
     ],
@@ -3979,11 +3977,11 @@
     "team": [
       "6670d46a6a466c1a3b7ed90c"
     ],
-    "representant": "6670d46a6a466c1a3b7ed90c"
+    "representant": "6670d46a6a466c1a3b7ed90c",
+    "projectRiskCalculation": 0.13593664142300363,
+    "returnRate": 0.040785982173290464
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f95eb",
     "projectName": "Sistema de Visión artificial para identificar insectos y su grado de peligrosidad",
     "projectCategory": "Medicina",
@@ -4020,7 +4018,7 @@
     "rewardType": [
       "Reconocimiento en la industria"
     ],
-    "returnPeriod": 4,
+    "returnPeriod": 9,
     "competitiveLandscape": [
       "Innovación en prótesis robóticas"
     ],
@@ -4034,11 +4032,11 @@
     "team": [
       "66aad2e890c5f7e232583050"
     ],
-    "representant": "66aad2e890c5f7e232583050"
+    "representant": "66aad2e890c5f7e232583050",
+    "projectRiskCalculation": 0.23790023832800897,
+    "returnRate": 0.018927946660170614
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f95f6",
     "projectName": "Interpretación de señales para la detección de obstrucciones en inspecciones instrumentadas de tuberías para el transporte de hidrocarburos",
     "projectCategory": "Deporte",
@@ -4077,7 +4075,7 @@
     "rewardType": [
       "Reconocimiento en la industria"
     ],
-    "returnPeriod": 4,
+    "returnPeriod": 9,
     "competitiveLandscape": [
       "Eficiencia en el entrenamiento deportivo"
     ],
@@ -4091,11 +4089,11 @@
     "team": [
       "66aad2e890c5f7e232583052"
     ],
-    "representant": "66aad2e890c5f7e232583052"
+    "representant": "66aad2e890c5f7e232583052",
+    "projectRiskCalculation": 0.06927856613330625,
+    "returnRate": 0.03583633179173251
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f95fc",
     "projectName": "Diseño de un sistema de control utilizando el DCS Delta V para regular el caudal de bombas centrífugas",
     "projectCategory": "Medicina",
@@ -4133,7 +4131,7 @@
     "rewardType": [
       "Reconocimiento en la industria"
     ],
-    "returnPeriod": 4,
+    "returnPeriod": 19,
     "competitiveLandscape": [
       "Precisión en monitoreo de salud"
     ],
@@ -4147,11 +4145,11 @@
     "team": [
       "66aad2e890c5f7e23258304a"
     ],
-    "representant": "66aad2e890c5f7e23258304a"
+    "representant": "66aad2e890c5f7e23258304a",
+    "projectRiskCalculation": 0.433294684071785,
+    "returnRate": 0.08182180396970057
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f960a",
     "projectName": "Desarrollo de prótesis inteligente manejada por inteligencia para interpretar señales cerebrales",
     "projectCategory": "Educación",
@@ -4189,7 +4187,7 @@
     "rewardType": [
       "Reconocimiento en la industria"
     ],
-    "returnPeriod": 3,
+    "returnPeriod": 25,
     "competitiveLandscape": [
       "Innovación en tecnología educativa"
     ],
@@ -4203,11 +4201,11 @@
     "team": [
       "66758c099caed3c05b9205d1"
     ],
-    "representant": "66758c099caed3c05b9205d1"
+    "representant": "66758c099caed3c05b9205d1",
+    "projectRiskCalculation": 0.9049261662027522,
+    "returnRate": 0.10102006655673507
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f960b",
     "projectName": "Diseño e implementación de un sistema mecatrónico para entrenamiento de nadadores profesionales en el departamento del Atlántico",
     "projectCategory": "Educación",
@@ -4245,7 +4243,7 @@
     "rewardType": [
       "Reconocimiento en la industria"
     ],
-    "returnPeriod": 2,
+    "returnPeriod": 14,
     "competitiveLandscape": [
       "Innovación en juguetes educativos"
     ],
@@ -4259,11 +4257,11 @@
     "team": [
       "66aad2e790c5f7e232583036"
     ],
-    "representant": "66aad2e790c5f7e232583036"
+    "representant": "66aad2e790c5f7e232583036",
+    "projectRiskCalculation": 0.1599677890126427,
+    "returnRate": 0.02717232174565938
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f9611",
     "projectName": "Adaptación de un sistema electrónico sonoro a un balón para la innovación en la práctica de futsal para personas con discapacidad visual (bindball)",
     "projectCategory": "Tecnologías Asistivas",
@@ -4302,7 +4300,7 @@
     "rewardType": [
       "Participación en Beneficios"
     ],
-    "returnPeriod": 4,
+    "returnPeriod": 22,
     "competitiveLandscape": [
       "Innovación en tecnologías para discapacidad visual"
     ],
@@ -4312,15 +4310,15 @@
       
     ],
     "__v": 0,
-    "cluster": 0,
+    "cluster": 2,
     "team": [
       "66aad2e890c5f7e23258304e"
     ],
-    "representant": "66aad2e890c5f7e23258304e"
+    "representant": "66aad2e890c5f7e23258304e",
+    "projectRiskCalculation": 0.519091258668604,
+    "returnRate": 0.1495691290103061
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f9613",
     "projectName": "Sistema de control de un elevador, con tecnología inalámbrica para el diagnóstico, bloqueo y desbloqueo remoto",
     "projectCategory": "Educación",
@@ -4359,7 +4357,7 @@
     "rewardType": [
       "Reconocimiento en la industria"
     ],
-    "returnPeriod": 2,
+    "returnPeriod": 15,
     "competitiveLandscape": [
       "Innovación en educación virtual"
     ],
@@ -4369,15 +4367,15 @@
       
     ],
     "__v": 0,
-    "cluster": 0,
+    "cluster": 2,
     "team": [
       "66aad2e790c5f7e23258303e"
     ],
-    "representant": "66aad2e790c5f7e23258303e"
+    "representant": "66aad2e790c5f7e23258303e",
+    "projectRiskCalculation": 0.056357613565361286,
+    "returnRate": 0.029240903182228585
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f9615",
     "projectName": "Vehículo terrestre con navegación autónoma para apoyo en tareas de cultivos de café",
     "projectCategory": "Energía",
@@ -4415,7 +4413,7 @@
     "rewardType": [
       "Participación en las ganancias"
     ],
-    "returnPeriod": 5,
+    "returnPeriod": 12,
     "competitiveLandscape": [
       "Sostenibilidad en energía para comunidades"
     ],
@@ -4429,11 +4427,11 @@
     "team": [
       "66aad2e590c5f7e232583010"
     ],
-    "representant": "66aad2e590c5f7e232583010"
+    "representant": "66aad2e590c5f7e232583010",
+    "projectRiskCalculation": 0.32479760399799834,
+    "returnRate": 0.14146474880218934
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f9618",
     "projectName": "Investigación de nuevos modelos nanotecnológicos en el diseño de piel artificial con nanopartículas para el recubrimiento de prótesis de mano y piernas en discapacitados",
     "projectCategory": "Educación",
@@ -4469,7 +4467,7 @@
     "rewardType": [
       "Reconocimiento en la industria"
     ],
-    "returnPeriod": 2,
+    "returnPeriod": 9,
     "competitiveLandscape": [
       "Innovación en kits educativos"
     ],
@@ -4479,15 +4477,15 @@
       
     ],
     "__v": 0,
-    "cluster": 0,
+    "cluster": 2,
     "team": [
       "66758c099caed3c05b9205d1"
     ],
-    "representant": "66758c099caed3c05b9205d1"
+    "representant": "66758c099caed3c05b9205d1",
+    "projectRiskCalculation": 0.294403198081766,
+    "returnRate": 0.023010865148030836
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f961a",
     "projectName": "Investigación y desarrollo de una prótesis comercial con control mecatrónico por clonación artificial y diseño asistido basado en patrones de células madres para discapacitados de la violencia en Colombia evaluada en un prototipo construido",
     "projectCategory": "Medicina",
@@ -4526,7 +4524,7 @@
     "rewardType": [
       "Reconocimiento en la industria"
     ],
-    "returnPeriod": 3,
+    "returnPeriod": 15,
     "competitiveLandscape": [
       "Innovación en terapias de rehabilitación"
     ],
@@ -4540,11 +4538,11 @@
     "team": [
       "66aad2e690c5f7e23258302a"
     ],
-    "representant": "66aad2e690c5f7e23258302a"
+    "representant": "66aad2e690c5f7e23258302a",
+    "projectRiskCalculation": 0.5495515448068313,
+    "returnRate": 0.10145093226969176
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "65db9751d1d62976714f961d",
     "projectName": "Sistema automatizado de bombeo solar para abastecimiento de agua a comunidad wayuu",
     "projectCategory": "Exploración Oceánica",
@@ -4583,7 +4581,7 @@
     "rewardType": [
       "Reconocimiento en la industria"
     ],
-    "returnPeriod": 3,
+    "returnPeriod": 12,
     "competitiveLandscape": [
       "Innovación en exploración submarina"
     ],
@@ -4597,15 +4595,15 @@
     "team": [
       "66aad2e590c5f7e232583005"
     ],
-    "representant": "66aad2e590c5f7e232583005"
+    "representant": "66aad2e590c5f7e232583005",
+    "projectRiskCalculation": 0.5143696715752919,
+    "returnRate": 0.08314337350671144
   },
   {
-    "projectRiskCalculation": 0,
-    "returnRate": 0,
     "_id": "66763e77b6e2ddf4f9b57070",
     "projectName": "Automatización Robótica para Ensamblaje Electrónico",
     "projectCategory": "Robótica",
-    "fundingCap": 85000000,
+    "fundingCap": 43850000,
     "mechatronicComponents": [
       "Actuadores",
       "Microcontroladores"
@@ -4633,7 +4631,7 @@
     "rewardType": [
       "Participación en las ganancias"
     ],
-    "returnPeriod": 1,
+    "returnPeriod": 16,
     "competitiveLandscape": [
       "Mejora en la eficiencia comparada con competidores"
     ],
@@ -4642,11 +4640,13 @@
     "projectImages": [
       
     ],
-    "cluster": 2,
+    "cluster": 0,
     "team": [
       "66aad2e990c5f7e23258305c"
     ],
     "__v": 0,
-    "representant": "66aad2e990c5f7e23258305c"
+    "representant": "66aad2e990c5f7e23258305c",
+    "projectRiskCalculation": 0.5065313070091881,
+    "returnRate": 0.062446625578074615
   }
 ]

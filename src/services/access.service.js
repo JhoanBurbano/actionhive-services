@@ -181,6 +181,17 @@ const updateUser = async (password, email, firstname, lastname, rol, token, id) 
     }
 }
 
+const refresh = async (userId) => {
+    try {
+        const user = await User.findById(userId);
+        if (!user) return { status: 404, message: 'User not found' };
+        const token = jwt.sign({ id: user._id }, secret, { expiresIn: '24h' });
+        return { status: 200, message: 'Token refreshed', data: mapToUserResponse(user, token) };
+    } catch (error) {
+        return { status: 500, message: error.message };
+    }
+}
+
 
 
 module.exports = {
@@ -195,4 +206,5 @@ module.exports = {
     change,
     updateInvestor,
     updateUser,
+    refresh,
 } 

@@ -7,9 +7,9 @@ const Cluster = require('../models/cluster.model');
 // Función para convertir un usuario a un vector de preferencias
 function convertUserToVector(user) {
   return [
-    user.preferences.preferredFundingCap || 0,
-    user.preferences.riskTolerance ? 1 : 0,
-    user.preferences.expectedReturnRate || 0,
+    user.preferences.preferredFundingCap,
+    user.preferences.riskTolerance,
+    user.preferences.expectedReturnRate,
   ];
 }
 
@@ -82,6 +82,7 @@ function findClosestCluster(userVector, centroids) {
   let closestDistance = -Infinity; // para cosine similarity, mayor es mejor
 
   centroids.forEach((centroid, index) => {
+    // console.log({userVector, centroid})
     const distance = cosineSimilarity(userVector, centroid);
     if (distance > closestDistance) {
       closestCluster = index;
@@ -98,19 +99,29 @@ async function recommendProjects(userId) {
   if (!user) throw new Error(`User not found ${userId}`);
 
   const userVector = convertUserToVector(user);
-  // const clusters = await clusterProjects();
-
   const clusters = await Cluster.find();
-
   const centroids = clusters.map((cluster) => cluster.centroid);
 
+  // Encuentra el cluster más cercano
   const closestCluster = findClosestCluster(userVector, centroids);
-  const recommendedProjects = await Project.find({ cluster: closestCluster })
+
+  // Obtiene los proyectos en el cluster más cercano
+  const projectsInCluster = await Project.find({ cluster: closestCluster })
     .populate({ path: 'representant', select: 'firstname lastname email' })
     .populate({ path: 'team', select: 'firstname lastname email' })
     .exec();
 
-  return recommendedProjects;
+  // Filtra los proyectos basados en las preferencias del usuario
+  const filteredProjects = projectsInCluster.filter(project => {
+    return (
+      (project.fundingCap <= user.preferences.preferredFundingCap) &&
+      (project.returnRate >= user.preferences.expectedReturnRate || project.projectRiskCalculation <= user.preferences.riskTolerance)
+    );
+  });
+
+  console.log('filteredProjects :>> ', filteredProjects.length, closestCluster);
+
+  return filteredProjects;
 }
 
 // Función principal que integra todo

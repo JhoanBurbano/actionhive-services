@@ -1,0 +1,749 @@
+[
+  {
+    "projectName": "Desarrollo de un sistema para medir la concentraci\u00f3n de fenol en agua destilada mediante el uso de un biosensor",
+    "fundingCap": 24398547,
+    "projectRiskCalculation": 0.0384765523,
+    "returnRate": 0.0448334698,
+    "adjustedFundingCap": 23459775.0312622301,
+    "adjustedReturnRate": 0.0431723468,
+    "adjustedRiskCalculation": 0.0423242075
+  },
+  {
+    "projectName": "An\u00e1lisis de nuevos \u00edndices de las se\u00f1ales electrocardiogr\u00e1ficas y de flujo respiratorio para predecir el \u00e9xito o fracaso del proceso de extubaci\u00f3n de pacientes asistidos por ventilaci\u00f3n mec\u00e1nica",
+    "fundingCap": 43855315,
+    "projectRiskCalculation": 0.866316167,
+    "returnRate": 0.1391440907,
+    "adjustedFundingCap": 5862746.6086626016,
+    "adjustedReturnRate": 0.0745554763,
+    "adjustedRiskCalculation": 0.9529477836
+  },
+  {
+    "projectName": "Rehabilitaci\u00f3n del sistema de detecci\u00f3n de gas y fuego de terminal de distribuci\u00f3n de gas licuado topolobampo",
+    "fundingCap": 42844246,
+    "projectRiskCalculation": 0.1328630438,
+    "returnRate": 0.000135789,
+    "adjustedFundingCap": 37151829.0656876564,
+    "adjustedReturnRate": 0.0001198636,
+    "adjustedRiskCalculation": 0.1461493482
+  },
+  {
+    "projectName": "Desarrollo de una herramienta para desprendimiento de granos de caf\u00e9",
+    "fundingCap": 22301761,
+    "projectRiskCalculation": 0.3018441582,
+    "returnRate": 0.1193377238,
+    "adjustedFundingCap": 15570104.7237241119,
+    "adjustedReturnRate": 0.0916682101,
+    "adjustedRiskCalculation": 0.3320285741
+  },
+  {
+    "projectName": "Dise\u00f1o de un sistema de control para un helic\u00f3ptero de tres grados de libertad (3gdl)",
+    "fundingCap": 22696060,
+    "projectRiskCalculation": 0.3107227169,
+    "returnRate": 0.0540338203,
+    "adjustedFundingCap": 15643878.5733884722,
+    "adjustedReturnRate": 0.0412244478,
+    "adjustedRiskCalculation": 0.3417949886
+  },
+  {
+    "projectName": "Dise\u00f1o Construcci\u00f3n y Adaptaci\u00f3n de Pr\u00f3tesis Inteligentes con piel artificial sensible de miembros superior mu\u00f1eca-mano e inferior tobillo-pie de cada una de las extremidades para una ni\u00f1a con malformaciones cong\u00e9nitas de la ciudad C\u00facuta en el Departamento Norte de Santander",
+    "fundingCap": 43431646,
+    "projectRiskCalculation": 0.4971470205,
+    "returnRate": 0.1302761313,
+    "adjustedFundingCap": 21839732.5945995189,
+    "adjustedReturnRate": 0.0870162579,
+    "adjustedRiskCalculation": 0.5468617226
+  },
+  {
+    "projectName": "Dise\u00f1o de algoritmo de detecci\u00f3n de zonas de calor y clasificaci\u00f3n de clientes seg\u00fan g\u00e9nero y edad en el sector de retail",
+    "fundingCap": 47745878,
+    "projectRiskCalculation": 0.5745794455,
+    "returnRate": 0.0832013651,
+    "adjustedFundingCap": 20312077.8923179135,
+    "adjustedReturnRate": 0.0528403729,
+    "adjustedRiskCalculation": 0.6320373901
+  },
+  {
+    "projectName": "Mecanismo tipo efector final para rehabilitaci\u00f3n de movilidad",
+    "fundingCap": 14742614,
+    "projectRiskCalculation": 0.496672272,
+    "returnRate": 0.1279395791,
+    "adjustedFundingCap": 7420366.4090821892,
+    "adjustedReturnRate": 0.0854826948,
+    "adjustedRiskCalculation": 0.5463394992
+  },
+  {
+    "projectName": "M\u00e1quina automatizada para el proceso de templado de chocolate",
+    "fundingCap": 18678600,
+    "projectRiskCalculation": 0.0210352593,
+    "returnRate": 0.0411379959,
+    "adjustedFundingCap": 18285690.806055937,
+    "adjustedReturnRate": 0.0402904753,
+    "adjustedRiskCalculation": 0.0231387852
+  },
+  {
+    "projectName": "Dise\u00f1o y construcci\u00f3n de un m\u00f3dulo asistente adaptable al bast\u00f3n de las personas con discapacidad visual para mejorar su desplazamiento",
+    "fundingCap": 32357396,
+    "projectRiskCalculation": 0.3155041431,
+    "returnRate": 0.0595032159,
+    "adjustedFundingCap": 22148503.5035732426,
+    "adjustedReturnRate": 0.0452322528,
+    "adjustedRiskCalculation": 0.3470545574
+  },
+  {
+    "projectName": "Dise\u00f1o de un sistema autom\u00e1tico de selecci\u00f3n de frutos de Caf\u00e9 mediante T\u00e9cnicas de Visi\u00f3n Artificial",
+    "fundingCap": 36604682,
+    "projectRiskCalculation": 0.3184534688,
+    "returnRate": 0.0921405681,
+    "adjustedFundingCap": 24947794.0435061641,
+    "adjustedReturnRate": 0.0698853394,
+    "adjustedRiskCalculation": 0.3502988157
+  },
+  {
+    "projectName": "Desarrollo de un prototipo de una m\u00e1quina selectora de semilla Sacha Inchi",
+    "fundingCap": 30510350,
+    "projectRiskCalculation": 0.4561073268,
+    "returnRate": 0.1403440439,
+    "adjustedFundingCap": 16594355.8217526004,
+    "adjustedReturnRate": 0.0963830353,
+    "adjustedRiskCalculation": 0.5017180595
+  },
+  {
+    "projectName": "M\u00e1quina cortadora de mazorcas de cacao",
+    "fundingCap": 42372249,
+    "projectRiskCalculation": 0.5155188865,
+    "returnRate": 0.1315788738,
+    "adjustedFundingCap": 20528554.3776487298,
+    "adjustedReturnRate": 0.0868210056,
+    "adjustedRiskCalculation": 0.5670707751
+  },
+  {
+    "projectName": "Sistema de ejercitaci\u00f3n para personas con problemas de movilidad en las extremidades inferiores",
+    "fundingCap": 15886264,
+    "projectRiskCalculation": 0.4006293157,
+    "returnRate": 0.0617789547,
+    "adjustedFundingCap": 9521760.9250521716,
+    "adjustedReturnRate": 0.0441079977,
+    "adjustedRiskCalculation": 0.4406922472
+  },
+  {
+    "projectName": "Dise\u00f1o de controladores avanzados para los procesos t\u00e9rmicos ubicados en el laboratorio de planta piloto",
+    "fundingCap": 36891512,
+    "projectRiskCalculation": 0.8192164668,
+    "returnRate": 0.1835758246,
+    "adjustedFundingCap": 6669377.8834488075,
+    "adjustedReturnRate": 0.1009092804,
+    "adjustedRiskCalculation": 0.9011381135
+  },
+  {
+    "projectName": "Dise\u00f1o e implementaci\u00f3n de un prototipo que clasifique huevos de gallina seg\u00fan sus caracter\u00edsticas",
+    "fundingCap": 22844734,
+    "projectRiskCalculation": 0.0780665585,
+    "returnRate": 0.0391726087,
+    "adjustedFundingCap": 21061324.2373929471,
+    "adjustedReturnRate": 0.0363359835,
+    "adjustedRiskCalculation": 0.0858732143
+  },
+  {
+    "projectName": "Automatizaci\u00f3n del suministro de cisco para la c\u00e1mara de combusti\u00f3n de una secadora tipo silo de caf\u00e9 pergamino",
+    "fundingCap": 18803487,
+    "projectRiskCalculation": 0.5316714143,
+    "returnRate": 0.1385698248,
+    "adjustedFundingCap": 8806210.4738714695,
+    "adjustedReturnRate": 0.0904696814,
+    "adjustedRiskCalculation": 0.5848385557
+  },
+  {
+    "projectName": "Dise\u00f1o de un sistema de visi\u00f3n artificial para la revisi\u00f3n del nivel de llenado de bebidas embotelladas",
+    "fundingCap": 43620248,
+    "projectRiskCalculation": 0.8646944614,
+    "returnRate": 0.1404301846,
+    "adjustedFundingCap": 5902061.148660508,
+    "adjustedReturnRate": 0.075310024,
+    "adjustedRiskCalculation": 0.9511639076
+  },
+  {
+    "projectName": "Uso de sensores de medici\u00f3n inercial para la evaluaci\u00f3n de la movilidad articular de miembro superior con aplicaci\u00f3n en rehabilitaci\u00f3n",
+    "fundingCap": 33493713,
+    "projectRiskCalculation": 0.4990139453,
+    "returnRate": 0.0570495283,
+    "adjustedFundingCap": 16779883.131508261,
+    "adjustedReturnRate": 0.038058037,
+    "adjustedRiskCalculation": 0.5489153399
+  },
+  {
+    "projectName": "Dise\u00f1o e implementaci\u00f3n de un esc\u00e1ner 3D para prototipado y modelado geom\u00e9trico de objetos",
+    "fundingCap": 26708144,
+    "projectRiskCalculation": 0.3162539923,
+    "returnRate": 0.1130331175,
+    "adjustedFundingCap": 18261586.8325292468,
+    "adjustedReturnRate": 0.0858748525,
+    "adjustedRiskCalculation": 0.3478793916
+  },
+  {
+    "projectName": "Dise\u00f1o de un algoritmo para la segmentaci\u00f3n de carriles en v\u00edas que permita la navegaci\u00f3n aut\u00f3noma de un veh\u00edculo a escala en una autopista",
+    "fundingCap": 29996544,
+    "projectRiskCalculation": 0.7413838682,
+    "returnRate": 0.1264578162,
+    "adjustedFundingCap": 7757590.1779125687,
+    "adjustedReturnRate": 0.0726191499,
+    "adjustedRiskCalculation": 0.815522255
+  },
+  {
+    "projectName": "Control de posici\u00f3n de un servomotor de Lego\u00ae mindstorms NXT a trav\u00e9s de seguimiento facial utilizando un sensor Kinect\u00ae de Microsoft",
+    "fundingCap": 45510482,
+    "projectRiskCalculation": 0.6849560122,
+    "returnRate": 0.1396669347,
+    "adjustedFundingCap": 14337803.7349350229,
+    "adjustedReturnRate": 0.0828905525,
+    "adjustedRiskCalculation": 0.7534516134
+  },
+  {
+    "projectName": "Desarrollo de un sistema de decisi\u00f3n soporte en la clasificaci\u00f3n cl\u00ednica de pacientes con neumon\u00eda viral, bacteriana y sin neumon\u00eda, basado en el an\u00e1lisis de im\u00e1genes de rayos X de t\u00f3rax implementando Deep Learning",
+    "fundingCap": 30325869,
+    "projectRiskCalculation": 0.3284515205,
+    "returnRate": 0.0762581473,
+    "adjustedFundingCap": 20365291.2152792476,
+    "adjustedReturnRate": 0.0574037864,
+    "adjustedRiskCalculation": 0.3612966726
+  },
+  {
+    "projectName": "Proceso de instalaci\u00f3n y programaci\u00f3n de dispositivos finales en el Robot ABB 120, Simulaci\u00f3n en Robot Estudio",
+    "fundingCap": 36902902,
+    "projectRiskCalculation": 0.4940225421,
+    "returnRate": 0.0658127437,
+    "adjustedFundingCap": 18672036.5442033485,
+    "adjustedReturnRate": 0.0440507033,
+    "adjustedRiskCalculation": 0.5434247963
+  },
+  {
+    "projectName": "Dise\u00f1o y fabricaci\u00f3n de 3 elevadores de carga de 5 toneladas",
+    "fundingCap": 26148640,
+    "projectRiskCalculation": 0.4070615107,
+    "returnRate": 0.1292187357,
+    "adjustedFundingCap": 15504535.0984093584,
+    "adjustedReturnRate": 0.0918358826,
+    "adjustedRiskCalculation": 0.4477676618
+  },
+  {
+    "projectName": "Dise\u00f1o, construcci\u00f3n y control de un Brazo Rob\u00f3tico Tipo Antropom\u00f3rfico de 6 grados de libertad y de un Brazo Rob\u00f3tico Tipo Scara de 4 grados de libertad",
+    "fundingCap": 21067850,
+    "projectRiskCalculation": 0.3555202673,
+    "returnRate": 0.148354435,
+    "adjustedFundingCap": 13577802.3372188993,
+    "adjustedReturnRate": 0.1094446454,
+    "adjustedRiskCalculation": 0.391072294
+  },
+  {
+    "projectName": "Desarrollo de una plataforma mecatr\u00f3nica m\u00f3vil para la cosecha asistida de caf\u00e9",
+    "fundingCap": 27187053,
+    "projectRiskCalculation": 0.9094172783,
+    "returnRate": 0.1439124841,
+    "adjustedFundingCap": 2462677.256718047,
+    "adjustedReturnRate": 0.0753698449,
+    "adjustedRiskCalculation": 1.0003590061
+  },
+  {
+    "projectName": "Desarrollo de un sistema de alertas en un ambiente controlado que permita mejorar la calidad de vida de individuos con discapacidad auditiva pertenecientes a la ciudad de Bucaramanga",
+    "fundingCap": 28260824,
+    "projectRiskCalculation": 0.2859043156,
+    "returnRate": 0.0236594621,
+    "adjustedFundingCap": 20180932.4550889432,
+    "adjustedReturnRate": 0.0183990845,
+    "adjustedRiskCalculation": 0.3144947472
+  },
+  {
+    "projectName": "An\u00e1lisis de se\u00f1ales respiratorias para el diagn\u00f3stico de pacientes con insuficiencia card\u00edaca cr\u00f3nica mediante t\u00e9cnicas de inteligencia artificial",
+    "fundingCap": 42608840,
+    "projectRiskCalculation": 0.695629713,
+    "returnRate": 0.1982153528,
+    "adjustedFundingCap": 12968864.8591162581,
+    "adjustedReturnRate": 0.1168977822,
+    "adjustedRiskCalculation": 0.7651926843
+  },
+  {
+    "projectName": "Estimaci\u00f3n de trayectorias usando odometr\u00eda visual monocular aplicado a veh\u00edculos aut\u00f3nomos",
+    "fundingCap": 38441487,
+    "projectRiskCalculation": 0.9152856381,
+    "returnRate": 0.1614881094,
+    "adjustedFundingCap": 3256546.0424031513,
+    "adjustedReturnRate": 0.0843154181,
+    "adjustedRiskCalculation": 1.0068142019
+  },
+  {
+    "projectName": "Interacci\u00f3n con videojuegos como estrategia did\u00e1ctica para estimular la creatividad en ni\u00f1os en edad preescolar",
+    "fundingCap": 26177799,
+    "projectRiskCalculation": 0.5813274881,
+    "returnRate": 0.099911098,
+    "adjustedFundingCap": 10959924.8635232523,
+    "adjustedReturnRate": 0.0631817879,
+    "adjustedRiskCalculation": 0.6394602369
+  },
+  {
+    "projectName": "Dise\u00f1o y simulaci\u00f3n de un aerogenerador de eje vertical para zonas no interconectadas de Colombia",
+    "fundingCap": 31879390,
+    "projectRiskCalculation": 0.2045559881,
+    "returnRate": 0.0096201759,
+    "adjustedFundingCap": 25358269.8797410131,
+    "adjustedReturnRate": 0.0079864913,
+    "adjustedRiskCalculation": 0.2250115869
+  },
+  {
+    "projectName": "Dise\u00f1o e implementaci\u00f3n de un sistema de reconocimiento y exploraci\u00f3n de terrenos basado en rob\u00f3tica m\u00f3vil, visi\u00f3n artificial y el hardware Kinect",
+    "fundingCap": 37722269,
+    "projectRiskCalculation": 0.4980240324,
+    "returnRate": 0.1021216148,
+    "adjustedFundingCap": 18935672.4821894802,
+    "adjustedReturnRate": 0.0681708788,
+    "adjustedRiskCalculation": 0.5478264356
+  },
+  {
+    "projectName": "Construcci\u00f3n de un veh\u00edculo el\u00e9ctrico auto balanceado de dos ruedas para el transporte unipersonal",
+    "fundingCap": 18420233,
+    "projectRiskCalculation": 0.4930120522,
+    "returnRate": 0.0528518992,
+    "adjustedFundingCap": 9338836.1272847317,
+    "adjustedReturnRate": 0.0353995127,
+    "adjustedRiskCalculation": 0.5423132574
+  },
+  {
+    "projectName": "Dise\u00f1o, modelaci\u00f3n y simulaci\u00f3n de sistemas nanotecnol\u00f3gicos de electroestimulaci\u00f3n por tecnolog\u00eda de fabricaci\u00f3n de electro hilado (electro spinning)",
+    "fundingCap": 32636757,
+    "projectRiskCalculation": 0.3737434973,
+    "returnRate": 0.1361034926,
+    "adjustedFundingCap": 20438981.2988166399,
+    "adjustedReturnRate": 0.0990748949,
+    "adjustedRiskCalculation": 0.411117847
+  },
+  {
+    "projectName": "T\u00e9cnicas de an\u00e1lisis del patr\u00f3n respiratorio para la extracci\u00f3n de \u00edndices en pacientes en proceso de extubaci\u00f3n",
+    "fundingCap": 27280479,
+    "projectRiskCalculation": 0.1153616369,
+    "returnRate": 0.0081791393,
+    "adjustedFundingCap": 24133358.2862753458,
+    "adjustedReturnRate": 0.0073331725,
+    "adjustedRiskCalculation": 0.1268978006
+  },
+  {
+    "projectName": "Dise\u00f1o de un sistema de reconocimiento de gestos no m\u00f3viles mediante el procesamiento digital de im\u00e1genes",
+    "fundingCap": 21487745,
+    "projectRiskCalculation": 0.4776970291,
+    "returnRate": 0.0685407888,
+    "adjustedFundingCap": 11223113.0505424179,
+    "adjustedReturnRate": 0.0463835194,
+    "adjustedRiskCalculation": 0.5254667321
+  },
+  {
+    "projectName": "Dise\u00f1o y desarrollo de micro-y nanoaut\u00f3matas de inferencia en tiempo real por tecnolog\u00eda de fabricaci\u00f3n aditiva para el monitoreo y control de la calidad aguas residuales de la industria del petr\u00f3leo ecopetrol",
+    "fundingCap": 41480541,
+    "projectRiskCalculation": 0.319185061,
+    "returnRate": 0.0749981061,
+    "adjustedFundingCap": 28240571.9889066815,
+    "adjustedReturnRate": 0.0568518461,
+    "adjustedRiskCalculation": 0.3511035671
+  },
+  {
+    "projectName": "Clasificaci\u00f3n de pacientes con retinopat\u00eda diab\u00e9tica mediante deep learning",
+    "fundingCap": 32058694,
+    "projectRiskCalculation": 0.9615129506,
+    "returnRate": 0.1608420338,
+    "adjustedFundingCap": 1233844.5396587274,
+    "adjustedReturnRate": 0.081998966,
+    "adjustedRiskCalculation": 1.0576642457
+  },
+  {
+    "projectName": "Investigaci\u00f3n y desarrollo de instrumentaci\u00f3n de alta precisi\u00f3n para pavimentos",
+    "fundingCap": 41011736,
+    "projectRiskCalculation": 0.4343947437,
+    "returnRate": 0.0649777631,
+    "adjustedFundingCap": 23196453.4518635161,
+    "adjustedReturnRate": 0.0452997778,
+    "adjustedRiskCalculation": 0.4778342181
+  },
+  {
+    "projectName": "Dise\u00f1o de un sistema autom\u00e1tico para determinar el grado de progresi\u00f3n de la retinopat\u00eda diab\u00e9tica",
+    "fundingCap": 41186313,
+    "projectRiskCalculation": 0.3202338784,
+    "returnRate": 0.0917178565,
+    "adjustedFundingCap": 27997060.2499773763,
+    "adjustedReturnRate": 0.0694709157,
+    "adjustedRiskCalculation": 0.3522572663
+  },
+  {
+    "projectName": "Desarrollo de una tecnolog\u00eda de cosecha selectiva de caf\u00e9 ar\u00e1bica aplicando vibraciones de alta frecuencia",
+    "fundingCap": 20363700,
+    "projectRiskCalculation": 0.709832384,
+    "returnRate": 0.1955750417,
+    "adjustedFundingCap": 5908886.2827471029,
+    "adjustedReturnRate": 0.1143825813,
+    "adjustedRiskCalculation": 0.7808156224
+  },
+  {
+    "projectName": "Desarrollo de un prototipo electromec\u00e1nico de acople r\u00e1pido para la conversi\u00f3n de sillas de ruedas convencionales en sillas de ruedas el\u00e9ctricas",
+    "fundingCap": 49890994,
+    "projectRiskCalculation": 0.836751152,
+    "returnRate": 0.1559378499,
+    "adjustedFundingCap": 8144647.2979385825,
+    "adjustedReturnRate": 0.0848987353,
+    "adjustedRiskCalculation": 0.9204262672
+  },
+  {
+    "projectName": "Dise\u00f1o de un sistema automatizado para selecci\u00f3n de Caf\u00e9 por medio de Flotes",
+    "fundingCap": 14633467,
+    "projectRiskCalculation": 0.122271626,
+    "returnRate": 0.0453032322,
+    "adjustedFundingCap": 12844209.195295373,
+    "adjustedReturnRate": 0.0403674397,
+    "adjustedRiskCalculation": 0.1344987886
+  },
+  {
+    "projectName": "An\u00e1lisis de las se\u00f1ales cardiorespiratorias mediante la din\u00e1mica simb\u00f3lica en pacientes sometidos a ventilaci\u00f3n mec\u00e1nica",
+    "fundingCap": 36857712,
+    "projectRiskCalculation": 0.5285383663,
+    "returnRate": 0.0877481269,
+    "adjustedFundingCap": 17376997.1123350188,
+    "adjustedReturnRate": 0.0574065583,
+    "adjustedRiskCalculation": 0.581392203
+  },
+  {
+    "projectName": "Dise\u00f1o de una suspensi\u00f3n para un veh\u00edculo tipo SAE-UNAB",
+    "fundingCap": 16709227,
+    "projectRiskCalculation": 0.2070265239,
+    "returnRate": 0.041055528,
+    "adjustedFundingCap": 13249973.816372646,
+    "adjustedReturnRate": 0.0340137745,
+    "adjustedRiskCalculation": 0.2277291763
+  },
+  {
+    "projectName": "Dise\u00f1o de un sistema para generaci\u00f3n de energ\u00eda el\u00e9ctrica a partir de gases de desecho de plantas de tratamiento de aguas residuales utilizando celdas de combustible de membrana de intercambio prot\u00f3nico",
+    "fundingCap": 18798758,
+    "projectRiskCalculation": 0.5778004865,
+    "returnRate": 0.1167955147,
+    "adjustedFundingCap": 7936826.4816199401,
+    "adjustedReturnRate": 0.0740242608,
+    "adjustedRiskCalculation": 0.6355805352
+  },
+  {
+    "projectName": "Acoplamiento cardiorespiratorio mediante t\u00e9cnicas no lineales, para la extracci\u00f3n de \u00edndices en pacientes durante la prueba del tubo en 'T'",
+    "fundingCap": 20820685,
+    "projectRiskCalculation": 0.1667862119,
+    "returnRate": 0.0375880832,
+    "adjustedFundingCap": 17348081.8205027059,
+    "adjustedReturnRate": 0.0322150561,
+    "adjustedRiskCalculation": 0.183464833
+  },
+  {
+    "projectName": "Sistema guiado para personas con discapacidad visual en supermercados",
+    "fundingCap": 19927853,
+    "projectRiskCalculation": 0.3051406425,
+    "returnRate": 0.083576028,
+    "adjustedFundingCap": 13847055.1316751037,
+    "adjustedReturnRate": 0.064036032,
+    "adjustedRiskCalculation": 0.3356547068
+  },
+  {
+    "projectName": "An\u00e1lisis de interacci\u00f3n entre patr\u00f3n respiratorio y frecuencia card\u00edaca, mediante t\u00e9cnicas lineales y no lineales, en pacientes durante el proceso de destete",
+    "fundingCap": 21160720,
+    "projectRiskCalculation": 0.5862254338,
+    "returnRate": 0.132033857,
+    "adjustedFundingCap": 8755767.7382110339,
+    "adjustedReturnRate": 0.0832377632,
+    "adjustedRiskCalculation": 0.6448479772
+  },
+  {
+    "projectName": "Modelado Matem\u00e1tico y Validaci\u00f3n de Simulaciones en Matlab Simulink para Motores Brushless DC (BLDC)",
+    "fundingCap": 18089965,
+    "projectRiskCalculation": 0.1076610402,
+    "returnRate": 0.0361473712,
+    "adjustedFundingCap": 16142380.550701635,
+    "adjustedReturnRate": 0.0326339646,
+    "adjustedRiskCalculation": 0.1184271442
+  },
+  {
+    "projectName": "Gesti\u00f3n de mantenimiento para el nuevo sistema de calentamiento de la empresa mundial de tambores Ltda",
+    "fundingCap": 44095231,
+    "projectRiskCalculation": 0.4971397142,
+    "returnRate": 0.1039281697,
+    "adjustedFundingCap": 22173740.4613091722,
+    "adjustedReturnRate": 0.0694178163,
+    "adjustedRiskCalculation": 0.5468536857
+  },
+  {
+    "projectName": "Concepci\u00f3n de un veh\u00edculo a\u00e9reo no tripulado del tipo quadrotor para aplicaciones de supervisi\u00f3n a\u00e9rea de instalaciones de petr\u00f3leo y gas natural",
+    "fundingCap": 40231115,
+    "projectRiskCalculation": 0.0186159331,
+    "returnRate": 0.0152778384,
+    "adjustedFundingCap": 39482175.2558647841,
+    "adjustedReturnRate": 0.014998625,
+    "adjustedRiskCalculation": 0.0204775264
+  },
+  {
+    "projectName": "Dise\u00f1o de una herramienta CACSD para reguladores PID, fuzzy, Hinf",
+    "fundingCap": 29653779,
+    "projectRiskCalculation": 0.5704246637,
+    "returnRate": 0.1326974298,
+    "adjustedFundingCap": 12738532.0871597044,
+    "adjustedReturnRate": 0.0844978004,
+    "adjustedRiskCalculation": 0.62746713
+  },
+  {
+    "projectName": "Dise\u00f1o de un sistema de control para regular la tensi\u00f3n generada por una turbina hidr\u00e1ulica tipo kaplan acoplada a un generador DC",
+    "fundingCap": 38082382,
+    "projectRiskCalculation": 0.37151363,
+    "returnRate": 0.1352890737,
+    "adjustedFundingCap": 23934258.0233164355,
+    "adjustedReturnRate": 0.0986421649,
+    "adjustedRiskCalculation": 0.408664993
+  },
+  {
+    "projectName": "Dise\u00f1o de una bicicleta el\u00e9ctrica de competici\u00f3n",
+    "fundingCap": 20197451,
+    "projectRiskCalculation": 0.816525389,
+    "returnRate": 0.1575194813,
+    "adjustedFundingCap": 3705719.4653106821,
+    "adjustedReturnRate": 0.086714715,
+    "adjustedRiskCalculation": 0.8981779279
+  },
+  {
+    "projectName": "Dise\u00f1o de un robot teleoperado para limpieza externa de tanques de almacenamiento de hidrocarburos",
+    "fundingCap": 25702985,
+    "projectRiskCalculation": 0.5152182179,
+    "returnRate": 0.1093200273,
+    "adjustedFundingCap": 12460338.8747215737,
+    "adjustedReturnRate": 0.0721480418,
+    "adjustedRiskCalculation": 0.5667400396
+  },
+  {
+    "projectName": "Construcci\u00f3n de un robot asistencial para el programa de ingenier\u00eda mecatr\u00f3nica",
+    "fundingCap": 15523124,
+    "projectRiskCalculation": 0.4039151197,
+    "returnRate": 0.146619859,
+    "adjustedFundingCap": 9253099.5110232458,
+    "adjustedReturnRate": 0.1044364128,
+    "adjustedRiskCalculation": 0.4443066317
+  },
+  {
+    "projectName": "Dise\u00f1o de una tricicleta con sistema de tracci\u00f3n h\u00edbrida pedaleo/motor el\u00e9ctrico",
+    "fundingCap": 37177139,
+    "projectRiskCalculation": 0.095369894,
+    "returnRate": 0.0457120037,
+    "adjustedFundingCap": 33631559.1927437559,
+    "adjustedReturnRate": 0.0417320249,
+    "adjustedRiskCalculation": 0.1049068834
+  },
+  {
+    "projectName": "Comparaci\u00f3n entre dos tipos de control implementados en LabVIEW y MATLAB aplicados a la transmisi\u00f3n hidrost\u00e1tica y al p\u00e9ndulo invertido del laboratorio de oleo-neum\u00e1tica de la UNAB",
+    "fundingCap": 22906347,
+    "projectRiskCalculation": 0.579816013,
+    "returnRate": 0.1486463878,
+    "adjustedFundingCap": 9624880.2107449006,
+    "adjustedReturnRate": 0.0940909489,
+    "adjustedRiskCalculation": 0.6377976143
+  },
+  {
+    "projectName": "Desarrollo de un Sistema de Control para la Gesti\u00f3n El\u00e9ctrica del Pedaleo Asistido en Veh\u00edculos de Tracci\u00f3n H\u00edbrida en pro del cuidado de las Bater\u00edas El\u00e9ctricas",
+    "fundingCap": 44671372,
+    "projectRiskCalculation": 0.4282552437,
+    "returnRate": 0.0886061083,
+    "adjustedFundingCap": 25540622.6967547759,
+    "adjustedReturnRate": 0.0620380066,
+    "adjustedRiskCalculation": 0.4710807681
+  },
+  {
+    "projectName": "Sistema de caracterizaci\u00f3n y modelamiento de afloramientos geol\u00f3gicos mediante t\u00e9cnicas de fotogrametr\u00eda, a bordo de un veh\u00edculo a\u00e9reo aut\u00f3nomo no tripulado",
+    "fundingCap": 21730962,
+    "projectRiskCalculation": 0.3690155714,
+    "returnRate": 0.1194407573,
+    "adjustedFundingCap": 13711898.6397301909,
+    "adjustedReturnRate": 0.0872457259,
+    "adjustedRiskCalculation": 0.4059171286
+  },
+  {
+    "projectName": "Estudio y generaci\u00f3n de dispositivos mec\u00e1nicos con acoples m\u00f3viles mediante la t\u00e9cnica de prototipado r\u00e1pido FDM (Fused Deposition Modeling)",
+    "fundingCap": 19573879,
+    "projectRiskCalculation": 0.3866468963,
+    "returnRate": 0.0727527064,
+    "adjustedFundingCap": 12005699.4369313959,
+    "adjustedReturnRate": 0.0524666421,
+    "adjustedRiskCalculation": 0.4253115859
+  },
+  {
+    "projectName": "Dise\u00f1o y construcci\u00f3n de una plataforma para rehabilitaci\u00f3n de movimiento controlado de rotaci\u00f3n y traslaci\u00f3n de miembros inferiores para pacientes con hemiplejia",
+    "fundingCap": 20162431,
+    "projectRiskCalculation": 0.441725038,
+    "returnRate": 0.1481231158,
+    "adjustedFundingCap": 11256180.4006394409,
+    "adjustedReturnRate": 0.102740198,
+    "adjustedRiskCalculation": 0.4858975418
+  },
+  {
+    "projectName": "Dise\u00f1o de una red neuronal recurrente para la estimaci\u00f3n de la variable peso para aplicaciones en el sector av\u00edcola y ap\u00edcola",
+    "fundingCap": 33899142,
+    "projectRiskCalculation": 0.4734765166,
+    "returnRate": 0.1270444441,
+    "adjustedFundingCap": 17848694.3297135271,
+    "adjustedReturnRate": 0.0862208815,
+    "adjustedRiskCalculation": 0.5208241683
+  },
+  {
+    "projectName": "Evaluaci\u00f3n de seguridad, desempe\u00f1o y experiencia de usuario de un sistema rob\u00f3tico controlado por BCI para la rehabilitaci\u00f3n asistida de brazo y antebrazo (Brazo-FiT) en personas con hemiparesia",
+    "fundingCap": 46054758,
+    "projectRiskCalculation": 0.4119154024,
+    "returnRate": 0.0881440619,
+    "adjustedFundingCap": 27084093.827041328,
+    "adjustedReturnRate": 0.0624287133,
+    "adjustedRiskCalculation": 0.4531069426
+  },
+  {
+    "projectName": "Sistema Rob\u00f3tico para Rehabilitaci\u00f3n de Miembro Superior",
+    "fundingCap": 25834325,
+    "projectRiskCalculation": 0.8515190079,
+    "returnRate": 0.1479790567,
+    "adjustedFundingCap": 3835906.2065287707,
+    "adjustedReturnRate": 0.0799230556,
+    "adjustedRiskCalculation": 0.9366709087
+  },
+  {
+    "projectName": "Mecanismo antropom\u00f3rfico para rehabilitaci\u00f3n de marcha",
+    "fundingCap": 16772774,
+    "projectRiskCalculation": 0.3948434966,
+    "returnRate": 0.0762986105,
+    "adjustedFundingCap": 10150153.2667991109,
+    "adjustedReturnRate": 0.0547004812,
+    "adjustedRiskCalculation": 0.4343278462
+  },
+  {
+    "projectName": "Sistema autom\u00e1tico apilador de cajitas de jugo de la m\u00e1quina Tetra Brick Aseptic 19 para la optimizaci\u00f3n del empacado en la empresa Coolechera Ltda",
+    "fundingCap": 27027244,
+    "projectRiskCalculation": 0.5242937329,
+    "returnRate": 0.057246888,
+    "adjustedFundingCap": 12857029.3544923812,
+    "adjustedReturnRate": 0.0375563363,
+    "adjustedRiskCalculation": 0.5767231061
+  },
+  {
+    "projectName": "Dise\u00f1o de un sistema de estabilizaci\u00f3n del voltaje de l\u00ednea para esquemas de generaci\u00f3n Stand-Alone con cargas desbalanceadas",
+    "fundingCap": 27020230,
+    "projectRiskCalculation": 0.660456212,
+    "returnRate": 0.1490051124,
+    "adjustedFundingCap": 9174551.2476470508,
+    "adjustedReturnRate": 0.0897374537,
+    "adjustedRiskCalculation": 0.7265018332
+  },
+  {
+    "projectName": "Dise\u00f1o e implementaci\u00f3n de un sistema de control para un intercambiador de calor",
+    "fundingCap": 27646223,
+    "projectRiskCalculation": 0.1359366414,
+    "returnRate": 0.0407859822,
+    "adjustedFundingCap": 23888088.2973486036,
+    "adjustedReturnRate": 0.0359051559,
+    "adjustedRiskCalculation": 0.1495303056
+  },
+  {
+    "projectName": "Sistema de Visi\u00f3n artificial para identificar insectos y su grado de peligrosidad",
+    "fundingCap": 43921049,
+    "projectRiskCalculation": 0.2379002383,
+    "returnRate": 0.0189279467,
+    "adjustedFundingCap": 33472220.9752838388,
+    "adjustedReturnRate": 0.0152903651,
+    "adjustedRiskCalculation": 0.2616902622
+  },
+  {
+    "projectName": "Interpretaci\u00f3n de se\u00f1ales para la detecci\u00f3n de obstrucciones en inspecciones instrumentadas de tuber\u00edas para el transporte de hidrocarburos",
+    "fundingCap": 25608932,
+    "projectRiskCalculation": 0.0692785661,
+    "returnRate": 0.0358363318,
+    "adjustedFundingCap": 23834781.9108346552,
+    "adjustedReturnRate": 0.0335144956,
+    "adjustedRiskCalculation": 0.0762064227
+  },
+  {
+    "projectName": "Dise\u00f1o de un sistema de control utilizando el DCS Delta V para regular el caudal de bombas centr\u00edfugas",
+    "fundingCap": 41096695,
+    "projectRiskCalculation": 0.4332946841,
+    "returnRate": 0.081821804,
+    "adjustedFundingCap": 23289715.5235804915,
+    "adjustedReturnRate": 0.0570865188,
+    "adjustedRiskCalculation": 0.4766241525
+  },
+  {
+    "projectName": "Desarrollo de pr\u00f3tesis inteligente manejada por inteligencia para interpretar se\u00f1ales cerebrales",
+    "fundingCap": 15170358,
+    "projectRiskCalculation": 0.9049261662,
+    "returnRate": 0.1010200666,
+    "adjustedFundingCap": 1442304.0951367479,
+    "adjustedReturnRate": 0.0530309617,
+    "adjustedRiskCalculation": 0.9954187828
+  },
+  {
+    "projectName": "Dise\u00f1o e implementaci\u00f3n de un sistema mecatr\u00f3nico para entrenamiento de nadadores profesionales en el departamento del Atl\u00e1ntico",
+    "fundingCap": 40206422,
+    "projectRiskCalculation": 0.159967789,
+    "returnRate": 0.0271723217,
+    "adjustedFundingCap": 33774689.5685507208,
+    "adjustedReturnRate": 0.0234250658,
+    "adjustedRiskCalculation": 0.1759645679
+  },
+  {
+    "projectName": "Adaptaci\u00f3n de un sistema electr\u00f3nico sonoro a un bal\u00f3n para la innovaci\u00f3n en la pr\u00e1ctica de futsal para personas con discapacidad visual (bindball)",
+    "fundingCap": 37887924,
+    "projectRiskCalculation": 0.5190912587,
+    "returnRate": 0.149569129,
+    "adjustedFundingCap": 18220633.8424995914,
+    "adjustedReturnRate": 0.0984596075,
+    "adjustedRiskCalculation": 0.5710003845
+  },
+  {
+    "projectName": "Sistema de control de un elevador, con tecnolog\u00eda inal\u00e1mbrica para el diagn\u00f3stico, bloqueo y desbloqueo remoto",
+    "fundingCap": 38147570,
+    "projectRiskCalculation": 0.0563576136,
+    "returnRate": 0.0292409032,
+    "adjustedFundingCap": 35997663.9914824292,
+    "adjustedReturnRate": 0.0276808751,
+    "adjustedRiskCalculation": 0.0619933749
+  },
+  {
+    "projectName": "Veh\u00edculo terrestre con navegaci\u00f3n aut\u00f3noma para apoyo en tareas de cultivos de caf\u00e9",
+    "fundingCap": 27249810,
+    "projectRiskCalculation": 0.324797604,
+    "returnRate": 0.1414647488,
+    "adjustedFundingCap": 18399137.0025993064,
+    "adjustedReturnRate": 0.1067821593,
+    "adjustedRiskCalculation": 0.3572773644
+  },
+  {
+    "projectName": "Investigaci\u00f3n de nuevos modelos nanotecnol\u00f3gicos en el dise\u00f1o de piel artificial con nanopart\u00edculas para el recubrimiento de pr\u00f3tesis de mano y piernas en discapacitados",
+    "fundingCap": 31833438,
+    "projectRiskCalculation": 0.2944031981,
+    "returnRate": 0.0230108651,
+    "adjustedFundingCap": 22461572.0468623824,
+    "adjustedReturnRate": 0.0177772005,
+    "adjustedRiskCalculation": 0.3238435179
+  },
+  {
+    "projectName": "Investigaci\u00f3n y desarrollo de una pr\u00f3tesis comercial con control mecatr\u00f3nico por clonaci\u00f3n artificial y dise\u00f1o asistido basado en patrones de c\u00e9lulas madres para discapacitados de la violencia en Colombia evaluada en un prototipo construido",
+    "fundingCap": 46353079,
+    "projectRiskCalculation": 0.5495515448,
+    "returnRate": 0.1014509323,
+    "adjustedFundingCap": 20879672.8289969079,
+    "adjustedReturnRate": 0.0654711569,
+    "adjustedRiskCalculation": 0.6045066993
+  },
+  {
+    "projectName": "Sistema automatizado de bombeo solar para abastecimiento de agua a comunidad wayuu",
+    "fundingCap": 17249735,
+    "projectRiskCalculation": 0.5143696716,
+    "returnRate": 0.0831433735,
+    "adjustedFundingCap": 8376994.4732891824,
+    "adjustedReturnRate": 0.0549029574,
+    "adjustedRiskCalculation": 0.5658066387
+  },
+  {
+    "projectName": "Automatizaci\u00f3n Rob\u00f3tica para Ensamblaje Electr\u00f3nico",
+    "fundingCap": 43850000,
+    "projectRiskCalculation": 0.506531307,
+    "returnRate": 0.0624466256,
+    "adjustedFundingCap": 21638602.1876471005,
+    "adjustedReturnRate": 0.0414505993,
+    "adjustedRiskCalculation": 0.5571844377
+  }
+]
