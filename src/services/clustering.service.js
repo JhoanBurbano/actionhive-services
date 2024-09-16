@@ -67,8 +67,17 @@ async function recommendProjects(investor, clusters, projects) {
   
   const recommendedProjects = projects.filter((project) => project.cluster === bestClusterIndex);
 
-
-  return recommendedProjects;
+    // Filtra los proyectos basados en las preferencias del usuario
+    const filteredProjects = recommendedProjects.filter(project => {
+      return (
+        (project.fundingCap <= investor.preferences.fundingCap) &&
+        (project.returnRate >= investor.preferences.expectedReturnRate || project.projectRiskCalculation <= investor.preferences.riskTolerance)
+      );
+    });
+  
+    console.log('filteredProjects :>> ', filteredProjects.length, bestClusterIndex);
+  
+    return filteredProjects;
 }
 
 function findClosestCluster(preferences, clusters) {

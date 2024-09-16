@@ -17,25 +17,25 @@ app.get('/health', (req, res) => {
     res.json({status: 'OK'});
 });
 
-app.get("/", async (_, res)=>{
-    try {
-        // console.log('clusterProjects :>> ')
-        // await clusterProjects();
-        // return res.json(await Project.find({ fundingCap: {$gt: 80000000}}));
-        // await runUpdateProjects();
-        // await runUpdateUsers();
-        // await runUpdateInvestors();
-        // return res.json(await Project.find());
-        // return res.json(await investorModel.find());
-        // return res.json(await userModel.find());
-        // return res.json({1: (await Project.find({cluster: 1})),})
-        return res.json(await Project.find());
-        res.json([((await Project.find({cluster: 0})).length), ((await Project.find({cluster: 1})).length), ((await Project.find({cluster: 2})).length)]);
-    } catch (error) {
-        console.log('error :>> ', error);
-        res.status(500).json({error: error});
-    }
-})
+// app.get("/", async (_, res)=>{
+//     try {
+//         // console.log('clusterProjects :>> ')
+//         // await clusterProjects();
+//         // return res.json(await Project.find({ fundingCap: {$gt: 80000000}}));
+//         // await runUpdateProjects();
+//         // await runUpdateUsers();
+//         // await runUpdateInvestors();
+//         // return res.json(await Project.find());
+//         // return res.json(await investorModel.find());
+//         // return res.json(await userModel.find());
+//         // return res.json({1: (await Project.find({cluster: 1})),})
+//         return res.json(await Project.find());
+//         res.json([((await Project.find({cluster: 0})).length), ((await Project.find({cluster: 1})).length), ((await Project.find({cluster: 2})).length)]);
+//     } catch (error) {
+//         console.log('error :>> ', error);
+//         res.status(500).json({error: error});
+//     }
+// })
 
 
 require('./src/services/mongo.service.js');

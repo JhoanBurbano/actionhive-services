@@ -14,8 +14,8 @@ const login = async (req, res) => {
     };
 
 const register = async (req, res) => {
-    const { firstname, lastname, email, password, rol } = req.body;
-    const response = await accessService.register(firstname, lastname, email, password, rol);
+    const { firstname, lastname, email, password, rol, isInvestor } = req.body;
+    const response = await accessService.register(firstname, lastname, email, password, rol, isInvestor);
     res.status(response.status).json(response);
 };
 

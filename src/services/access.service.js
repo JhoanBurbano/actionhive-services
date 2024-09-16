@@ -31,15 +31,25 @@ const login = async (email, password, isInvestor = false) => {
     }
 }
 
-const register = async (firstname, lastname, email, password, role) => {
+const register = async (firstname, lastname, email, password, role, isInvestor) => {
     try {
-        const user = await User.findOne({ email });
+        let user;
+        if(isInvestor) {
+            user = await Investor.findOne({ email });
+        } else {
+            user = await User.findOne({ email });
+        }
         if (user) return { status: 400, message: 'User already exists' };
-        const hash = await bcrypt.hash(password, 10);
-        const newUser = new User({ firstname, lastname, email, password: hash, role });
+        let hash = password;
+        if(!isInvestor) {
+            hash = await bcrypt.hash(password, 10);
+        }
+        const Model = isInvestor ? Investor : User;
+        const data = isInvestor ? { firstName: firstname, lastName: lastname, email, password: hash } : { firstname, lastname, email, password: hash, role };
+        const newUser = new Model(data);
         const userData = await newUser.save();
         const token = jwt.sign({ id: userData._id }, secret, { expiresIn: '24h' });
-        return { status: 201, message: 'User created', data: mapToUserResponse(userData, token) };
+        return { status: 201, message: 'User created', data: mapToUserResponse(userData, token, isInvestor) };
     }
     catch (error) {
         return { status: 500, message: error.message };
@@ -183,10 +193,15 @@ const updateUser = async (password, email, firstname, lastname, rol, token, id) 
 
 const refresh = async (userId) => {
     try {
-        const user = await User.findById(userId);
+        let isInvestor = false
+        let user = await User.findById(userId);
+        if (!user) {
+            user = await Investor.findById(userId);
+            isInvestor = true;
+        };
         if (!user) return { status: 404, message: 'User not found' };
         const token = jwt.sign({ id: user._id }, secret, { expiresIn: '24h' });
-        return { status: 200, message: 'Token refreshed', data: mapToUserResponse(user, token) };
+        return { status: 200, message: 'Token refreshed', data: mapToUserResponse(user, token, isInvestor) };
     } catch (error) {
         return { status: 500, message: error.message };
     }
