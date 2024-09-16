@@ -51,7 +51,6 @@ const getProjectsRecomended = async (id) => {
     .populate({ path: 'representant', select: 'firstname lastname email' })
     .populate({ path: 'team', select: 'firstname lastname email' })
     .exec();
-    const projectsParsed = clusteringService.transformProjectData(projects);
     const clusters = await clusterModel.find();
     const investor = await investorService.getInvestorById(id);
     const recommendedProjects = await clusteringService.recommendProjects(investor, {centroids: clusters.map(c => c.centroid)}, projects);
@@ -90,9 +89,7 @@ const createProject = async (projectBody) => {
   try {
     const project = new Project(projectBody);
     await project.save();
-    if(await Project.countDocuments() % 10 === 0) {
-      await clusterProjects();
-    }
+    await clusterProjects();
     return { status: 200, data: project };
   } catch (error) {
     console.log("error :>> ", error);
